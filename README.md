@@ -20,6 +20,19 @@ Complete Ironman Hamburg on June 7, 2026 with significant performance improvemen
 
 **Note:** Bike improvement of 47 minutes represents the largest opportunity for time gains, aligning with the primary training focus.
 
+## Training Plans
+
+Detailed weekly training schedules organized by cycle:
+
+- **[Cycle 1: Base Building](cycle-1-base-building.md)** ✅ - Weeks 1-4 (Nov 10 - Dec 7, 2025)
+- **[Cycle 2: Endurance Development](cycle-2-endurance-development.md)** 📋 - Weeks 5-8 (Dec 8 - Jan 4, 2026)
+- **[Cycle 3: Strength Integration](cycle-3-strength-integration.md)** 📋 - Weeks 9-12 (Jan 5 - Feb 1, 2026)
+- **[Cycle 4: Threshold Work](cycle-4-threshold-work.md)** 📋 - Weeks 13-16 (Feb 2 - Mar 1, 2026)
+- **[Cycle 5: Race-Specific Training](cycle-5-race-specific.md)** 📋 - Weeks 17-20 (Mar 2-29, 2026)
+- **[Cycle 6: Peak Development](cycle-6-peak-development.md)** 📋 - Weeks 21-24 (Mar 30 - Apr 26, 2026)
+- **[Cycle 7: Final Build](cycle-7-final-build.md)** 📋 - Weeks 25-28 (Apr 27 - May 24, 2026)
+- **[Taper Phase](taper-phase.md)** 📋 - Weeks 29-30 (May 25 - Jun 7, 2026)
+
 ## Training Philosophy
 
 This plan follows a structured periodization approach with **3 weeks of progressive build followed by 1 week of recovery**, allowing for optimal adaptation and preventing overtraining.
@@ -61,62 +74,89 @@ This plan follows a structured periodization approach with **3 weeks of progress
 
 ## Training Constraints & Resources
 
+### Weekly Structure
 - **Rest Day:** Monday (mandatory recovery)
-- **Gym Access:** Tuesday and Thursday
+- **Onsite Work Days:** Tuesday and Thursday (gym access)
 - **Pool Access:** 50m pool available
 - **Swim Sessions:**
   - Thursday (fixed)
   - One flexible session per week
+
+### Daily Schedule
+- **Work Hours:** 9:00-18:00 (flexible, remote except Tue/Thu)
+- **School Drop-off:** 7:30 daily
+- **School Pick-up:** Monday 18:30, Wednesday 16:00, Thursday 17:30
+- **Training Windows:**
+  - Morning: After 7:30 drop-off, before work
+  - Lunch: Flexible on remote days
+  - Evening: After 18:00 (limited Wed/Thu due to pick-up)
+  - Weekend: Flexible for long sessions
+
+### Training Time Availability
+- **Tuesday/Thursday:** Gym in morning (7:30-9:00), limited evening availability
+- **Wednesday:** Morning/lunch workouts preferred (pick-up at 16:00)
+- **Friday:** Flexible (remote work day)
+- **Saturday/Sunday:** Flexible for long bike rides and runs
+
+### Training Periodization
 - **Total Cycles:** 7 full build cycles + 2-week taper
 
 ## 30-Week Training Schedule
 
-### Cycle 1: Base Building
+### [Cycle 1: Base Building](cycle-1-base-building.md) ✅
 - **Week 1:** Build - Nov 10-16, 2025
 - **Week 2:** Build - Nov 17-23, 2025
 - **Week 3:** Build - Nov 24-30, 2025
-- **Week 4:** Recovery - Dec 1-7, 2025
+- **Week 4:** Recovery + Testing - Dec 1-7, 2025
+- **Status:** Detailed plan complete
 
-### Cycle 2: Endurance Development
+### [Cycle 2: Endurance Development](cycle-2-endurance-development.md) 📋
 - **Week 5:** Build - Dec 8-14, 2025
 - **Week 6:** Build - Dec 15-21, 2025
 - **Week 7:** Build - Dec 22-28, 2025
-- **Week 8:** Recovery - Dec 29, 2025 - Jan 4, 2026
+- **Week 8:** Recovery + Testing - Dec 29, 2025 - Jan 4, 2026
+- **Status:** To be developed
 
-### Cycle 3: Strength Integration
+### [Cycle 3: Strength Integration](cycle-3-strength-integration.md) 📋
 - **Week 9:** Build - Jan 5-11, 2026
 - **Week 10:** Build - Jan 12-18, 2026
 - **Week 11:** Build - Jan 19-25, 2026
-- **Week 12:** Recovery - Jan 26 - Feb 1, 2026
+- **Week 12:** Recovery + Testing - Jan 26 - Feb 1, 2026
+- **Status:** To be developed
 
-### Cycle 4: Threshold Work
+### [Cycle 4: Threshold Work](cycle-4-threshold-work.md) 📋
 - **Week 13:** Build - Feb 2-8, 2026
 - **Week 14:** Build - Feb 9-15, 2026
 - **Week 15:** Build - Feb 16-22, 2026
 - **Week 16:** Recovery - Feb 23 - Mar 1, 2026
+- **Status:** To be developed
 
-### Cycle 5: Race-Specific Training
+### [Cycle 5: Race-Specific Training](cycle-5-race-specific.md) 📋
 - **Week 17:** Build - Mar 2-8, 2026
 - **Week 18:** Build - Mar 9-15, 2026
 - **Week 19:** Build - Mar 16-22, 2026
-- **Week 20:** Recovery - Mar 23-29, 2026
+- **Week 20:** Recovery + Testing - Mar 23-29, 2026
+- **Status:** To be developed
 
-### Cycle 6: Peak Development
+### [Cycle 6: Peak Development](cycle-6-peak-development.md) 📋
 - **Week 21:** Build - Mar 30 - Apr 5, 2026
 - **Week 22:** Build - Apr 6-12, 2026
 - **Week 23:** Build - Apr 13-19, 2026
 - **Week 24:** Recovery - Apr 20-26, 2026
+- **Status:** To be developed
 
-### Cycle 7: Final Build
+### [Cycle 7: Final Build](cycle-7-final-build.md) 📋
 - **Week 25:** Build - Apr 27 - May 3, 2026
 - **Week 26:** Build - May 4-10, 2026
 - **Week 27:** Build - May 11-17, 2026
-- **Week 28:** Recovery - May 18-24, 2026
+- **Week 28:** Recovery + Testing - May 18-24, 2026
+- **Status:** To be developed
 
-### Taper Phase
+### [Taper Phase](taper-phase.md) 📋
 - **Week 29:** Taper - May 25-31, 2026
 - **Week 30:** Taper - Jun 1-7, 2026
   - **Race Day:** Sunday, June 7, 2026
+- **Status:** To be developed
 
 ## Training Zones
 
