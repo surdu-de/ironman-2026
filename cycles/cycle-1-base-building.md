@@ -36,7 +36,7 @@ This first cycle establishes the foundation for the entire training block throug
 **Current Baselines (Nov 10, 2025):**
 - **Bike FTP:** 195W (2.17 W/kg)
 - **Swim CSS:** 2:33/100m
-- **Run:** HR-based zones (see [README](README.md#training-zones))
+- **Run:** HR-based zones (see [README](../README.md#training-zones))
 
 **Note:** All zones will be updated after Week 4 testing (Dec 4-6, 2025)
 
@@ -44,7 +44,7 @@ This first cycle establishes the foundation for the entire training block throug
 
 ## Weekly Breakdown
 
-### [Week 1: Nov 10-16, 2025](weeks/week-01.md) - Build
+### [Week 1: Nov 10-16, 2025](../weeks/week-01.md) - Build
 **Volume:** 10h45 (9 sessions)
 - Swim: 4200m (2h) - 2 sessions
 - Bike: 140km (4h15) - 3 sessions
@@ -53,7 +53,7 @@ This first cycle establishes the foundation for the entire training block throug
 
 ---
 
-### [Week 2: Nov 17-23, 2025](weeks/week-02.md) - Build
+### [Week 2: Nov 17-23, 2025](../weeks/week-02.md) - Build
 **Volume:** 13h (10 sessions)
 - Swim: 5000m (2h) - 2 sessions
 - Bike: 160km (5h30) - 3 sessions
@@ -62,7 +62,7 @@ This first cycle establishes the foundation for the entire training block throug
 
 ---
 
-### [Week 3: Nov 24-30, 2025](weeks/week-03.md) - Build (Peak)
+### [Week 3: Nov 24-30, 2025](../weeks/week-03.md) - Build (Peak)
 **Volume:** 14h45 (11 sessions)
 - Swim: 5800m (2h10) - 2 sessions
 - Bike: 190km (6h45) - 4 sessions
@@ -73,7 +73,7 @@ This first cycle establishes the foundation for the entire training block throug
 
 ---
 
-### [Week 4: Dec 1-7, 2025](weeks/week-04.md) - Recovery + Testing
+### [Week 4: Dec 1-7, 2025](../weeks/week-04.md) - Recovery + Testing
 **Volume:** 6-8h (7 sessions including 3 tests)
 - Swim: 2000m + CSS test
 - Bike: 1h45 + FTP test
@@ -95,7 +95,7 @@ This first cycle establishes the foundation for the entire training block throug
 - Saturday: Run Threshold Test
 
 **After Testing:**
-1. Record new baseline values in [README](README.md#current-training-baseline)
+1. Record new baseline values in [README](../README.md#current-training-baseline)
 2. Update training zones for Cycle 2
 3. Rest and recover on Sunday
 4. Begin [Cycle 2: Endurance Development](cycle-2-endurance-development.md)
