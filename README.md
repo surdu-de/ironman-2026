@@ -42,7 +42,7 @@ This plan follows a structured periodization approach with **3 weeks of progress
 
 | Cycle | Weeks | Dates | Status |
 |-------|-------|-------|--------|
-| [Cycle 1: Base Building](cycles/cycle-1-base-building.md) | 1-4 | Nov 10 - Dec 7, 2025 | ✅ |
+| [Cycle 1: Base Building](cycles/cycle-1-base-building.md) | 1-4 | Nov 10 - Dec 7, 2025 | 🚧 |
 | [Cycle 2: Endurance Development](cycles/cycle-2-endurance-development.md) | 5-8 | Dec 8 - Jan 4, 2026 | 📋 |
 | [Cycle 3: Strength Integration](cycles/cycle-3-strength-integration.md) | 9-12 | Jan 5 - Feb 1, 2026 | 📋 |
 | [Cycle 4: Threshold Work](cycles/cycle-4-threshold-work.md) | 13-16 | Feb 2 - Mar 1, 2026 | 📋 |
