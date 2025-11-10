@@ -59,3 +59,8 @@ Training location is Hamburg, Germany - the same city as the race. This enables:
 - Training on actual race course sections
 - Adaptation to local weather patterns
 - Mental preparation through course visualization
+
+## Repository Setup
+
+- **Obsidian Integration:** This project is symlinked to `/Users/razvan.surdu/Brain/40 projects/ironman-2026` for viewing all markdown files within the Obsidian vault
+- All training plans, weekly schedules, and documentation are accessible through Obsidian for easy note-taking and cross-referencing
