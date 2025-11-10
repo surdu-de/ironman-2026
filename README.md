@@ -79,8 +79,9 @@ This plan follows a structured periodization approach with **3 weeks of progress
 - **Onsite Work Days:** Tuesday and Thursday (gym access)
 - **Pool Access:** 50m pool available
 - **Swim Sessions:**
-  - Thursday (fixed)
+  - Thursday (fixed, 20:00-21:00)
   - One flexible session per week
+  - Should NOT be scheduled back-to-back days (need rest between swim sessions)
 
 ### Daily Schedule
 - **Work Hours:** 9:00-18:00 (flexible, remote except Tue/Thu)

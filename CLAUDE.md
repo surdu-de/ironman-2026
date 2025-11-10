@@ -13,7 +13,8 @@ This is a personal training planning repository for completing Ironman Hamburg o
 - **Weekly Constraints:**
   - Monday: Rest day (mandatory)
   - Tuesday/Thursday: Onsite work days with gym access (gym must be morning sessions)
-  - Thursday: Fixed swim session
+  - Thursday: Fixed swim session (20:00-21:00)
+  - Swim sessions should NOT be scheduled back-to-back days (need rest between swim sessions)
   - 50m pool available
 
 ## Daily Schedule & Constraints

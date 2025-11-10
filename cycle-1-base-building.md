@@ -26,15 +26,15 @@ This first cycle establishes the foundation for the entire training block:
 **Total Volume:** ~10-11 hours
 **Focus:** Establish routine, technique work
 
-| Day | Morning (6:00-7:15) | Lunch (12:00-13:30) | Evening | Notes |
-|-----|---------------------|---------------------|---------|-------|
-| **Mon Nov 10** | - | - | **REST DAY** | Complete rest, pick-up 18:30 |
-| **Tue Nov 11** | **Run:** 60min Z2<br>• 6:15-7:15<br>• ~8-9km, easy conversational pace | **Gym:** Full body (onsite)<br>• 60min<br>• Squats 3x10, Deadlifts 3x8<br>• Core 15min | **Bike:** 60min Z2 trainer<br>• After 18:30<br>• 10min warmup, 45min steady, 5min cooldown | Onsite work day, 3 sessions |
-| **Wed Nov 12** | - | **Swim:** 60min<br>• 2000m technique<br>• 400m warmup, 8x50m drills<br>• 4x200m Z2, 200m cooldown | - | Remote day, pick-up 16:00 |
-| **Thu Nov 13** | - | **Gym:** Upper body + core (onsite)<br>• 60min<br>• Pull-ups/rows 3x8<br>• Push-ups 3x10, Core 20min | **Swim:** 2200m (FIXED)<br>• 20:00-21:00<br>• 400m warmup, 6x100m technique<br>• 4x300m Z2-Z3, 200m cooldown | Onsite work day, pick-up 17:30 |
-| **Fri Nov 14** | **Bike:** 75min Z2<br>• 6:00-7:15<br>• Trainer or outdoor<br>• Easy endurance pace | - | - | Remote day, early finish 17:00 |
-| **Sat Nov 15** | **Bike:** 2h30 long ride Z2<br>• ~65-70km outdoor<br>• 15min warmup, 2h steady Z2, 15min cooldown<br>• **Nutrition practice:** 60g carbs/hour | - | - | Flexible timing |
-| **Sun Nov 16** | **Run:** 90min long run Z2<br>• ~13-15km<br>• Easy aerobic pace, focus on endurance | - | - | Flexible timing |
+| Day | Workouts | Notes |
+|-----|----------|-------|
+| **Mon Nov 10** | **REST DAY** | Complete rest, pick-up 18:30 |
+| **Tue Nov 11** | **Morning (6:15-7:15):** Run 60min Z2 (~8-9km, easy conversational pace)<br>**Evening (19:00-20:00):** Swim 60min, 2000m technique (400m warmup, 8x50m drills, 4x200m Z2, 200m cooldown) | Onsite work day, pick-up 18:30 then swim |
+| **Wed Nov 12** | **Lunch (12:00-13:00):** Home Bodyweight Workout 45-50min (squats 3x15, Bulgarian split squats 3x10/leg, push-ups 3x12-15, pike push-ups 3x8-10, core 15min)<br>**Afternoon (14:00-15:00):** Bike 60min Z2 trainer (10min warmup, 45min steady, 5min cooldown) | Remote day, GYM CLOSED - bodyweight at home, pick-up 16:00 |
+| **Thu Nov 13** | **Lunch (12:00-13:30):** Gym Upper body + core 60min (pull-ups/rows 3x8, push-ups 3x10, core 20min)<br>**Evening (20:00-21:00):** Swim 2200m FIXED (400m warmup, 6x100m technique, 4x300m Z2-Z3, 200m cooldown) | Onsite work day, pick-up 17:30 |
+| **Fri Nov 14** | **Morning (6:00-7:15):** Bike 75min Z2 (trainer or outdoor, easy endurance pace) | Remote day, early finish 17:00 |
+| **Sat Nov 15** | **Bike:** 2h30 long ride Z2 (~65-70km outdoor, 15min warmup, 2h steady Z2, 15min cooldown, **Nutrition practice:** 60g carbs/hour) | Flexible timing |
+| **Sun Nov 16** | **Run:** 90min long run Z2 (~13-15km, easy aerobic pace, focus on endurance) | Flexible timing |
 
 **Weekly Totals:** Swim 4200m (~2h) • Bike ~4h15 (~140km) • Run ~2h30 (~22-24km) • Gym 2 sessions (~2h) • **Total: ~10h45**
 
@@ -45,15 +45,15 @@ This first cycle establishes the foundation for the entire training block:
 **Total Volume:** ~12-13 hours
 **Focus:** Volume increase, aerobic development
 
-| Day | Morning (6:00-7:15) | Lunch (12:00-13:30) | Evening | Notes |
-|-----|---------------------|---------------------|---------|-------|
-| **Mon Nov 17** | - | - | **REST DAY** | Complete rest |
-| **Tue Nov 18** | **Run:** 70min Z2<br>• 6:00-7:10<br>• ~10-11km, easy pace | **Gym:** Full body (onsite)<br>• 60min<br>• Squats 3x10, Deadlifts 3x8<br>• Lunges 3x10, Core 15min | **Bike:** 75min Z2 with tempo<br>• After 18:30<br>• 3x5min Z3 tempo efforts<br>• (5min Z3, 5min Z2 recovery) | Onsite work day |
-| **Wed Nov 19** | - | **Swim:** 60min<br>• 2400m<br>• 400m warmup, 10x50m drills<br>• 6x200m Z2, 200m cooldown | **Run:** 45min Z2 + strides<br>• After 16:30<br>• 35min easy + 6x20s strides | Remote day, extra evening run |
-| **Thu Nov 20** | - | **Gym:** Upper body + core (onsite)<br>• 60min<br>• Pull-ups/rows 3x10<br>• Push-ups 3x12, Core 20min | **Swim:** 2600m (FIXED)<br>• 20:00-21:00<br>• 400m warmup, 8x100m progression<br>• 3x400m Z2-Z3, 200m cooldown | Onsite work day |
-| **Fri Nov 21** | **Bike:** 75min Z2<br>• 6:00-7:15<br>• Steady endurance | - | - | Remote day |
-| **Sat Nov 22** | **Bike:** 3h long ride Z2<br>• ~75-80km<br>• Nutrition practice: 60-70g carbs/hour | - | - | Progressive volume increase |
-| **Sun Nov 23** | **Run:** 100min long run Z2<br>• ~15-17km<br>• Consistent easy effort | - | - | Build endurance base |
+| Day | Workouts | Notes |
+|-----|----------|-------|
+| **Mon Nov 17** | **REST DAY** | Complete rest |
+| **Tue Nov 18** | **Morning (6:00-7:10):** Run 70min Z2 (~10-11km, easy pace)<br>**Lunch (12:00-13:30):** Gym Full body 60min (squats 3x10, deadlifts 3x8, lunges 3x10, core 15min)<br>**Evening (after 18:30):** Bike 75min Z2 with tempo (3x5min Z3 tempo efforts, 5min Z2 recovery between) | Onsite work day |
+| **Wed Nov 19** | **Lunch (12:00-13:30):** Swim 60min, 2400m (400m warmup, 10x50m drills, 6x200m Z2, 200m cooldown)<br>**Evening (after 16:30):** Run 45min Z2 + strides (35min easy + 6x20s strides) | Remote day, extra evening run |
+| **Thu Nov 20** | **Lunch (12:00-13:30):** Gym Upper body + core 60min (pull-ups/rows 3x10, push-ups 3x12, core 20min)<br>**Evening (20:00-21:00):** Swim 2600m FIXED (400m warmup, 8x100m progression, 3x400m Z2-Z3, 200m cooldown) | Onsite work day |
+| **Fri Nov 21** | **Morning (6:00-7:15):** Bike 75min Z2 (steady endurance) | Remote day |
+| **Sat Nov 22** | **Bike:** 3h long ride Z2 (~75-80km, **Nutrition practice:** 60-70g carbs/hour) | Progressive volume increase |
+| **Sun Nov 23** | **Run:** 100min long run Z2 (~15-17km, consistent easy effort) | Build endurance base |
 
 **Weekly Totals:** Swim 5000m (~2h) • Bike ~5h30 (~160km) • Run ~3h35 (~31-34km) • Gym 2 sessions (~2h) • **Total: ~13h**
 
@@ -64,15 +64,15 @@ This first cycle establishes the foundation for the entire training block:
 **Total Volume:** ~14-15 hours
 **Focus:** Peak volume, intensity introduction
 
-| Day | Morning (6:00-7:15) | Lunch (12:00-13:30) | Evening | Notes |
-|-----|---------------------|---------------------|---------|-------|
-| **Mon Nov 24** | - | - | **REST DAY** | Complete rest |
-| **Tue Nov 25** | **Run:** 70min Z2 with tempo<br>• 6:00-7:10<br>• 50min easy + 15min Z3 tempo | **Gym:** Full body (onsite)<br>• 60min<br>• Squats 3x12, Deadlifts 3x10<br>• Single-leg work, Core 15min | **Bike:** 90min sweet spot<br>• After 18:30<br>• 3x10min @ 88-90% FTP<br>• (172-175W, 5min recovery) | Onsite work day, quality session |
-| **Wed Nov 26** | - | **Swim:** 65min<br>• 2800m<br>• 400m warmup, 8x50m drills<br>• 8x200m Z3, 200m cooldown | - | Remote day |
-| **Thu Nov 27** | - | **Gym:** Upper body + core (onsite)<br>• 60min<br>• Pull-ups/rows 4x10<br>• Push-ups 4x12, Shoulders, Core | **Swim:** 3000m (FIXED)<br>• 20:00-21:00<br>• 400m warmup, 10x100m mixed<br>• 4x400m Z2-Z3, 4x50m fast | Onsite work day |
-| **Fri Nov 28** | **Bike:** 75min Z2<br>• 6:00-7:15<br>• Easy endurance | - | **Run:** 45min Z2<br>• After 17:00<br>• Easy recovery run | Remote day, early finish |
-| **Sat Nov 29** | **Bike:** 3h30 long ride Z2<br>• ~90-95km<br>• Nutrition: 70g carbs/hour<br>• Peak long ride | - | - | Peak bike volume |
-| **Sun Nov 30** | **Brick Workout:**<br>• **Bike:** 90min Z2 (~45km)<br>• Quick transition (5min)<br>• **Run:** 45min Z2 off the bike<br>• Practice race-day transitions | - | - | Key brick session |
+| Day | Workouts | Notes |
+|-----|----------|-------|
+| **Mon Nov 24** | **REST DAY** | Complete rest |
+| **Tue Nov 25** | **Morning (6:00-7:10):** Run 70min Z2 with tempo (50min easy + 15min Z3 tempo)<br>**Lunch (12:00-13:30):** Gym Full body 60min (squats 3x12, deadlifts 3x10, single-leg work, core 15min)<br>**Evening (after 18:30):** Bike 90min sweet spot (3x10min @ 88-90% FTP / 172-175W, 5min recovery between) | Onsite work day, quality session |
+| **Wed Nov 26** | **Lunch (12:00-13:30):** Swim 65min, 2800m (400m warmup, 8x50m drills, 8x200m Z3, 200m cooldown) | Remote day |
+| **Thu Nov 27** | **Lunch (12:00-13:30):** Gym Upper body + core 60min (pull-ups/rows 4x10, push-ups 4x12, shoulders, core)<br>**Evening (20:00-21:00):** Swim 3000m FIXED (400m warmup, 10x100m mixed, 4x400m Z2-Z3, 4x50m fast) | Onsite work day |
+| **Fri Nov 28** | **Morning (6:00-7:15):** Bike 75min Z2 (easy endurance)<br>**Evening (after 17:00):** Run 45min Z2 (easy recovery run) | Remote day, early finish |
+| **Sat Nov 29** | **Bike:** 3h30 long ride Z2 (~90-95km, **Nutrition:** 70g carbs/hour, peak long ride) | Peak bike volume |
+| **Sun Nov 30** | **Brick Workout:** Bike 90min Z2 (~45km) → Quick transition (5min) → Run 45min Z2 off the bike (practice race-day transitions) | Key brick session |
 
 **Weekly Totals:** Swim 5800m (~2h10) • Bike ~6h45 (~190km) • Run ~3h40 (~29-32km) • Gym 2 sessions (~2h) • **Total: ~14h45**
 
@@ -83,15 +83,15 @@ This first cycle establishes the foundation for the entire training block:
 **Total Volume:** ~6-8 hours
 **Focus:** Recovery, performance assessment, zone updates
 
-| Day | Morning (6:00-7:15) | Lunch (12:00-13:30) | Evening | Notes |
-|-----|---------------------|---------------------|---------|-------|
-| **Mon Dec 1** | - | - | **REST DAY** | Complete rest |
-| **Tue Dec 2** | - | **Gym:** Light mobility (onsite)<br>• 45min<br>• Dynamic stretching 15min<br>• Core maintenance 15min<br>• Light strength | **Bike:** 45min Z1-Z2<br>• After 18:30<br>• Easy recovery spinning | Onsite work day, recovery focus |
-| **Wed Dec 3** | - | **Swim:** 45min easy<br>• 2000m technique<br>• 400m warmup, 10x100m drills<br>• 600m continuous Z2, 200m cooldown | - | Remote day, light volume |
-| **Thu Dec 4** | - | - | **TESTING DAY**<br>• **CSS Test:** 20:00-21:00<br>• 400m warmup<br>• 400m time trial (rest 10min)<br>• 200m time trial<br>• 200m cooldown<br>• Record times | Test day - swim CSS |
-| **Fri Dec 5** | - | - | **FTP Test:** After 17:00<br>• 60min total<br>• 20min warmup progressive<br>• 5min @ 100% FTP, 5min easy<br>• **20min ALL-OUT** (record avg power)<br>• 10min cooldown<br>• **FTP = 95% of 20min avg** | Critical bike test |
-| **Sat Dec 6** | **Run Threshold Test:**<br>• 60min total<br>• 15min warmup Z1-Z2<br>• **30min TIME TRIAL** (all-out)<br>• Record avg HR and pace<br>• 10min cooldown | - | - | Run threshold assessment |
-| **Sun Dec 7** | **Easy recovery:**<br>• 60min bike Z1 OR 40min run Z1<br>• Very low effort, active recovery | - | - | Complete recovery week |
+| Day | Workouts | Notes |
+|-----|----------|-------|
+| **Mon Dec 1** | **REST DAY** | Complete rest |
+| **Tue Dec 2** | **Lunch (12:00-13:30):** Gym Light mobility 45min (dynamic stretching 15min, core maintenance 15min, light strength)<br>**Evening (after 18:30):** Bike 45min Z1-Z2 (easy recovery spinning) | Onsite work day, recovery focus |
+| **Wed Dec 3** | **Lunch (12:00-13:30):** Swim 45min easy, 2000m technique (400m warmup, 10x100m drills, 600m continuous Z2, 200m cooldown) | Remote day, light volume |
+| **Thu Dec 4** | **Evening (20:00-21:00):** **CSS TEST** - 400m warmup, 400m time trial, 10min rest, 200m time trial, 200m cooldown (record times) | Test day - swim CSS |
+| **Fri Dec 5** | **Evening (after 17:00):** **FTP TEST** - 60min total (20min warmup progressive, 5min @ 100% FTP, 5min easy, **20min ALL-OUT**, 10min cooldown) - **FTP = 95% of 20min avg power** | Critical bike test |
+| **Sat Dec 6** | **Run Threshold Test:** 60min total (15min warmup Z1-Z2, **30min TIME TRIAL** all-out, 10min cooldown) - Record avg HR and pace | Run threshold assessment |
+| **Sun Dec 7** | **Easy recovery:** 60min bike Z1 OR 40min run Z1 (very low effort, active recovery) | Complete recovery week |
 
 **Weekly Totals:** Swim 2000m (~45min) + CSS test • Bike ~1h45 + FTP test • Run ~40min + threshold test • Gym 1 session (~45min) • **Total: ~6-8h**
 
