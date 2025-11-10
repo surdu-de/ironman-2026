@@ -23,8 +23,8 @@
 | ------------- | ----------- | ------------------------------------------------------ | -------- | ------ |
 | 01.12.2025 Mon| -           | Rest day                                               | -        | ⬜      |
 | 02.12.2025 Tue| 💪 Strength | [🍽️ Gym light mobility (stretching, core)](#tue-dec-2)| 45       | ⬜      |
-| 02.12.2025 Tue| 🚴 Bike     | [🌙 45min Z1-Z2 easy recovery](#tue-dec-2)             | 45       | ⬜      |
-| 03.12.2025 Wed| 🏊 Swim     | [🍽️ 2000m easy technique](#wed-dec-3)                 | 45       | ⬜      |
+| 02.12.2025 Tue| 🏊 Swim     | [🌙 2000m easy technique](#tue-dec-2)                  | 45       | ⬜      |
+| 03.12.2025 Wed| 🚴 Bike     | [☀️ 45min Z1-Z2 easy recovery](#wed-dec-3)             | 45       | ⬜      |
 | 04.12.2025 Thu| 🏊 Test     | [🌙 CSS TEST (400m + 200m TT)](#thu-dec-4)             | 45       | ⬜      |
 | 05.12.2025 Fri| 🚴 Test     | [🌙 FTP TEST (20min all-out)](#fri-dec-5)              | 60       | ⬜      |
 | 06.12.2025 Sat| 🏃 Test     | [Run Threshold TEST (30min TT)](#sat-dec-6)            | 60       | ⬜      |
@@ -37,18 +37,18 @@
 ## Detailed Workouts
 
 ##### Tue Dec 2
-###### 💪 Strength (12:00-13:30)
+###### 💪 Strength (12:00-12:45)
 Gym light mobility:
 - Dynamic stretching 15min
 - Core maintenance 15min
 - Light strength
 
-###### 🚴 Bike (after 18:30)
-45min Z1-Z2 easy recovery spinning
+###### 🏊 Swim (20:30-21:15)
+2000m easy technique - 400 warmup, 10x100 drills, 600 continuous Z2, 200 cooldown
 
 ##### Wed Dec 3
-###### 🏊 Swim (12:00-13:30)
-2000m easy technique - 400 warmup, 10x100 drills, 600 continuous Z2, 200 cooldown
+###### 🚴 Bike (12:00-12:45)
+45min Z1-Z2 easy recovery spinning
 
 ##### Thu Dec 4
 ###### 🏊 CSS TEST (20:00-21:00)

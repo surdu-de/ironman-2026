@@ -17,16 +17,17 @@ This first cycle establishes the foundation for the entire training block throug
 **Progress:** ⬜ ⬜ ⬜ ⬜ (0/4 weeks completed)
 
 ### Weekly Volume Progression
-- **Week 1:** ~10h45 (9 sessions) - Establish routine, technique work
-- **Week 2:** ~13h (10 sessions) - Volume increase, aerobic development
-- **Week 3:** ~14h45 (11 sessions) - Peak volume, intensity introduction
+- **Week 1:** ~9h15 (8 sessions) - Establish routine, technique work
+- **Week 2:** ~11h20 (10 sessions) - Volume increase, introduce threshold work
+- **Week 3:** ~12h55 (11 sessions) - Peak volume with threshold work
 - **Week 4:** ~6-8h (7 sessions) - Recovery + Testing
 
 ### Key Sessions
-- **Saturdays:** Long bike rides (2h30 → 3h → 3h30) - practice nutrition
-- **Sundays:** Long runs (90min → 100min) + Week 3 brick workout
+- **Saturdays:** Long bike rides (2h → 2h15 → 2h45) - practice nutrition
+- **Sundays:** Long runs (75min → 80min) + Week 3 brick workout
+- **Tuesday:** Threshold intensity sessions (Week 2-3: bike Z4, run Z4)
+- **Thursday Evenings:** Fixed swim slot (20:00-21:00) with VO2max work (Week 2-3)
 - **Tuesday/Thursday:** Gym strength sessions (maintain throughout cycle)
-- **Thursday Evenings:** Fixed swim slot (20:00-21:00)
 
 ### Nutrition Focus
 - **Build weeks:** 5-7g carbs/kg, 1.6-2.0g protein/kg
@@ -46,31 +47,35 @@ This first cycle establishes the foundation for the entire training block throug
 ## Weekly Breakdown
 
 ### [Week 1: Nov 10-16, 2025](../weeks/week-01.md) - Build
-**Volume:** 10h45 (9 sessions)
+**Volume:** 9h15 (8 sessions)
 - Swim: 4200m (2h) - 2 sessions
-- Bike: 140km (4h15) - 3 sessions
-- Run: 22-24km (2h30) - 2 sessions
-- Strength: 2h - 2 sessions
+- Bike: 115km (3h20) - 2 sessions
+- Run: 18-20km (2h05) - 2 sessions
+- Strength: 1h50 - 2 sessions
+
+**Key Changes:** Conservative start, swim moved to Saturday to avoid back-to-back with Thursday
 
 ---
 
 ### [Week 2: Nov 17-23, 2025](../weeks/week-02.md) - Build
-**Volume:** 13h (10 sessions)
-- Swim: 5000m (2h) - 2 sessions
-- Bike: 160km (5h30) - 3 sessions
-- Run: 31-34km (3h35) - 3 sessions
+**Volume:** 11h20 (10 sessions)
+- Swim: 4800m (2h) - 2 sessions (includes VO2max work)
+- Bike: 125km (4h15) - 3 sessions (includes threshold session)
+- Run: 26-28km (3h05) - 3 sessions
 - Strength: 2h - 2 sessions
+
+**Key Changes:** Introduce threshold intervals (Tue bike 4x6min Z4, Thu swim VO2max), swim moved to Tuesday evening
 
 ---
 
 ### [Week 3: Nov 24-30, 2025](../weeks/week-03.md) - Build (Peak)
-**Volume:** 14h45 (11 sessions)
-- Swim: 5800m (2h10) - 2 sessions
-- Bike: 190km (6h45) - 4 sessions
-- Run: 29-32km (3h40) - 3 sessions
+**Volume:** 12h55 (11 sessions)
+- Swim: 5200m (2h05) - 2 sessions (includes VO2max work)
+- Bike: 155km (5h30) - 4 sessions (includes threshold session)
+- Run: 28-30km (3h20) - 3 sessions (includes threshold session)
 - Strength: 2h - 2 sessions
 
-**Key Session:** Sunday brick workout (bike → run transition practice)
+**Key Changes:** Peak threshold work (Tue run 5x4min Z4, Tue bike 5x5min Z4-Z5, Thu swim VO2max), Sunday brick workout, swim moved to Saturday
 
 ---
 
@@ -80,6 +85,8 @@ This first cycle establishes the foundation for the entire training block throug
 - Bike: 1h45 + FTP test
 - Run: threshold test + 40min recovery
 - Strength: 45min light mobility
+
+**Key Changes:** Swim moved to Tuesday evening to avoid back-to-back with Thursday CSS test
 
 **Testing Schedule:**
 - **Thursday (Dec 4):** CSS Test (400m + 200m time trials)
