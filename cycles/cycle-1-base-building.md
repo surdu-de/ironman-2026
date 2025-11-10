@@ -13,6 +13,7 @@ This first cycle establishes the foundation for the entire training block throug
 - Refine technique (especially swimming)
 - Test and establish updated training zones for Cycle 2
 
+**Current Week:** [Week 1 - Build](../weeks/week-01.md) (Nov 10-16, 2025)
 **Progress:** ⬜ ⬜ ⬜ ⬜ (0/4 weeks completed)
 
 ### Weekly Volume Progression
