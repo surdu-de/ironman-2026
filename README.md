@@ -7,7 +7,18 @@
 
 ## Goal
 
-Complete Ironman Hamburg on June 7, 2026 with a focus on performance optimization across all three disciplines.
+Complete Ironman Hamburg on June 7, 2026 with significant performance improvements across all three disciplines.
+
+### Target Times
+
+| Discipline | Frankfurt 2024 | Hamburg 2026 Target | Improvement Needed |
+|------------|----------------|---------------------|-------------------|
+| **Swim** (3.8 km) | 1:57:53 | 1:50:00 | -7:53 |
+| **Bike** (180 km) | 7:17:16 | 6:30:00 | **-47:16** |
+| **Run** (42.2 km) | 4:51:28 | 4:30:00 | -21:28 |
+| **Total** | 14:24:58 | ~12:50:00 | **-1:34:58** |
+
+**Note:** Bike improvement of 47 minutes represents the largest opportunity for time gains, aligning with the primary training focus.
 
 ## Training Philosophy
 
@@ -18,6 +29,35 @@ This plan follows a structured periodization approach with **3 weeks of progress
 1. **Bike Performance** - Primary focus for time improvement
 2. **Run & VO2 Max** - Secondary focus for endurance and speed
 3. **Swim Technique** - Continuous refinement
+
+## Performance Data
+
+### Previous Race Result
+
+**Ironman Frankfurt 2024** - August 18, 2024
+- **Swim (3.8 km):** 1:57:53
+- **Bike (180.2 km):** 7:17:16
+- **Run (42.2 km):** 4:51:28
+- **Total Time:** 14:24:58
+- **Age Group:** ODIV
+
+### Current Training Baseline
+
+**Baseline Date:** November 10, 2025
+
+#### Physical Metrics
+- **Weight:** 90 kg
+
+#### Cycling
+- **FTP:** 195 W
+- **W/kg:** 2.17 W/kg
+- **Cycling VO2 Max:** 35
+
+#### Running
+- **Running VO2 Max:** 50
+
+#### Swimming
+- **Critical Swim Speed (CSS):** 2:33 min/100m
 
 ## Training Constraints & Resources
 
@@ -77,24 +117,6 @@ This plan follows a structured periodization approach with **3 weeks of progress
 - **Week 29:** Taper - May 25-31, 2026
 - **Week 30:** Taper - Jun 1-7, 2026
   - **Race Day:** Sunday, June 7, 2026
-
-## Weekly Structure Template (Draft)
-
-### Build Weeks
-- **Monday:** Rest Day
-- **Tuesday:** Bike Focus + Gym Strength
-- **Wednesday:** Run + Swim (flexible)
-- **Thursday:** Swim (fixed) + Gym Strength
-- **Friday:** Bike or Run
-- **Saturday:** Long Bike Session
-- **Sunday:** Long Run or Brick Workout
-
-### Recovery Weeks
-Reduced volume (50-60% of peak week) with focus on:
-- Active recovery sessions
-- Technique work
-- Mobility and flexibility
-- Mental preparation
 
 ## Training Zones
 
