@@ -23,12 +23,12 @@
 | -------------- | ----------- | -------------------------------------------------------------- | -------- | ------ |
 | 17.11.2025 Mon | -           | Rest day                                                       | -        | ⬜      |
 | 18.11.2025 Tue | 🏃 Run      | [⛅ 60min Z2, 9-10km](#tue-nov-18)                              | 60       | ⬜      |
-| 18.11.2025 Tue | 💪 Strength | [🍽️ Gym full body (squats, deadlifts)](#tue-nov-18)           | 60       | ⬜      |
-| 18.11.2025 Tue | 🚴 Bike     | [🌙 60min THRESHOLD (4x6min Z4)](#tue-nov-18)                  | 60       | ⬜      |
-| 18.11.2025 Tue | 🏊 Swim     | [🌙 2400m technique (6x200 Z2)](#tue-nov-18)                   | 60       | ⬜      |
+|                | 💪 Strength | [🍽️ Gym full body (squats, deadlifts)](#tue-nov-18)           | 60       | ⬜      |
+|                | 🚴 Bike     | [🌙 60min THRESHOLD (4x6min Z4)](#tue-nov-18)                  | 60       | ⬜      |
+|                | 🏊 Swim     | [🌙 2400m technique (6x200 Z2)](#tue-nov-18)                   | 60       | ⬜      |
 | 19.11.2025 Wed | 🏃 Run      | [☀️ 45min Z2 easy + strides (6x20s)](#wed-nov-19)              | 45       | ⬜      |
 | 20.11.2025 Thu | 💪 Strength | [🍽️ Gym upper body + core](#thu-nov-20)                       | 60       | ⬜      |
-| 20.11.2025 Thu | 🏊 Swim     | [🌙 2400m FIXED VO2max (10x100 T4, 8x50 T5)](#thu-nov-20)      | 60       | ⬜      |
+|                | 🏊 Swim     | [🌙 2400m FIXED VO2max (10x100 T4, 8x50 T5)](#thu-nov-20)      | 60       | ⬜      |
 | 21.11.2025 Fri | 🚴 Bike     | [⛅ 60min Z2 easy recovery](#fri-nov-21)                        | 60       | ⬜      |
 | 22.11.2025 Sat | 🚴 Bike     | [2h15 Z2 long, 60-65km, nutrition practice](#sat-nov-22)       | 135      | ⬜      |
 | 23.11.2025 Sun | 🏃 Run      | [80min Z2 long, 12-13km](#sun-nov-23)                          | 80       | ⬜      |

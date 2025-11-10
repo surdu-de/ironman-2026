@@ -23,7 +23,7 @@
 | ------------- | ----------- | ------------------------------------------------------ | -------- | ------ |
 | 01.12.2025 Mon| -           | Rest day                                               | -        | ⬜      |
 | 02.12.2025 Tue| 💪 Strength | [🍽️ Gym light mobility (stretching, core)](#tue-dec-2)| 45       | ⬜      |
-| 02.12.2025 Tue| 🏊 Swim     | [🌙 2000m easy technique](#tue-dec-2)                  | 45       | ⬜      |
+|               | 🏊 Swim     | [🌙 2000m easy technique](#tue-dec-2)                  | 45       | ⬜      |
 | 03.12.2025 Wed| 🚴 Bike     | [☀️ 45min Z1-Z2 easy recovery](#wed-dec-3)             | 45       | ⬜      |
 | 04.12.2025 Thu| 🏊 Test     | [🌙 CSS TEST (400m + 200m TT)](#thu-dec-4)             | 45       | ⬜      |
 | 05.12.2025 Fri| 🚴 Test     | [🌙 FTP TEST (20min all-out)](#fri-dec-5)              | 60       | ⬜      |

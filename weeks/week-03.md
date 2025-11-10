@@ -23,17 +23,17 @@
 | -------------- | ----------- | --------------------------------------------------------- | -------- | ------ |
 | 24.11.2025 Mon | -           | Rest day                                                  | -        | ⬜      |
 | 25.11.2025 Tue | 🏃 Run      | [⛅ 60min THRESHOLD (5x4min Z4)](#tue-nov-25)             | 60       | ⬜      |
-| 25.11.2025 Tue | 💪 Strength | [🍽️ Gym full body (squats, deadlifts)](#tue-nov-25)      | 60       | ⬜      |
-| 25.11.2025 Tue | 🚴 Bike     | [🌙 75min THRESHOLD (5x5min Z4-Z5)](#tue-nov-25)          | 75       | ⬜      |
+|                | 💪 Strength | [🍽️ Gym full body (squats, deadlifts)](#tue-nov-25)      | 60       | ⬜      |
+|                | 🚴 Bike     | [🌙 75min THRESHOLD (5x5min Z4-Z5)](#tue-nov-25)          | 75       | ⬜      |
 | 26.11.2025 Wed | 🏃 Run      | [☀️ 45min Z2 easy recovery](#wed-nov-26)                  | 45       | ⬜      |
 | 27.11.2025 Thu | 💪 Strength | [🍽️ Gym upper body + core](#thu-nov-27)                  | 60       | ⬜      |
-| 27.11.2025 Thu | 🏊 Swim     | [🌙 2800m FIXED VO2max (8x200 T4, 8x50 T5)](#thu-nov-27)  | 65       | ⬜      |
+|                | 🏊 Swim     | [🌙 2800m FIXED VO2max (8x200 T4, 8x50 T5)](#thu-nov-27)  | 65       | ⬜      |
 | 28.11.2025 Fri | 🚴 Bike     | [⛅ 60min Z2 easy recovery](#fri-nov-28)                   | 60       | ⬜      |
-| 28.11.2025 Fri | 🏃 Run      | [🌙 45min Z2 easy recovery](#fri-nov-28)                  | 45       | ⬜      |
+|                | 🏃 Run      | [🌙 45min Z2 easy recovery](#fri-nov-28)                  | 45       | ⬜      |
 | 29.11.2025 Sat | 🏊 Swim     | [⛅ 2400m technique (6x200 Z2)](#sat-nov-29)              | 60       | ⬜      |
-| 29.11.2025 Sat | 🚴 Bike     | [2h45 Z2 long, 70-75km, nutrition practice](#sat-nov-29)  | 165      | ⬜      |
+|                | 🚴 Bike     | [2h45 Z2 long, 70-75km, nutrition practice](#sat-nov-29)  | 165      | ⬜      |
 | 30.11.2025 Sun | 🚴 Bike     | [🔗 Brick: 90min Z2 bike (45km)](#sun-nov-30)             | 90       | ⬜      |
-| 30.11.2025 Sun | 🏃 Run      | [🔗 Brick: 45min Z2 off bike](#sun-nov-30)                | 45       | ⬜      |
+|                | 🏃 Run      | [🔗 Brick: 45min Z2 off bike](#sun-nov-30)                | 45       | ⬜      |
 
 **Weekly Total:** 770 minutes (~12h50)
 

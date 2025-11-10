@@ -25,10 +25,10 @@
 | 11.11.2025 Tue | 🏃 Run      | [⛅ 50min Z2, 7-8km (easy conversational)](#tue-nov-11)          | 50       | ⬜      |
 | 12.11.2025 Wed | 🚴 Bike     | [☀️ 60min Z2 trainer](#wed-nov-12)                              | 60       | ⬜      |
 | 13.11.2025 Thu | 💪 Strength | [🍽️ Gym full body (squats, upper body, core)](#thu-nov-13)     | 60       | ⬜      |
-| 13.11.2025 Thu | 🏊 Swim     | [🌙 2200m FIXED (4x300 Z2-Z3)](#thu-nov-13)                     | 60       | ⬜      |
+|                | 🏊 Swim     | [🌙 2200m FIXED (4x300 Z2-Z3)](#thu-nov-13)                     | 60       | ⬜      |
 | 14.11.2025 Fri | 🚴 Bike     | [⛅ 60min Z2 (trainer or outdoor)](#fri-nov-14)                  | 60       | ⬜      |
 | 15.11.2025 Sat | 🏊 Swim     | [⛅ 2000m technique (4x200 Z2)](#sat-nov-15)                    | 60       | ⬜      |
-| 15.11.2025 Sat | 🚴 Bike     | [2h Z2 long, 55-60km, nutrition practice](#sat-nov-15)          | 120      | ⬜      |
+|                | 🚴 Bike     | [2h Z2 long, 55-60km, nutrition practice](#sat-nov-15)          | 120      | ⬜      |
 | 16.11.2025 Sun | 🏃 Run      | [75min Z2 long, 11-12km](#sun-nov-16)                           | 75       | ⬜      |
 
 **Weekly Total:** 505 minutes (~8h25)
