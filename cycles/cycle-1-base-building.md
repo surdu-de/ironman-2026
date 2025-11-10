@@ -17,7 +17,7 @@ This first cycle establishes the foundation for the entire training block throug
 **Progress:** ⬜ ⬜ ⬜ ⬜ (0/4 weeks completed)
 
 ### Weekly Volume Progression
-- **Week 1:** ~9h15 (8 sessions) - Establish routine, technique work
+- **Week 1:** ~8h25 (7 sessions) - Establish routine, technique work
 - **Week 2:** ~11h20 (10 sessions) - Volume increase, introduce threshold work
 - **Week 3:** ~12h55 (11 sessions) - Peak volume with threshold work
 - **Week 4:** ~6-8h (7 sessions) - Recovery + Testing
@@ -47,13 +47,13 @@ This first cycle establishes the foundation for the entire training block throug
 ## Weekly Breakdown
 
 ### [Week 1: Nov 10-16, 2025](../weeks/week-01.md) - Build
-**Volume:** 9h15 (8 sessions)
+**Volume:** 8h25 (7 sessions)
 - Swim: 4200m (2h) - 2 sessions
 - Bike: 115km (3h20) - 2 sessions
 - Run: 18-20km (2h05) - 2 sessions
-- Strength: 1h50 - 2 sessions
+- Strength: 1h - 1 session (full body)
 
-**Key Changes:** Conservative start, swim moved to Saturday to avoid back-to-back with Thursday
+**Key Changes:** Conservative start, single full-body strength session on Thursday (onsite day), swim moved to Saturday to avoid back-to-back with Thursday
 
 ---
 

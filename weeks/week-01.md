@@ -11,8 +11,8 @@
 ## Week Overview
 |              | Swim   | Bike  | Run     | Strength | Total |
 |--------------|--------|-------|---------|----------|-------|
-| **Sessions** | 2      | 2     | 2       | 2        | 8     |
-| **Time**     | 2h     | 3h20  | 2h05    | 1h50     | 9h15  |
+| **Sessions** | 2      | 2     | 2       | 1        | 7     |
+| **Time**     | 2h     | 3h20  | 2h05    | 1h       | 8h25  |
 | **Distance** | 4200m  | 115km | 18-20km | -        | -     |
 
 ---
@@ -23,16 +23,15 @@
 | -------------- | ----------- | --------------------------------------------------------------- | -------- | ------ |
 | 10.11.2025 Mon | -           | Rest day                                                        | -        | ⬜      |
 | 11.11.2025 Tue | 🏃 Run      | [⛅ 50min Z2, 7-8km (easy conversational)](#tue-nov-11)          | 50       | ⬜      |
-| 12.11.2025 Wed | 💪 Strength | [🍽️ Bodyweight home (squats, split squats, core)](#wed-nov-12) | 50       | ⬜      |
 | 12.11.2025 Wed | 🚴 Bike     | [☀️ 60min Z2 trainer](#wed-nov-12)                              | 60       | ⬜      |
-| 13.11.2025 Thu | 💪 Strength | [🍽️ Gym upper body + core](#thu-nov-13)                        | 60       | ⬜      |
+| 13.11.2025 Thu | 💪 Strength | [🍽️ Gym full body (squats, upper body, core)](#thu-nov-13)     | 60       | ⬜      |
 | 13.11.2025 Thu | 🏊 Swim     | [🌙 2200m FIXED (4x300 Z2-Z3)](#thu-nov-13)                     | 60       | ⬜      |
 | 14.11.2025 Fri | 🚴 Bike     | [⛅ 60min Z2 (trainer or outdoor)](#fri-nov-14)                  | 60       | ⬜      |
 | 15.11.2025 Sat | 🏊 Swim     | [⛅ 2000m technique (4x200 Z2)](#sat-nov-15)                    | 60       | ⬜      |
 | 15.11.2025 Sat | 🚴 Bike     | [2h Z2 long, 55-60km, nutrition practice](#sat-nov-15)          | 120      | ⬜      |
 | 16.11.2025 Sun | 🏃 Run      | [75min Z2 long, 11-12km](#sun-nov-16)                           | 75       | ⬜      |
 
-**Weekly Total:** 595 minutes (~9h55)
+**Weekly Total:** 505 minutes (~8h25)
 
 ---
 
@@ -43,20 +42,14 @@
 50min Z2, 7-8km easy conversational pace
 
 ##### Wed Nov 12
-###### 💪 Strength (12:00-12:50)
-Home bodyweight:
-- Squats 3x15
-- Bulgarian split squats 3x10/leg
-- Push-ups 3x12-15
-- Pike push-ups 3x8-10
-- Core 15min
-
-###### 🚴 Bike (14:00-15:00)
+###### 🚴 Bike (12:00-13:00)
 60min Z2 trainer - 10min warmup, 45min steady, 5min cooldown
 
 ##### Thu Nov 13
 ###### 💪 Strength (12:00-13:00)
-Gym upper/core:
+Gym full body:
+- Squats 3x12
+- Deadlifts 3x8
 - Pull-ups/rows 3x8
 - Push-ups 3x10
 - Core 20min
@@ -81,7 +74,7 @@ Gym upper/core:
 
 ---
 
-**Weekly Totals:** Swim 4200m (2h) • Bike 3h20 (115km) • Run 2h05 (18-20km) • Strength 1h50 • **Total: 9h15**
+**Weekly Totals:** Swim 4200m (2h) • Bike 3h20 (115km) • Run 2h05 (18-20km) • Strength 1h • **Total: 8h25**
 
 ---
 
