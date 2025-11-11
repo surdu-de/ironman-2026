@@ -65,3 +65,68 @@ Training location is Hamburg, Germany - the same city as the race. This enables:
 
 - **Obsidian Integration:** This project is symlinked to `/Users/razvan.surdu/Brain/40 projects/ironman-2026` for viewing all markdown files within the Obsidian vault
 - All training plans, weekly schedules, and documentation are accessible through Obsidian for easy note-taking and cross-referencing
+
+## Workout Template System
+
+### Structure
+The project uses a reusable workout template system organized in the `workouts/` directory:
+
+```
+workouts/
+├── run/          # Run workout templates
+├── bike/         # Bike workout templates
+├── swim/         # Swim workout templates
+├── strength/     # Strength training templates
+└── brick/        # Brick (multi-sport) workout templates
+```
+
+### Usage in Weekly Files
+
+**Weekly Schedule Table:**
+```markdown
+| Date | Activity | Workout Template | Time Slot | Duration | Status |
+|------|----------|------------------|-----------|----------|--------|
+| Tue  | Run      | [[workouts/run/easy-aerobic-50min\|Easy Aerobic 50min]] | ⛅ 6:15 | 50 | ⬜ |
+```
+
+**Detailed Workouts Section:**
+```markdown
+### Tue Nov 11 ✅
+**Workout:** [[workouts/run/easy-aerobic-50min|Easy Aerobic Run 50min]]
+**Time:** 6:15-7:05
+
+**Actual Performance:**
+- activity:: Run
+- date:: 2025-11-11
+- duration-actual:: 51.4
+- distance-actual:: 8.15
+- avg-hr:: 145
+- status:: completed
+```
+
+### Template Naming Conventions
+- Use descriptive lowercase filenames with hyphens: `easy-aerobic-50min.md`
+- Include workout type, intensity/category, and duration where applicable
+- Examples: `z2-trainer-60min.md`, `vo2max-intervals-2200m.md`, `full-body-gym.md`
+
+### Template Frontmatter
+Each template includes structured YAML frontmatter with:
+- **Workout metadata:** type, category, name, default duration/distance
+- **Intensity zones:** primary zone, HR/power/pace ranges
+- **Structure:** continuous/intervals, warmup/main/cooldown details
+- **Focus areas:** training emphasis, equipment needs, scalability
+- **Constraints:** suitable phases, weather dependency, scheduling restrictions
+
+### Benefits
+1. **Consistency** - Standardized workout definitions across all 30 weeks
+2. **Reusability** - Define once, reference many times
+3. **Robust Linking** - Obsidian-style links are not time-dependent (unlike header anchors)
+4. **Maintainability** - Update workout template once, affects all week references
+5. **Dataview Integration** - Rich metadata enables powerful queries and dashboards
+
+### Guidelines for Claude
+- When creating new weekly schedules, reference existing workout templates
+- Time slots in weekly schedule are separate from template (kept in week file)
+- Actual performance data (dataview fields) stays in weekly files, not templates
+- Create new templates only when a unique workout pattern is needed
+- See `workouts/README.md` for complete documentation
