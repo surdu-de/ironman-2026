@@ -45,6 +45,26 @@
 
 ---
 
+## Training Log
+
+### Week 1: Nov 10-16, 2025
+
+#### Completed Sessions
+
+**Tuesday Nov 11 - Run**
+- **Distance:** 8.15 km
+- **Duration:** 51:24
+- **Avg HR:** 145 bpm (Z2)
+- **Max HR:** 152 bpm
+- **Avg Pace:** 6:18/km
+- **Best Pace:** 4:52/km
+- **Avg Cadence:** 173 spm
+- **Aerobic TE:** 3.2
+- **Calories:** 718
+- **Status:** ✅ Completed within targets (50min Z2, 7-8km)
+
+---
+
 ## Testing History
 
 Track performance improvements through the training cycle:

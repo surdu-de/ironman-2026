@@ -15,14 +15,14 @@
 | **Time**     | 2h     | 3h20  | 2h05    | 1h       | 8h25  |
 | **Distance** | 4200m  | 115km | 18-20km | -        | -     |
 
----
+**Progress:** ✅ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ (1/7 days completed)
 
 ## Weekly Schedule
 
 | Date           | Activity    | Description                                                     | Duration | Status |
 | -------------- | ----------- | --------------------------------------------------------------- | -------- | ------ |
 | 10.11.2025 Mon | -           | Rest day                                                        | -        | ⬜      |
-| 11.11.2025 Tue | 🏃 Run      | [⛅ 50min Z2, 7-8km (easy conversational)](#tue-nov-11)          | 50       | ⬜      |
+| 11.11.2025 Tue | 🏃 Run      | [⛅ 50min Z2, 7-8km (easy conversational)](#tue-nov-11)          | 50       | ✅      |
 | 12.11.2025 Wed | 🚴 Bike     | [☀️ 60min Z2 trainer](#wed-nov-12)                              | 60       | ⬜      |
 | 13.11.2025 Thu | 💪 Strength | [🍽️ Gym full body (squats, upper body, core)](#thu-nov-13)     | 60       | ⬜      |
 |                | 🏊 Swim     | [🌙 2200m FIXED (4x300 Z2-Z3)](#thu-nov-13)                     | 60       | ⬜      |
@@ -38,8 +38,10 @@
 ## Detailed Workouts
 
 ##### Tue Nov 11
-###### 🏃 Run (6:15-7:05)
+###### 🏃 Run (6:15-7:05) ✅
 50min Z2, 7-8km easy conversational pace
+
+**Actual:** 51:24, 8.15km, Avg HR 145 bpm, Avg Pace 6:18/km, Aerobic TE 3.2
 
 ##### Wed Nov 12
 ###### 🚴 Bike (12:00-13:00)
@@ -75,8 +77,3 @@ Gym full body:
 ---
 
 **Weekly Totals:** Swim 4200m (2h) • Bike 3h20 (115km) • Run 2h05 (18-20km) • Strength 1h • **Total: 8h25**
-
----
-
-## Week Completion
-**Progress:** ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ (0/7 days completed)
