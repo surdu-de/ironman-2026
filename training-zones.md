@@ -16,15 +16,39 @@
 
 ## Run Zones (Based on Heart Rate)
 
-| Zone | Name | % HRmax | Purpose |
-|------|------|---------|---------|
-| **Z1** | Recovery | < 70% | Easy recovery runs, warm-up |
-| **Z2** | Easy/Aerobic | 70-80% | Long runs, aerobic base building |
-| **Z3** | Tempo | 81-90% | Sustained tempo runs, race pace |
-| **Z4** | Threshold | 91-95% | Lactate threshold, hard efforts |
-| **Z5** | VO2 Max | 95-100% | Intervals, speed work, max effort |
+**Zone Calculation Method:** BOM (Beginning of Mellow)
+
+**Baseline Heart Rate Data:**
+- **Max HR:** 191 bpm
+- **LTHR (Lactate Threshold):** 171 bpm
+- **Resting HR:** 72 bpm
+
+| Zone | Name | HR Range (bpm) | Purpose |
+|------|------|----------------|---------|
+| **Z1** | Recovery | 95-113 | Easy recovery runs, warm-up |
+| **Z2** | Easy/Aerobic | 114-132 | Very easy aerobic, recovery weeks |
+| **Z3** | Tempo | 133-151 | Sustained tempo runs, race pace |
+| **Z4** | Threshold | 152-170 | Lactate threshold, hard efforts |
+| **Z5** | VO2 Max | 170+ | Intervals, speed work, max effort |
 
 **Current VO2 Max:** 50
+
+**Lactate Threshold Pace:** 4:48/km (at 171 bpm LTHR)
+
+### Training Zone Application
+
+**For "Easy" or "Aerobic" runs in training plan:**
+- **Target:** Low Z3 (133-145 bpm)
+- **Rationale:** Pragmatic approach for 30-week sustainability
+- **Pace Range:** ~6:15-6:45/km (conversational)
+
+**For designated "Recovery" runs:**
+- **Target:** Z2 (114-132 bpm)
+- **When:** Recovery weeks, post-hard workout days
+
+**For "Tempo" or "Threshold" workouts:**
+- **Target:** Upper Z3 to Z4 (145-170 bpm)
+- **When:** Designated workout days only
 
 ---
 
@@ -55,4 +79,4 @@ See [Performance Data](performance-data.md) for testing results and zone calcula
 
 ---
 
-**Last Updated:** November 10, 2025
+**Last Updated:** November 11, 2025

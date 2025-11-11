@@ -22,14 +22,14 @@
 | Date           | Activity    | Description                                                     | Duration | Status |
 | -------------- | ----------- | --------------------------------------------------------------- | -------- | ------ |
 | 10.11.2025 Mon | -           | Rest day                                                        | -        | ⬜      |
-| 11.11.2025 Tue | 🏃 Run      | [⛅ 50min Z2, 7-8km (easy conversational)](#tue-nov-11)          | 50       | ✅      |
+| 11.11.2025 Tue | 🏃 Run      | [⛅ 50min easy aerobic, 7-8km (Low Z3: 133-145 bpm)](#tue-nov-11) | 50       | ✅      |
 | 12.11.2025 Wed | 🚴 Bike     | [☀️ 60min Z2 trainer](#wed-nov-12)                              | 60       | ⬜      |
 | 13.11.2025 Thu | 💪 Strength | [🍽️ Gym full body (squats, upper body, core)](#thu-nov-13)     | 60       | ⬜      |
 |                | 🏊 Swim     | [🌙 2200m FIXED (4x300 Z2-Z3)](#thu-nov-13)                     | 60       | ⬜      |
 | 14.11.2025 Fri | 🚴 Bike     | [⛅ 60min Z2 (trainer or outdoor)](#fri-nov-14)                  | 60       | ⬜      |
 | 15.11.2025 Sat | 🏊 Swim     | [⛅ 2000m technique (4x200 Z2)](#sat-nov-15)                    | 60       | ⬜      |
 |                | 🚴 Bike     | [2h Z2 long, 55-60km, nutrition practice](#sat-nov-15)          | 120      | ⬜      |
-| 16.11.2025 Sun | 🏃 Run      | [75min Z2 long, 11-12km](#sun-nov-16)                           | 75       | ⬜      |
+| 16.11.2025 Sun | 🏃 Run      | [75min easy aerobic long, 11-12km (Low Z3: 133-145 bpm)](#sun-nov-16) | 75       | ⬜      |
 
 **Weekly Total:** 505 minutes (~8h25)
 
@@ -39,9 +39,9 @@
 
 ##### Tue Nov 11
 ###### 🏃 Run (6:15-7:05) ✅
-50min Z2, 7-8km easy conversational pace
+50min easy aerobic, 7-8km easy conversational pace (Low Z3: 133-145 bpm)
 
-**Actual:** 51:24, 8.15km, Avg HR 145 bpm, Avg Pace 6:18/km, Aerobic TE 3.2
+**Actual:** 51:24, 8.15km, Avg HR 145 bpm ✅, Max HR 152 bpm, Avg Pace 6:18/km, Aerobic TE 3.2
 
 ##### Wed Nov 12
 ###### 🚴 Bike (12:00-13:00)
@@ -72,7 +72,7 @@ Gym full body:
 
 ##### Sun Nov 16
 ###### 🏃 Run (9:00-10:15)
-75min Z2 long (~11-12km) easy aerobic, focus on endurance
+75min easy aerobic long (~11-12km), Low Z3 (133-145 bpm), focus on endurance
 
 ---
 
