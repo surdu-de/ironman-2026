@@ -11,30 +11,30 @@
 |              | Swim   | Bike  | Run     | Strength | Total  |
 |--------------|--------|-------|---------|----------|--------|
 | **Sessions** | 2      | 3     | 4       | 2        | 11     |
-| **Time**     | 2h05   | 4h45  | 3h45    | 2h       | 12h35  |
-| **Distance** | 5200m  | 120km | 32-34km | -        | -      |
+| **Time**     | 1h30   | 4h45  | 3h45    | 2h       | 12h00  |
+| **Distance** | 2700m  | 120km | 32-34km | -        | -      |
 
 ---
 
 ## Weekly Schedule
 
-| Date           | Activity    | Description                                       | Duration | Status |
-| -------------- | ----------- | ------------------------------------------------- | -------- | ------ |
-| 24.11.2025 Mon | -           | Rest day                                          | -        | ⬜      |
-| 25.11.2025 Tue | 🏃 Run      | [45min Z2 easy recovery](#tue-nov-25)             | 45       | ⬜      |
-|                | 💪 Strength | [Gym full body (squats, deadlifts)](#tue-nov-25) | 60       | ⬜      |
-|                | 🚴 Bike     | [Garmin: Aerobic with Tempo](#tue-nov-25)         | 75       | ⬜      |
-| 26.11.2025 Wed | 🚴 Bike     | [Garmin: Zone 5 Intervals (3x)](#wed-nov-26)      | 60       | ⬜      |
-|                | 🏃 Run      | [45min Z2 easy recovery](#wed-nov-26)             | 45       | ⬜      |
-| 27.11.2025 Thu | 💪 Strength | [Gym upper body + core](#thu-nov-27)              | 60       | ⬜      |
-|                | 🚴 Bike     | [Garmin: Zone 2 Aerobic](#thu-nov-27)             | 60       | ⬜      |
-|                | 🏊 Swim     | [2800m VO2max](#thu-nov-27)                       | 65       | ⬜      |
-| 28.11.2025 Fri | 🏃 Run      | [60min THRESHOLD (5x4min Z4)](#fri-nov-28)        | 60       | ⬜      |
-| 29.11.2025 Sat | 🏊 Swim     | [2400m technique](#sat-nov-29)                    | 60       | ⬜      |
-|                | 🏃 Run      | [Long run 90min Z2](#sat-nov-29)                  | 90       | ⬜      |
-| 30.11.2025 Sun | 🚴 Bike     | [Garmin: Zone 2 Aerobic long (2h30)](#sun-nov-30) | 150      | ⬜      |
+| Date           | Activity    | Workout Template                                                    | Duration | Status |
+| -------------- | ----------- | ------------------------------------------------------------------- | -------- | ------ |
+| 24.11.2025 Mon | -           | Rest day                                                            | -        | ⬜      |
+| 25.11.2025 Tue | 🏃 Run      | [Easy Aerobic - 45min](../workouts/run/easy-aerobic.md)            | 45       | ⬜      |
+|                | 💪 Strength | [Full Body Gym](../workouts/strength/full-body-gym.md)             | 60       | ⬜      |
+|                | 🚴 Bike     | [Tempo Intervals - 75min](../workouts/bike/tempo-intervals.md)     | 75       | ⬜      |
+| 26.11.2025 Wed | 🚴 Bike     | [VO2max Intervals - 60min](../workouts/bike/vo2max-intervals.md)   | 60       | ⬜      |
+|                | 🏃 Run      | [Easy Aerobic - 45min](../workouts/run/easy-aerobic.md)            | 45       | ⬜      |
+| 27.11.2025 Thu | 💪 Strength | [Upper Body + Core](../workouts/strength/upper-core-gym.md)        | 60       | ⬜      |
+|                | 🚴 Bike     | [Z2 Endurance - 60min](../workouts/bike/z2-endurance.md)           | 60       | ⬜      |
+|                | 🏊 Swim     | [Threshold Pace - 1400m](../workouts/swim/threshold-pace.md)       | 45       | ⬜      |
+| 28.11.2025 Fri | 🏃 Run      | [Threshold Intervals - 60min](../workouts/run/threshold-intervals.md) | 60    | ⬜      |
+| 29.11.2025 Sat | 🏊 Swim     | [Speed Intervals - 1300m](../workouts/swim/speed-intervals.md)     | 45       | ⬜      |
+|                | 🏃 Run      | [Long Run - 90min](../workouts/run/long-run.md)                    | 90       | ⬜      |
+| 30.11.2025 Sun | 🚴 Bike     | [Z2 Endurance - 150min](../workouts/bike/z2-endurance.md)          | 150      | ⬜      |
 
-**Weekly Total:** 755 minutes (~12h35)
+**Weekly Total:** 720 minutes (~12h00)
 
 ---
 
@@ -88,14 +88,18 @@ Gym upper/core:
 - HR: 125-145 bpm
 - Keep effort very low after Wed Z5 intervals
 
-###### 🏊 Swim (20:00-21:00)
-**2800m VO2max Session**
-- 400m warmup (progressive build)
-- 8x200m @ T4 (2:03-2:18/100m) on 3:30 rest
-  - Target: 2:10-2:15/100m (threshold pace)
-- 8x50m @ T5 sprint (<2:03/100m) on 1:15 rest
-  - Target: <1:55/50m (maximum effort)
-- 200m cooldown
+###### 🏊 Swim (20:00-20:45)
+**1400m Threshold Pace Session**
+- 300m warmup (progressive build)
+- 5x100m @ threshold pace on 2:15 rest
+  - Target: 2:35-2:40/100m (5-10 sec faster than current)
+  - Focus: sustainable speed, smooth breathing
+- 1min easy recovery
+- 6x50m @ fast pace on 1:15 rest
+  - Target: 2:25-2:30/100m (15-20 sec faster than current)
+  - Focus: powerful finish, quick turns
+- 200m cooldown easy
+- **Total: 1400m (~45min)**
 
 ##### Fri Nov 28
 ###### 🏃 Run (6:00-7:00)
@@ -109,8 +113,21 @@ Gym upper/core:
 - **Note:** Solo run workout, no hard bike on this day
 
 ##### Sat Nov 29
-###### 🏊 Swim (8:00-9:00)
-2400m technique - 400 warmup, 10x50 drills, 6x200 Z2, 200 cooldown
+###### 🏊 Swim (8:00-8:45)
+**1300m Speed Drills Session**
+- 300m warmup (build intensity)
+- 6x25m sprint on 45sec rest
+  - Target: MAX effort (race starts simulation)
+  - Focus: explosive power off wall
+- 2min easy recovery
+- 10x50m descending pace on 1:20 rest
+  - #1-2 @ 2:45/100m (current pace)
+  - #3-4 @ 2:40/100m
+  - #5-6 @ 2:35/100m
+  - #7-8 @ 2:30/100m
+  - #9-10 @ 2:25/100m (fast!)
+- 200m cooldown easy
+- **Total: 1300m (~45min)**
 
 ###### 🏃 Run (10:00-11:30)
 **Long Run 90min Z2**
@@ -130,7 +147,7 @@ Gym upper/core:
 
 ---
 
-**Weekly Totals:** Swim 5200m (2h05) • Bike 4h45 (120km) • Run 3h45 (32-34km) • Strength 2h • **Total: 12h35**
+**Weekly Totals:** Swim 2700m (1h30) • Bike 4h45 (120km) • Run 3h45 (32-34km) • Strength 2h • **Total: 12h00**
 
 **Note:** This week includes high-intensity Garmin workouts - Tempo intervals on Tue and Z5 VO2max intervals on Wed.
 

@@ -11,23 +11,23 @@
 |              | Swim        | Bike       | Run        | Strength | Total |
 |--------------|-------------|------------|------------|----------|-------|
 | **Sessions** | 1 + 1 test  | 1 + 1 test | 1 test + 1 | 1        | 7     |
-| **Time**     | 1h30        | 1h45       | 1h40       | 45min    | 6-8h  |
-| **Distance** | 2000m+tests | ~30km+test | ~15km+test | -        | -     |
+| **Time**     | 1h20        | 1h45       | 1h40       | 45min    | 6-7h  |
+| **Distance** | 1000m+tests | ~30km+test | ~15km+test | -        | -     |
 
 ---
 
 ## Weekly Schedule
 
-| Date          | Activity    | Description                                       | Duration | Status |
-| ------------- | ----------- | ------------------------------------------------- | -------- | ------ |
-| 01.12.2025 Mon| -           | Rest day                                          | -        | ⬜      |
-| 02.12.2025 Tue| 💪 Strength | [Gym light mobility](#tue-dec-2)                  | 45       | ⬜      |
-|               | 🏊 Swim     | [2000m easy technique](#tue-dec-2)                | 45       | ⬜      |
-| 03.12.2025 Wed| 🚴 Bike     | [45min Z1-Z2 easy recovery](#wed-dec-3)           | 45       | ⬜      |
-| 04.12.2025 Thu| 🏊 Test     | [CSS TEST (400m + 200m TT)](#thu-dec-4)           | 45       | ⬜      |
-| 05.12.2025 Fri| 🚴 Test     | [FTP TEST (20min all-out)](#fri-dec-5)            | 60       | ⬜      |
-| 06.12.2025 Sat| 🏃 Test     | [Run Threshold TEST (30min TT)](#sat-dec-6)       | 60       | ⬜      |
-| 07.12.2025 Sun| 🚴/🏃       | [Easy recovery: bike OR run Z1](#sun-dec-7)       | 40-60    | ⬜      |
+| Date          | Activity    | Workout Template                                                     | Duration | Status |
+| ------------- | ----------- | -------------------------------------------------------------------- | -------- | ------ |
+| 01.12.2025 Mon| -           | Rest day                                                             | -        | ⬜      |
+| 02.12.2025 Tue| 💪 Strength | [Light Mobility](../workouts/strength/light-mobility.md)             | 45       | ⬜      |
+|               | 🏊 Swim     | [Easy Technique - 1000m](../workouts/swim/easy-technique.md)         | 35       | ⬜      |
+| 03.12.2025 Wed| 🚴 Bike     | [Easy Recovery - 45min](../workouts/bike/easy-recovery.md)           | 45       | ⬜      |
+| 04.12.2025 Thu| 🏊 Test     | [CSS Test](../workouts/test/css-swim-test.md)                        | 45       | ⬜      |
+| 05.12.2025 Fri| 🚴 Test     | [FTP Test - 20min](../workouts/test/ftp-bike-test.md)                | 60       | ⬜      |
+| 06.12.2025 Sat| 🏃 Test     | [Run Threshold Test](../workouts/test/run-threshold-test.md)         | 60       | ⬜      |
+| 07.12.2025 Sun| 🚴/🏃       | [Easy Recovery - 40-60min](../workouts/bike/easy-recovery.md) OR [Easy Aerobic](../workouts/run/easy-aerobic.md) | 40-60 | ⬜ |
 
 **Weekly Total:** ~400 minutes (~6-8h)
 
@@ -42,8 +42,17 @@ Gym light mobility:
 - Core maintenance 15min
 - Light strength
 
-###### 🏊 Swim (20:30-21:15)
-2000m easy technique - 400 warmup, 10x100 drills, 600 continuous Z2, 200 cooldown
+###### 🏊 Swim (20:30-21:05)
+**1000m Easy Technique - Pre-Test Prep**
+- 300m warmup (very easy, loosen up)
+- 6x50m technique drills on 1:15 rest
+  - 2x catch-up (extension focus)
+  - 2x fist drill (feel)
+  - 2x 6-kick switch (rotation)
+- 200m continuous easy swimming @ 2:45-2:50/100m
+  - Focus: relaxed, smooth, preparing for Thursday test
+- 200m cooldown (very easy)
+- **Total: 1000m (~35min)**
 
 ##### Wed Dec 3
 ###### 🚴 Bike (12:00-12:45)
@@ -106,7 +115,7 @@ Threshold HR = Average HR of 30-min effort
 
 ---
 
-**Weekly Totals:** Swim 2000m + CSS test • Bike 1h45 + FTP test • Run threshold test + 40min • Strength 45min • **Total: 6-8h**
+**Weekly Totals:** Swim 1000m + CSS test • Bike 1h45 + FTP test • Run threshold test + 40min • Strength 45min • **Total: 6-7h**
 
 ---
 

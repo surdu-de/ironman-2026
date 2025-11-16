@@ -34,9 +34,9 @@ Complete Ironman Hamburg on June 7, 2026 with significant performance improvemen
 
 ## Training Progress
 
-**Current Week:** [Week 1 - Build](weeks/week-01.md) (Nov 10-16, 2025)
-**Current Cycle:** [Cycle 1 - Base Building](cycles/cycle-1-base-building.md) (Weeks 1-4)
-**Completed:** 0/30 weeks
+- **Current Week:** [Week 2 - Build](weeks/week-02.md) (Nov 17-23, 2025)
+- **Current Cycle:** [Cycle 1 - Base Building](cycles/cycle-1-base-building.md) (Weeks 1-4)
+- **Completed:** 1/30 weeks
 
 ---
 
@@ -82,7 +82,6 @@ This plan follows a structured periodization approach with **3 weeks of progress
   - Bike: 180 km
   - Run: 42.2 km
   - **Total:** 226 km
-
 
 ---
 

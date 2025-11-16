@@ -11,28 +11,28 @@
 |              | Swim   | Bike  | Run     | Strength | Total  |
 |--------------|--------|-------|---------|----------|--------|
 | **Sessions** | 2      | 3     | 4       | 2        | 11     |
-| **Time**     | 2h     | 3h20  | 3h50    | 2h       | 11h10  |
-| **Distance** | 4800m  | 100km | 29-31km | -        | -      |
+| **Time**     | 1h25   | 3h20  | 3h50    | 2h       | 10h35  |
+| **Distance** | 2600m  | 100km | 29-31km | -        | -      |
 
 ---
 
 ## Weekly Schedule
 
-| Date           | Activity    | Description                                            | Duration | Status |
-| -------------- | ----------- | ------------------------------------------------------ | -------- | ------ |
-| 17.11.2025 Mon | -           | Rest day                                               | -        | ⬜      |
-| 18.11.2025 Tue | 🚴 Bike     | [Garmin: Zone 2 Aerobic](#tue-nov-18)                  | 60       | ⬜      |
-|                | 🏃 Run      | [60min Z2, 9-10km](#tue-nov-18)                        | 60       | ⬜      |
-|                | 💪 Strength | [Gym full body (squats, deadlifts)](#tue-nov-18)      | 60       | ⬜      |
-| 19.11.2025 Wed | 🚴 Bike     | [Garmin: Fitness Test (3+10 Min FTP)](#wed-nov-19)     | 45       | ⬜      |
-|                | 🏃 Run      | [45min Z2 easy + strides](#wed-nov-19)                 | 45       | ⬜      |
-| 20.11.2025 Thu | 💪 Strength | [Gym upper body + core](#thu-nov-20)                   | 60       | ⬜      |
-|                | 🚴 Bike     | [Garmin: Fitness Test (20 Min FTP)](#thu-nov-20)       | 35       | ⬜      |
-|                | 🏊 Swim     | [2400m VO2max](#thu-nov-20)                            | 60       | ⬜      |
-| 21.11.2025 Fri | 🏃 Run      | [45min Z2 easy recovery](#fri-nov-21)                  | 45       | ⬜      |
-| 22.11.2025 Sat | 🏃 Run      | [Long run 80min Z2](#sat-nov-22)                       | 80       | ⬜      |
-|                | 🏊 Swim     | [2400m technique](#sat-nov-22)                         | 60       | ⬜      |
-| 23.11.2025 Sun | 🚴 Bike     | [Garmin: Zone 2 Aerobic long (2h)](#sun-nov-23)        | 120      | ⬜      |
+| Date           | Activity    | Workout Template                                                       | Duration | Status |
+| -------------- | ----------- | ---------------------------------------------------------------------- | -------- | ------ |
+| 17.11.2025 Mon | -           | Rest day                                                               | -        | ⬜      |
+| 18.11.2025 Tue | 🚴 Bike     | [Z2 Endurance - 60min](../workouts/bike/z2-endurance.md)              | 60       | ⬜      |
+|                | 🏃 Run      | [Easy Aerobic - 60min](../workouts/run/easy-aerobic.md)               | 60       | ⬜      |
+|                | 💪 Strength | [Full Body Gym](../workouts/strength/full-body-gym.md)                | 60       | ⬜      |
+| 19.11.2025 Wed | 🚴 Bike     | [FTP Test - 3+10min Protocol](../workouts/test/ftp-bike-test.md)      | 45       | ⬜      |
+|                | 🏃 Run      | [Easy + Strides - 45min](../workouts/run/easy-strides.md)             | 45       | ⬜      |
+| 20.11.2025 Thu | 💪 Strength | [Upper Body + Core](../workouts/strength/upper-core-gym.md)           | 60       | ⬜      |
+|                | 🚴 Bike     | [FTP Test - 20min Protocol](../workouts/test/ftp-bike-test.md)        | 35       | ⬜      |
+|                | 🏊 Swim     | [Speed Intervals - 1400m](../workouts/swim/speed-intervals.md)        | 45       | ⬜      |
+| 21.11.2025 Fri | 🏃 Run      | [Easy Aerobic - 45min](../workouts/run/easy-aerobic.md)               | 45       | ⬜      |
+| 22.11.2025 Sat | 🏃 Run      | [Long Run - 80min](../workouts/run/long-run.md)                       | 80       | ⬜      |
+|                | 🏊 Swim     | [Technique - 1200m](../workouts/swim/technique-2000m.md)              | 40       | ⬜      |
+| 23.11.2025 Sun | 🚴 Bike     | [Z2 Endurance - 120min](../workouts/bike/z2-endurance.md)             | 120      | ⬜      |
 
 **Weekly Total:** 670 minutes (~11h10)
 
@@ -90,14 +90,18 @@ Gym upper/core:
 - 10min cooldown
 - **Note:** Final FTP test to calibrate Garmin zones
 
-###### 🏊 Swim (20:00-21:00)
-**2400m VO2max Session**
-- 400m warmup (progressive)
-- 10x100m @ T4 (2:03-2:18/100m) on 2:45 rest
-  - Target: 2:10-2:15/100m (threshold pace)
-- 8x50m @ T5 (<2:03/100m) on 1:15 rest
-  - Target: <1:55/50m (sprint pace)
-- 200m cooldown
+###### 🏊 Swim (20:00-20:45)
+**1400m Speed Intervals Session**
+- 300m warmup (progressive build)
+- 8x50m @ fast pace on 1:15-1:30 rest
+  - Target: 2:25-2:35/100m (10-20 sec faster than current pace)
+  - Focus: quick turnover, powerful catch
+- 2min easy recovery
+- 4x100m @ moderate-fast on 2:30 rest
+  - Target: 2:35-2:40/100m (5-10 sec faster than current pace)
+  - Focus: maintaining form at speed
+- 200m cooldown easy
+- **Total: 1400m (~45min)**
 
 ##### Fri Nov 21
 ###### 🏃 Run (6:00-6:45)
@@ -111,8 +115,19 @@ Gym upper/core:
 - Focus: endurance building, conversational pace
 - Fueling: Practice race nutrition
 
-###### 🏊 Swim (12:00-13:00)
-2400m technique - 400 warmup, 10x50 drills, 6x200 Z2, 200 cooldown
+###### 🏊 Swim (12:00-12:40)
+**1200m Technique Drills Session**
+- 300m warmup (mix of free and drill)
+- 8x50m drills on 1:15-1:30 rest
+  - 2x catch-up drill (focus on extension)
+  - 2x fist drill (feel the water)
+  - 2x fingertip drag (high elbow)
+  - 2x 6-kick switch (rotation)
+- 4x100m smooth technique on 2:15 rest
+  - Target: 2:40-2:45/100m (current pace, focus on form)
+  - Think: long strokes, minimal effort
+- 200m cooldown easy
+- **Total: 1200m (~40min)**
 
 ##### Sun Nov 23
 ###### 🚴 Bike (9:00-11:00)
@@ -125,7 +140,7 @@ Gym upper/core:
 
 ---
 
-**Weekly Totals:** Swim 4800m (2h) • Bike 3h20 (100km) • Run 3h50 (29-31km) • Strength 2h • **Total: 11h10**
+**Weekly Totals:** Swim 2600m (1h25) • Bike 3h20 (100km) • Run 3h50 (29-31km) • Strength 2h • **Total: 10h35**
 
 **Note:** This week includes two FTP tests (Tue & Thu) from Garmin Gran Fondo plan to establish proper training zones.
 
