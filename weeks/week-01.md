@@ -4,14 +4,14 @@ cycle: 1
 start-date: 2025-11-10
 end-date: 2025-11-16
 phase: build
-status: in-progress
-sessions-completed: 1
+status: completed
+sessions-completed: 7
 sessions-total: 7
 swim-sessions: 2
 bike-sessions: 2
 run-sessions: 2
 strength-sessions: 1
-total-duration: 505
+total-duration: 485
 vo2-max: 50
 vo2-max-baseline: 50
 ftp-bike:
@@ -36,26 +36,26 @@ css-swim-baseline: "2:33"
 |              | Swim   | Bike  | Run     | Strength | Total |
 |--------------|--------|-------|---------|----------|-------|
 | **Sessions** | 2      | 2     | 2       | 1        | 7     |
-| **Time**     | 2h     | 3h20  | 2h05    | 1h       | 8h25  |
-| **Distance** | 4200m  | 115km | 18-20km | -        | -     |
+| **Time**     | 1h40   | 3h20  | 2h05    | 1h       | 8h05  |
+| **Distance** | 3600m  | 115km | 18-20km | -        | -     |
 
-**Progress:** ✅ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ (1/7 days completed)
+**Progress:** ✅ ✅ ✅ ✅ ✅ ✅ ✅ (7/7 days completed)
 
 ## Weekly Schedule
 
-| Date           | Activity    | Workout                                                                | Duration | Status |
-| -------------- | ----------- | ---------------------------------------------------------------------- | -------- | ------ |
-| 10.11.2025 Mon | -           | Rest day                                                               | -        | ⬜      |
-| 11.11.2025 Tue | 🏃 Run      | ⛅ 06:15 [[workouts/run/easy-aerobic-50min\|Easy Aerobic 50min]]        | 50       | ✅      |
-| 12.11.2025 Wed | 🚴 Bike     | ☀️ 12:00 [[workouts/bike/z2-trainer-60min\|Z2 Trainer 60min]]          | 60       | ⬜      |
-| 13.11.2025 Thu | 💪 Strength | 🍽️ 12:00 [[workouts/strength/full-body-gym\|Full Body Gym]]            | 60       | ⬜      |
-|                | 🏊 Swim     | 🌙 20:00 [[workouts/swim/vo2max-intervals-2200m\|VO2max 2200m]]        | 60       | ⬜      |
-| 14.11.2025 Fri | 🚴 Bike     | ⛅ 06:00 [[workouts/bike/z2-trainer-60min\|Z2 Trainer 60min]]           | 60       | ⬜      |
-| 15.11.2025 Sat | 🏊 Swim     | ⛅ 08:00 [[workouts/swim/technique-2000m\|Technique 2000m]]             | 60       | ⬜      |
-|                | 🚴 Bike     | ⛅ 10:00 [[workouts/bike/z2-long-2h\|Z2 Long Ride 2h]]                  | 120      | ⬜      |
-| 16.11.2025 Sun | 🏃 Run      | ⛅ 09:00 [[workouts/run/easy-aerobic-75min\|Easy Aerobic 75min]]        | 75       | ⬜      |
+| Date           | Activity    | Workout                                                        | Duration | Status |
+| -------------- | ----------- | -------------------------------------------------------------- | -------- | ------ |
+| 10.11.2025 Mon | -           | Rest day                                                       | -        | ✅      |
+| 11.11.2025 Tue | 🏃 Run      | [[workouts/run/easy-aerobic-50min\|Easy Aerobic 50min]]        | 50       | ✅      |
+| 12.11.2025 Wed | 🚴 Bike     | [[workouts/bike/z2-trainer-60min\|Z2 Trainer 60min]]           | 60       | ✅      |
+| 13.11.2025 Thu | 💪 Strength | [[workouts/strength/full-body-gym\|Full Body Gym]]             | 55       | ✅      |
+|                | 🏊 Swim     | [[workouts/swim/vo2max-intervals-2200m\|VO2max 2200m]]         | 68       | ✅      |
+| 14.11.2025 Fri | 🚴 Bike     | [[workouts/bike/z2-trainer-60min\|Z2 Trainer 60min]]           | 60       | ✅      |
+| 15.11.2025 Sat | 🏊 Swim     | [[workouts/swim/technique-2000m\|Technique 1200m]]             | 50       | ✅      |
+|                | 🏃 Run      | [[workouts/run/easy-aerobic-75min\|Long Run 132min]]           | 132      | ✅      |
+| 16.11.2025 Sun | 🚴 Bike     | [[workouts/bike/z2-long-2h\|Z2 Long Ride 151min]]              | 151      | ✅      |
 
-**Weekly Total:** 505 minutes (~8h25)
+**Weekly Total:** 485 minutes (~8h05)
 
 ---
 
@@ -84,47 +84,185 @@ css-swim-baseline: "2:33"
 
 ---
 
-### Wed Nov 12
+### Wed Nov 12 ✅
 **Workout:** [[workouts/bike/z2-trainer-60min|Z2 Trainer Session 60min]]
-**Time:** 12:00-13:00
+**Time:** 19:43-20:44
+
+**Actual Performance:**
+- activity:: Bike
+- date:: 2025-11-12
+- duration-planned:: 60
+- duration-actual:: 60
+- distance-planned:: 30
+- distance-actual:: 29.41
+- avg-hr:: 136
+- max-hr:: 148
+- avg-power:: 121
+- np:: 123
+- avg-cadence:: 86
+- tss:: 39.5
+- zone-target:: Z2
+- zone-actual:: Z2
+- status:: completed
+- aerobic-te:: 3.1
+- calories:: 533
+- notes:: Z2 trainer session, good power consistency
 
 ---
 
-### Thu Nov 13
+### Thu Nov 13 ✅
 
 #### Morning
 **Workout:** [[workouts/strength/full-body-gym|Full Body Gym Session]]
-**Time:** 12:00-13:00
+**Time:** 07:54-08:49
+
+**Actual Performance:**
+- activity:: Strength
+- date:: 2025-11-13
+- duration-planned:: 60
+- duration-actual:: 54.5
+- avg-hr:: 105
+- max-hr:: 134
+- total-reps:: 286
+- total-sets:: 20
+- zone-target:: -
+- zone-actual:: -
+- status:: completed
+- aerobic-te:: 0.7
+- calories:: 362
+- notes:: Full body strength session, 20 sets completed
 
 #### Evening
-**Workout:** [[workouts/swim/vo2max-intervals-2200m|VO2max Intervals 2200m]] (FIXED)
-**Time:** 20:00-21:00
+**Workout:** [[workouts/swim/vo2max-intervals-2200m|VO2max Intervals 2200m]]
+**Time:** 19:37-20:45
+
+**Actual Performance:**
+- activity:: Swim
+- date:: 2025-11-13
+- duration-planned:: 60
+- duration-actual:: 68.3
+- duration-moving:: 43.65
+- distance-planned:: 2200
+- distance-actual:: 1700
+- avg-hr:: 137
+- max-hr:: 171
+- avg-pace:: 2:34
+- total-strokes:: 1053
+- avg-swolf:: 108
+- avg-stroke-rate:: 24
+- zone-target:: VO2max
+- zone-actual:: VO2max
+- status:: completed
+- aerobic-te:: 3.2
+- calories:: 838
+- notes:: Short intervals swim session, good intensity work
 
 ---
 
-### Fri Nov 14
+### Fri Nov 14 ✅
 **Workout:** [[workouts/bike/z2-trainer-60min|Z2 Trainer Session 60min]]
-**Time:** 6:00-7:00
+**Time:** 11:24-12:24
+
+**Actual Performance:**
+- activity:: Bike
+- date:: 2025-11-14
+- duration-planned:: 60
+- duration-actual:: 60
+- distance-planned:: 30
+- distance-actual:: 30.12
+- avg-hr:: 139
+- max-hr:: 160
+- avg-power:: 109
+- np:: 110
+- avg-cadence:: 88
+- tss:: 31.5
+- zone-target:: Z2
+- zone-actual:: Z2
+- status:: completed
+- aerobic-te:: 2.8
+- calories:: 489
+- notes:: Z2 trainer session at lunch, steady effort
 
 ---
 
-### Sat Nov 15
-
-#### Morning
-**Workout:** [[workouts/swim/technique-2000m|Technique Session 2000m]]
-**Time:** 8:00-9:00
+### Sat Nov 15 ✅
 
 #### Late Morning
-**Workout:** [[workouts/bike/z2-long-2h|Z2 Long Ride 2h]]
-**Time:** 10:00-12:00
-**Note:** Practice race nutrition - 60g carbs/hour
+**Workout:** [[workouts/run/easy-aerobic-75min|Long Run]] (swapped from Sunday)
+**Time:** 11:20-13:32
+
+**Actual Performance:**
+- activity:: Run
+- date:: 2025-11-15
+- duration-planned:: 75
+- duration-actual:: 132
+- distance-planned:: 12
+- distance-actual:: 18.22
+- avg-hr:: 136
+- max-hr:: 152
+- avg-pace:: 7:15
+- elevation-gain:: 75
+- elevation-loss:: 63
+- zone-target:: Low Z3
+- zone-actual:: Low Z3
+- status:: completed
+- aerobic-te:: 3.3
+- calories:: 1539
+- notes:: Hamburg running, longer than planned, good aerobic effort
+
+#### Afternoon
+**Workout:** [[workouts/swim/technique-2000m|Technique Swim]]
+**Time:** 16:22-17:12
+
+**Actual Performance:**
+- activity:: Swim
+- date:: 2025-11-15
+- duration-planned:: 45
+- duration-actual:: 49.9
+- duration-moving:: 30.5
+- distance-planned:: 2000
+- distance-actual:: 1200
+- avg-hr:: 135
+- max-hr:: 166
+- avg-pace:: 2:33
+- total-strokes:: 748
+- avg-swolf:: 107
+- avg-stroke-rate:: 24
+- zone-target:: Technique
+- zone-actual:: Technique
+- status:: completed
+- aerobic-te:: 2.8
+- calories:: 599
+- notes:: Pool swim, technique focus
 
 ---
 
-### Sun Nov 16
-**Workout:** [[workouts/run/easy-aerobic-75min|Easy Aerobic Long Run 75min]]
-**Time:** 9:00-10:15
+### Sun Nov 16 ✅
+**Workout:** [[workouts/bike/z2-long-2h|Z2 Long Ride]] (swapped from Saturday)
+**Time:** 18:26-20:57
+
+**Actual Performance:**
+- activity:: Bike
+- date:: 2025-11-16
+- duration-planned:: 120
+- duration-actual:: 151
+- distance-planned:: 60
+- distance-actual:: 75.03
+- avg-hr:: 128
+- max-hr:: 147
+- avg-power:: 123
+- np:: 123
+- avg-cadence:: 85
+- tss:: 100.8
+- zone-target:: Z2
+- zone-actual:: Z2
+- status:: completed
+- aerobic-te:: 4.5
+- calories:: 1352
+- notes:: Zone 2 aerobic ride, excellent endurance session, longer than planned
 
 ---
 
-**Weekly Totals:** Swim 4200m (2h) • Bike 3h20 (115km) • Run 2h05 (18-20km) • Strength 1h • **Total: 8h25**
+**Weekly Totals:**
+- **Planned:** Swim 3600m (1h40) • Bike 115km (3h20) • Run 18-20km (2h05) • Strength 1h • **Total: 8h05**
+- **Actual:** Swim 2900m (1h58) • Bike 134.56km (4h31) • Run 26.37km (3h03) • Strength 55min • **Total: 10h27**

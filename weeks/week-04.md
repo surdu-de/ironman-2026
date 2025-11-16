@@ -4,7 +4,6 @@
 
 ## Week Constraints
 - **Onsite Days:** Tuesday, Thursday (gym access available)
-- **Gym Closure:** Wednesday (bodyweight or swim)
 - **Pick-up Times:** Mon 18:30, Wed 16:00, Thu 17:30
 - **Fixed Sessions:** Thursday swim 20:00-21:00 (CSS TEST)
 
@@ -19,16 +18,16 @@
 
 ## Weekly Schedule
 
-| Date          | Activity    | Description                                            | Duration | Status |
-| ------------- | ----------- | ------------------------------------------------------ | -------- | ------ |
-| 01.12.2025 Mon| -           | Rest day                                               | -        | ⬜      |
-| 02.12.2025 Tue| 💪 Strength | [🍽️ Gym light mobility (stretching, core)](#tue-dec-2)| 45       | ⬜      |
-|               | 🏊 Swim     | [🌙 2000m easy technique](#tue-dec-2)                  | 45       | ⬜      |
-| 03.12.2025 Wed| 🚴 Bike     | [☀️ 45min Z1-Z2 easy recovery](#wed-dec-3)             | 45       | ⬜      |
-| 04.12.2025 Thu| 🏊 Test     | [🌙 CSS TEST (400m + 200m TT)](#thu-dec-4)             | 45       | ⬜      |
-| 05.12.2025 Fri| 🚴 Test     | [🌙 FTP TEST (20min all-out)](#fri-dec-5)              | 60       | ⬜      |
-| 06.12.2025 Sat| 🏃 Test     | [Run Threshold TEST (30min TT)](#sat-dec-6)            | 60       | ⬜      |
-| 07.12.2025 Sun| 🚴/🏃       | [Easy recovery: 60min bike Z1 OR 40min run Z1](#sun-dec-7) | 40-60 | ⬜      |
+| Date          | Activity    | Description                                       | Duration | Status |
+| ------------- | ----------- | ------------------------------------------------- | -------- | ------ |
+| 01.12.2025 Mon| -           | Rest day                                          | -        | ⬜      |
+| 02.12.2025 Tue| 💪 Strength | [Gym light mobility](#tue-dec-2)                  | 45       | ⬜      |
+|               | 🏊 Swim     | [2000m easy technique](#tue-dec-2)                | 45       | ⬜      |
+| 03.12.2025 Wed| 🚴 Bike     | [45min Z1-Z2 easy recovery](#wed-dec-3)           | 45       | ⬜      |
+| 04.12.2025 Thu| 🏊 Test     | [CSS TEST (400m + 200m TT)](#thu-dec-4)           | 45       | ⬜      |
+| 05.12.2025 Fri| 🚴 Test     | [FTP TEST (20min all-out)](#fri-dec-5)            | 60       | ⬜      |
+| 06.12.2025 Sat| 🏃 Test     | [Run Threshold TEST (30min TT)](#sat-dec-6)       | 60       | ⬜      |
+| 07.12.2025 Sun| 🚴/🏃       | [Easy recovery: bike OR run Z1](#sun-dec-7)       | 40-60    | ⬜      |
 
 **Weekly Total:** ~400 minutes (~6-8h)
 

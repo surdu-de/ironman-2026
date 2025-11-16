@@ -9,6 +9,22 @@
   - One flexible session per week
   - Should NOT be scheduled back-to-back days (need rest between swim sessions)
 
+## Training Intensity Principles
+- **NEVER combine hard bike + hard run on the same day**
+  - Hard bike = Threshold, VO2max, Tempo intervals, FTP tests
+  - Hard run = Threshold, intervals, tempo runs
+- **Allowed combinations:**
+  - Easy bike + hard run
+  - Hard bike + easy run
+  - Easy bike + easy run
+- **Reasoning:** Prevents overtraining, allows quality in each hard session, reduces injury risk
+
+## Weekend Long Sessions
+- **Saturday:** Long run (default)
+- **Sunday:** Long bike ride (default)
+- **Flexibility:** Can swap based on schedule or weather conditions
+- **Note:** Allows adaptation to weather forecasts and family commitments
+
 ## Daily Schedule
 - **Work Hours:** 9:00-18:00 (flexible, remote except Tue/Thu)
 - **School Drop-off:** 7:30 daily

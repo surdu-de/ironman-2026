@@ -1,3 +1,15 @@
+---
+status: Active
+category: Personal
+priority: High
+start-date: 2025-11-10
+target-date: 2026-06-07
+tags:
+  - fitness
+  - endurance
+aliases:
+  - Ironman Hamburg 2026
+---
 # Ironman Hamburg 2026 Training Plan
 
 **Race Date:** Sunday, June 7, 2026
