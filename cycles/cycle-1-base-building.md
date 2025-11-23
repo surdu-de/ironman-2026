@@ -13,8 +13,8 @@ This first cycle establishes the foundation for the entire training block throug
 - Refine technique (especially swimming)
 - Test and establish updated training zones for Cycle 2
 
-**Current Week:** [Week 1 - Build](../weeks/week-01.md) (Nov 10-16, 2025)
-**Progress:** ⬜ ⬜ ⬜ ⬜ (0/4 weeks completed)
+**Current Week:** [Week 3 - Build (Peak)](week-03.md) (Nov 24-30, 2025)
+**Progress:** ✅ ⚠️ ⬜ ⬜ (2/4 weeks completed)
 
 ### Weekly Volume Progression
 - **Week 1:** ~8h25 (7 sessions) - Establish routine, technique work
@@ -38,7 +38,7 @@ This first cycle establishes the foundation for the entire training block throug
 **Current Baselines (Nov 10, 2025):**
 - **Bike FTP:** 195W (2.17 W/kg)
 - **Swim CSS:** 2:33/100m
-- **Run:** HR-based zones (see [README](../README.md#training-zones))
+- **Run:** HR-based zones (see [README](40-projects/43%20active/ironman-2026/README.md#training-zones))
 
 **Note:** All zones will be updated after Week 4 testing (Dec 4-6, 2025)
 
@@ -46,7 +46,7 @@ This first cycle establishes the foundation for the entire training block throug
 
 ## Weekly Breakdown
 
-### [Week 1: Nov 10-16, 2025](../weeks/week-01.md) - Build
+### [Week 1: Nov 10-16, 2025](week-01.md) - Build
 **Volume:** 8h25 (7 sessions)
 - Swim: 4200m (2h) - 2 sessions
 - Bike: 115km (3h20) - 2 sessions
@@ -57,7 +57,7 @@ This first cycle establishes the foundation for the entire training block throug
 
 ---
 
-### [Week 2: Nov 17-23, 2025](../weeks/week-02.md) - Build
+### [Week 2: Nov 17-23, 2025](week-02.md) - Build
 **Volume:** 11h20 (10 sessions)
 - Swim: 4800m (2h) - 2 sessions (includes VO2max work)
 - Bike: 125km (4h15) - 3 sessions (includes threshold session)
@@ -68,7 +68,7 @@ This first cycle establishes the foundation for the entire training block throug
 
 ---
 
-### [Week 3: Nov 24-30, 2025](../weeks/week-03.md) - Build (Peak)
+### [Week 3: Nov 24-30, 2025](week-03.md) - Build (Peak)
 **Volume:** 12h55 (11 sessions)
 - Swim: 5200m (2h05) - 2 sessions (includes VO2max work)
 - Bike: 155km (5h30) - 4 sessions (includes threshold session)
@@ -79,7 +79,7 @@ This first cycle establishes the foundation for the entire training block throug
 
 ---
 
-### [Week 4: Dec 1-7, 2025](../weeks/week-04.md) - Recovery + Testing
+### [Week 4: Dec 1-7, 2025](week-04.md) - Recovery + Testing
 **Volume:** 6-8h (7 sessions including 3 tests)
 - Swim: 2000m + CSS test
 - Bike: 1h45 + FTP test
@@ -103,11 +103,11 @@ This first cycle establishes the foundation for the entire training block throug
 - Saturday: Run Threshold Test
 
 **After Testing:**
-1. Record new baseline values in [README](../README.md#current-training-baseline)
+1. Record new baseline values in [README](40-projects/43%20active/ironman-2026/README.md#current-training-baseline)
 2. Update training zones for Cycle 2
 3. Rest and recover on Sunday
 4. Begin [Cycle 2: Endurance Development](cycle-2-endurance-development.md)
 
 ---
 
-**Last Updated:** November 10, 2025
+**Last Updated:** November 23, 2025

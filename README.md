@@ -34,9 +34,10 @@ Complete Ironman Hamburg on June 7, 2026 with significant performance improvemen
 
 ## Training Progress
 
-- **Current Week:** [Week 2 - Build](weeks/week-02.md) (Nov 17-23, 2025)
+- **Current Week:** [Week 3 - Build (Peak)](weeks/week-03.md) (Nov 24-30, 2025)
 - **Current Cycle:** [Cycle 1 - Base Building](cycles/cycle-1-base-building.md) (Weeks 1-4)
-- **Completed:** 1/30 weeks
+- **Completed:** 2/30 weeks
+- **Latest FTP:** 188W (established Nov 21, 2025)
 
 ---
 
@@ -54,14 +55,14 @@ This plan follows a structured periodization approach with **3 weeks of progress
 
 | Cycle | Weeks | Dates | Status |
 |-------|-------|-------|--------|
-| [Cycle 1: Base Building](cycles/cycle-1-base-building.md) | 1-4 | Nov 10 - Dec 7, 2025 | 🚧 |
-| [Cycle 2: Endurance Development](cycles/cycle-2-endurance-development.md) | 5-8 | Dec 8 - Jan 4, 2026 | 📋 |
-| [Cycle 3: Strength Integration](cycles/cycle-3-strength-integration.md) | 9-12 | Jan 5 - Feb 1, 2026 | 📋 |
-| [Cycle 4: Threshold Work](cycles/cycle-4-threshold-work.md) | 13-16 | Feb 2 - Mar 1, 2026 | 📋 |
-| [Cycle 5: Race-Specific Training](cycles/cycle-5-race-specific.md) | 17-20 | Mar 2-29, 2026 | 📋 |
-| [Cycle 6: Peak Development](cycles/cycle-6-peak-development.md) | 21-24 | Mar 30 - Apr 26, 2026 | 📋 |
-| [Cycle 7: Final Build](cycles/cycle-7-final-build.md) | 25-28 | Apr 27 - May 24, 2026 | 📋 |
-| [Taper: Final Preparation](cycles/taper-phase.md) | 29-30 | May 25 - Jun 7, 2026 | 📋 |
+| [Cycle 1: Base Building](cycle-1-base-building.md) | 1-4 | Nov 10 - Dec 7, 2025 | 🚧 |
+| [Cycle 2: Endurance Development](cycle-2-endurance-development.md) | 5-8 | Dec 8 - Jan 4, 2026 | 📋 |
+| [Cycle 3: Strength Integration](cycle-3-strength-integration.md) | 9-12 | Jan 5 - Feb 1, 2026 | 📋 |
+| [Cycle 4: Threshold Work](cycle-4-threshold-work.md) | 13-16 | Feb 2 - Mar 1, 2026 | 📋 |
+| [Cycle 5: Race-Specific Training](cycle-5-race-specific.md) | 17-20 | Mar 2-29, 2026 | 📋 |
+| [Cycle 6: Peak Development](cycle-6-peak-development.md) | 21-24 | Mar 30 - Apr 26, 2026 | 📋 |
+| [Cycle 7: Final Build](cycle-7-final-build.md) | 25-28 | Apr 27 - May 24, 2026 | 📋 |
+| [Taper: Final Preparation](taper-phase.md) | 29-30 | May 25 - Jun 7, 2026 | 📋 |
 
 ## Training Resources
 
@@ -85,4 +86,4 @@ This plan follows a structured periodization approach with **3 weeks of progress
 
 ---
 
-**Last Updated:** November 10, 2025
+**Last Updated:** November 23, 2025
