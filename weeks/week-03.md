@@ -23,17 +23,17 @@
 | Date           | Activity   | Workout Template                                                                     | Duration | Status |
 | -------------- | ---------- | ------------------------------------------------------------------------------------ | -------- | ------ |
 | 24.11.2025 Mon | -          | Rest day                                                                             | -        | ⬜      |
-| 25.11.2025 Tue | 🏃 Run     | [Threshold Intervals - 60min](../workouts/run/threshold-intervals.md)                | 60       | ⬜      |
+| 25.11.2025 Tue | 🏃 Run     | [Threshold Intervals - 60min](threshold-intervals.md)                | 60       | ⬜      |
 |                | 🧘 Pilates | [Core & Flexibility](../workouts/strength/pilates-core.md)                           | 30       | ⬜      |
-|                | 🚴 Bike    | [Z2 Endurance - 60min](../workouts/bike/z2-endurance.md)                             | 60       | ⬜      |
-| 26.11.2025 Wed | 🚴 Bike    | [Tempo Progressive Warmup - 60min](../workouts/bike/tempo-progressive-warmup.md)     | 60       | ⬜      |
-|                | 🏃 Run     | [Easy Aerobic - 45min](../workouts/run/easy-aerobic.md)                              | 45       | ⬜      |
-| 27.11.2025 Thu | 🚴 Bike    | [VO2max Progressive - 60min](../workouts/bike/vo2max-progressive.md)                 | 60       | ⬜      |
-| 28.11.2025 Fri | 🏃 Run     | [Easy Aerobic - 45min](../workouts/run/easy-aerobic.md)                              | 45       | ⬜      |
-|                | 🚴 Bike    | [Z2 Endurance - 60min](../workouts/bike/z2-endurance.md)                             | 60       | ⬜      |
-| 29.11.2025 Sat | 🏃 Run     | [Long Run - 90min](../workouts/run/long-run.md)                                      | 90       | ⬜      |
+|                | 🚴 Bike    | [Z2 Endurance - 60min](z2-endurance.md)                             | 60       | ⬜      |
+| 26.11.2025 Wed | 🚴 Bike    | [Tempo Progressive Warmup - 60min](tempo-progressive-warmup.md)     | 60       | ⬜      |
+|                | 🏃 Run     | [Easy Aerobic - 45min](easy-aerobic.md)                              | 45       | ⬜      |
+| 27.11.2025 Thu | 🚴 Bike    | [VO2max Progressive - 60min](vo2max-progressive.md)                 | 60       | ⬜      |
+| 28.11.2025 Fri | 🏃 Run     | [Easy Aerobic - 45min](easy-aerobic.md)                              | 45       | ⬜      |
+|                | 🚴 Bike    | [Z2 Endurance - 60min](z2-endurance.md)                             | 60       | ⬜      |
+| 29.11.2025 Sat | 🏃 Run     | [Long Run - 90min](long-run.md)                                      | 90       | ⬜      |
 | 30.11.2025 Sun | 🏊 Swim    | Combined Session - 2700m                                                             | 90       | ⬜      |
-|                | 🚴 Bike    | [Z2 Endurance - 150min](../workouts/bike/z2-endurance.md)                            | 150      | ⬜      |
+|                | 🚴 Bike    | [Z2 Endurance - 150min](z2-endurance.md)                            | 150      | ⬜      |
 
 **Weekly Total:** 765 minutes (~12h45)
 
@@ -61,7 +61,7 @@
 - Focus: injury prevention, posture
 
 ###### 🚴 Bike (after 18:30)
-**Workout:** [[workouts/bike/z2-endurance|Z2 Endurance 60min]]
+**Workout:** [[z2-endurance|Z2 Endurance 60min]]
 
 - Easy Z2 aerobic ride
 - HR: 125-145 bpm
@@ -71,7 +71,7 @@
 
 ##### Wed Nov 26
 ###### 🚴 Bike (12:00-13:00)
-**Workout:** [[workouts/bike/tempo-progressive-warmup|Tempo Progressive Warmup 60min]]
+**Workout:** [[tempo-progressive-warmup|Tempo Progressive Warmup 60min]]
 
 **Structure (Garmin: Aerobic with Tempo Intervals):**
 - **Progressive warmup (17min):** 5min Z2 → 5min Z3 → 5min Z4 → 2min Z1
@@ -88,7 +88,7 @@
 
 ##### Thu Nov 27
 ###### 🚴 Bike (6:00-7:00)
-**Workout:** [[workouts/bike/vo2max-progressive|VO2max Progressive 60min]]
+**Workout:** [[vo2max-progressive|VO2max Progressive 60min]]
 
 **Structure (Garmin: Zone 5 Intervals - 3 Times):**
 - **Progressive warmup (24min):** 5min Z1 → 5min Z2 → 5min Z4 → 2min Z1 → 3x(30sec Z5 + 2min Z1)
@@ -106,7 +106,7 @@
 - Keep easy before onsite work day
 
 ###### 🚴 Bike (12:00-13:00)
-**Workout:** [[workouts/bike/z2-endurance|Z2 Endurance 60min]]
+**Workout:** [[z2-endurance|Z2 Endurance 60min]]
 
 - Easy recovery Z2 ride (indoor trainer)
 - HR: 125-145 bpm
@@ -141,7 +141,7 @@
 - **Total: 2700m (~90min)**
 
 ###### 🚴 Bike (10:00-12:30)
-**Workout:** [[workouts/bike/z2-endurance|Z2 Endurance Long 150min]]
+**Workout:** [[z2-endurance|Z2 Endurance Long 150min]]
 
 - Steady Z2 long ride (~70-75km)
 - HR: 125-145 bpm

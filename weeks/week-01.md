@@ -46,14 +46,14 @@ css-swim-baseline: "2:33"
 | Date           | Activity    | Workout                                                        | Duration | Status |
 | -------------- | ----------- | -------------------------------------------------------------- | -------- | ------ |
 | 10.11.2025 Mon | -           | Rest day                                                       | -        | ✅      |
-| 11.11.2025 Tue | 🏃 Run      | [Easy Aerobic - 50min](../workouts/run/easy-aerobic.md)       | 50       | ✅      |
-| 12.11.2025 Wed | 🚴 Bike     | [Z2 Endurance - 60min](../workouts/bike/z2-endurance.md)      | 60       | ✅      |
-| 13.11.2025 Thu | 💪 Strength | [Full Body Gym](../workouts/strength/full-body-gym.md)        | 55       | ✅      |
-|                | 🏊 Swim     | [VO2max Intervals - 2200m](../workouts/swim/vo2max-intervals-2200m.md) | 68 | ✅ |
-| 14.11.2025 Fri | 🚴 Bike     | [Z2 Endurance - 60min](../workouts/bike/z2-endurance.md)      | 60       | ✅      |
-| 15.11.2025 Sat | 🏊 Swim     | [Technique - 1200m](../workouts/swim/technique-2000m.md)       | 50       | ✅      |
-|                | 🏃 Run      | [Long Run - 132min](../workouts/run/long-run.md)              | 132      | ✅      |
-| 16.11.2025 Sun | 🚴 Bike     | [Z2 Endurance - 151min](../workouts/bike/z2-endurance.md)     | 151      | ✅      |
+| 11.11.2025 Tue | 🏃 Run      | [Easy Aerobic - 50min](easy-aerobic.md)       | 50       | ✅      |
+| 12.11.2025 Wed | 🚴 Bike     | [Z2 Endurance - 60min](z2-endurance.md)      | 60       | ✅      |
+| 13.11.2025 Thu | 💪 Strength | [Full Body Gym](full-body-gym.md)        | 55       | ✅      |
+|                | 🏊 Swim     | [VO2max Intervals - 2200m](vo2max-intervals-2200m.md) | 68 | ✅ |
+| 14.11.2025 Fri | 🚴 Bike     | [Z2 Endurance - 60min](z2-endurance.md)      | 60       | ✅      |
+| 15.11.2025 Sat | 🏊 Swim     | [Technique - 1200m](technique-2000m.md)       | 50       | ✅      |
+|                | 🏃 Run      | [Long Run - 132min](long-run.md)              | 132      | ✅      |
+| 16.11.2025 Sun | 🚴 Bike     | [Z2 Endurance - 151min](z2-endurance.md)     | 151      | ✅      |
 
 **Weekly Total:** 485 minutes (~8h05)
 
@@ -62,7 +62,7 @@ css-swim-baseline: "2:33"
 ## Detailed Workouts
 
 ### Tue Nov 11 ✅
-**Workout:** [Easy Aerobic Run - 50min](../workouts/run/easy-aerobic.md)
+**Workout:** [Easy Aerobic Run - 50min](easy-aerobic.md)
 **Time:** 6:15-7:05
 
 **Actual Performance:**
@@ -85,7 +85,7 @@ css-swim-baseline: "2:33"
 ---
 
 ### Wed Nov 12 ✅
-**Workout:** [Z2 Endurance Ride - 60min](../workouts/bike/z2-endurance.md)
+**Workout:** [Z2 Endurance Ride - 60min](z2-endurance.md)
 **Time:** 19:43-20:44
 
 **Actual Performance:**
@@ -113,7 +113,7 @@ css-swim-baseline: "2:33"
 ### Thu Nov 13 ✅
 
 #### Morning
-**Workout:** [Full Body Gym](../workouts/strength/full-body-gym.md)
+**Workout:** [Full Body Gym](full-body-gym.md)
 **Time:** 07:54-08:49
 
 **Actual Performance:**
@@ -133,7 +133,7 @@ css-swim-baseline: "2:33"
 - notes:: Full body strength session, 20 sets completed
 
 #### Evening
-**Workout:** [VO2max Intervals - 2200m](../workouts/swim/vo2max-intervals-2200m.md)
+**Workout:** [VO2max Intervals - 2200m](vo2max-intervals-2200m.md)
 **Time:** 19:37-20:45
 
 **Actual Performance:**
@@ -160,7 +160,7 @@ css-swim-baseline: "2:33"
 ---
 
 ### Fri Nov 14 ✅
-**Workout:** [Z2 Endurance Ride - 60min](../workouts/bike/z2-endurance.md)
+**Workout:** [Z2 Endurance Ride - 60min](z2-endurance.md)
 **Time:** 11:24-12:24
 
 **Actual Performance:**
@@ -188,7 +188,7 @@ css-swim-baseline: "2:33"
 ### Sat Nov 15 ✅
 
 #### Late Morning
-**Workout:** [Long Run - 132min](../workouts/run/long-run.md) (swapped from Sunday)
+**Workout:** [Long Run - 132min](long-run.md) (swapped from Sunday)
 **Time:** 11:20-13:32
 
 **Actual Performance:**
@@ -211,7 +211,7 @@ css-swim-baseline: "2:33"
 - notes:: Hamburg running, longer than planned, good aerobic effort
 
 #### Afternoon
-**Workout:** [Technique Swim](../workouts/swim/technique-2000m.md)
+**Workout:** [Technique Swim](technique-2000m.md)
 **Time:** 16:22-17:12
 
 **Actual Performance:**
@@ -238,7 +238,7 @@ css-swim-baseline: "2:33"
 ---
 
 ### Sun Nov 16 ✅
-**Workout:** [Z2 Long Ride - 151min](../workouts/bike/z2-endurance.md) (swapped from Saturday)
+**Workout:** [Z2 Long Ride - 151min](z2-endurance.md) (swapped from Saturday)
 **Time:** 18:26-20:57
 
 **Actual Performance:**

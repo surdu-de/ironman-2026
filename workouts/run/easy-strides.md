@@ -68,7 +68,7 @@ Combination workout pairing aerobic base building with neuromuscular activation.
 - Fast but controlled (NOT all-out sprints)
 - Focus on quick turnover and relaxed form
 - Walk/jog recovery until ready for next rep
-- See [[workouts/run/strides|Strides workout]] for full details
+- See [[strides|Strides workout]] for full details
 
 ## Success Criteria
 - Easy run stays truly easy (Z2-Low Z3)

@@ -1,32 +1,27 @@
 ---
 workout-type: strength
 workout-category: recovery-mobility
-workout-name: "Light Mobility"
-duration-range: "30-50min"
+workout-name: Light Mobility
+duration-range: 30-50min
 sport: strength
 intensity: very-light
 structure: mobility-and-maintenance
-
 focus:
-  - "Mobility and flexibility"
-  - "Active recovery"
-  - "Movement quality"
-
-emphasis: "recovery"
-equipment: "minimal"
+  - Mobility and flexibility
+  - Active recovery
+  - Movement quality
+emphasis: recovery
+equipment: minimal
 scalable: true
-
 suitable-for:
-  - "Recovery weeks"
-  - "Between hard training blocks"
-  - "Injury prevention"
-
+  - Recovery weeks
+  - Between hard training blocks
+  - Injury prevention
 scheduling:
-  - "Flexible timing"
-  - "Home or gym"
-
-related-workouts: "[[workouts/strength/full-body-gym|Full Body Gym]]"
-progression-notes: "Maintain throughout - not about progression, about maintenance"
+  - Flexible timing
+  - Home or gym
+related-workouts: "[[full-body-gym|Full Body Gym]]"
+progression-notes: Maintain throughout - not about progression, about maintenance
 ---
 
 # Light Mobility

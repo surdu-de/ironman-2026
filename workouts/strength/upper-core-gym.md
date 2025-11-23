@@ -1,32 +1,27 @@
 ---
 workout-type: strength
 workout-category: upper-body-core
-workout-name: "Upper Body + Core"
-duration-range: "50-70min"
+workout-name: Upper Body + Core
+duration-range: 50-70min
 sport: strength
 intensity: moderate
 structure: circuit-and-sets
-
 focus:
-  - "Upper body strength"
-  - "Core stability"
-  - "Swim support musculature"
-
-emphasis: "upper-body"
-equipment: "gym"
+  - Upper body strength
+  - Core stability
+  - Swim support musculature
+emphasis: upper-body
+equipment: gym
 scalable: true
-
 suitable-for:
-  - "Build phase"
-  - "After hard lower body days"
-  - "Swim strength support"
-
+  - Build phase
+  - After hard lower body days
+  - Swim strength support
 scheduling:
-  - "Tuesday or Thursday (gym access)"
-  - "Morning preferred (after school drop-off)"
-
-related-workouts: "[[workouts/strength/full-body-gym|Full Body Gym]]"
-progression-notes: "Increase weight or reps as strength improves"
+  - Tuesday or Thursday (gym access)
+  - Morning preferred (after school drop-off)
+related-workouts: "[[full-body-gym|Full Body Gym]]"
+progression-notes: Increase weight or reps as strength improves
 ---
 
 # Upper Body + Core

@@ -21,13 +21,13 @@
 | Date          | Activity    | Workout Template                                                     | Duration | Status |
 | ------------- | ----------- | -------------------------------------------------------------------- | -------- | ------ |
 | 01.12.2025 Mon| -           | Rest day                                                             | -        | ⬜      |
-| 02.12.2025 Tue| 💪 Strength | [Light Mobility](../workouts/strength/light-mobility.md)             | 45       | ⬜      |
-|               | 🏊 Swim     | [Easy Technique - 1000m](../workouts/swim/easy-technique.md)         | 35       | ⬜      |
-| 03.12.2025 Wed| 🚴 Bike     | [Easy Recovery - 45min](../workouts/bike/easy-recovery.md)           | 45       | ⬜      |
-| 04.12.2025 Thu| 🏊 Test     | [CSS Test](../workouts/test/css-swim-test.md)                        | 45       | ⬜      |
-| 05.12.2025 Fri| 🚴 Test     | [FTP Test - 20min](../workouts/test/ftp-bike-test.md)                | 60       | ⬜      |
-| 06.12.2025 Sat| 🏃 Test     | [Run Threshold Test](../workouts/test/run-threshold-test.md)         | 60       | ⬜      |
-| 07.12.2025 Sun| 🚴/🏃       | [Easy Recovery - 40-60min](../workouts/bike/easy-recovery.md) OR [Easy Aerobic](../workouts/run/easy-aerobic.md) | 40-60 | ⬜ |
+| 02.12.2025 Tue| 💪 Strength | [Light Mobility](light-mobility.md)             | 45       | ⬜      |
+|               | 🏊 Swim     | [Easy Technique - 1000m](easy-technique.md)         | 35       | ⬜      |
+| 03.12.2025 Wed| 🚴 Bike     | [Easy Recovery - 45min](easy-recovery.md)           | 45       | ⬜      |
+| 04.12.2025 Thu| 🏊 Test     | [CSS Test](css-swim-test.md)                        | 45       | ⬜      |
+| 05.12.2025 Fri| 🚴 Test     | [FTP Test - 20min](ftp-bike-test.md)                | 60       | ⬜      |
+| 06.12.2025 Sat| 🏃 Test     | [Run Threshold Test](run-threshold-test.md)         | 60       | ⬜      |
+| 07.12.2025 Sun| 🚴/🏃       | [Easy Recovery - 40-60min](easy-recovery.md) OR [Easy Aerobic](easy-aerobic.md) | 40-60 | ⬜ |
 
 **Weekly Total:** ~400 minutes (~6-8h)
 
