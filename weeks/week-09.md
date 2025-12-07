@@ -11,7 +11,7 @@ swim-sessions: 3
 bike-sessions: 4
 run-sessions: 4
 strength-sessions: 0
-total-duration: 660
+total-duration: 705
 vo2-max: 50
 vo2-max-baseline: 50
 ftp-bike: 220
@@ -30,8 +30,8 @@ css-swim-baseline: "2:27"
 |              | Swim   | Bike   | Run     | Total  |
 |--------------|--------|--------|---------|--------|
 | **Sessions** | 3      | 4      | 4       | 11     |
-| **Time**     | 2h15   | 5h30   | 3h20    | 11h05  |
-| **Distance** | 5000m  | 150km  | 30km    | -        | -      |
+| **Time**     | 2h15   | 6h00   | 3h35    | 11h50  |
+| **Distance** | 5000m  | 160km  | 32km    | -      |
 
 ---
 
@@ -43,16 +43,16 @@ css-swim-baseline: "2:27"
 | 06.01.2026 Tue | 🏃 Run        | [[../workouts/run/threshold-intervals\|Threshold Intervals 65min]]  | 65       | ⬜      |
 |                | 🚴 Bike       | [[../workouts/bike/anaerobic-sweetspot\|Anaerobic Sweetspot 90min]] | 90       | ⬜      |
 |                | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 45       | ⬜      |
-| 07.01.2026 Wed | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance 60min]]                | 60       | ⬜      |
+| 07.01.2026 Wed | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance 75min]]                | 75       | ⬜      |
 |                | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 45min]]                 | 45       | ⬜      |
 | 08.01.2026 Thu | 🚴 Bike       | [[../workouts/bike/vo2max-intervals\|VO2max Intervals 80min]]       | 80       | ⬜      |
 |                | 🏊 Swim       | [[../workouts/swim/threshold-pace\|Threshold Pace 70min]]            | 70       | ⬜      |
 | 09.01.2026 Fri | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 50min]]                 | 50       | ⬜      |
-| 10.01.2026 Sat | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance Long 135min]]          | 135      | ⬜      |
+| 10.01.2026 Sat | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance Long 150min]]          | 150      | ⬜      |
 | 11.01.2026 Sun | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 50       | ⬜      |
-|                | 🏃 Run        | [[../workouts/run/long-run\|Long Run 100min]]                        | 100      | ⬜      |
+|                | 🏃 Run        | [[../workouts/run/long-run\|Long Run 115min]]                        | 115      | ⬜      |
 
-**Weekly Total:** 660 minutes (~11h05)
+**Weekly Total:** 705 minutes (~11h45)
 
 ---
 

@@ -11,7 +11,7 @@ swim-sessions: 3
 bike-sessions: 4
 run-sessions: 4
 strength-sessions: 0
-total-duration: 690
+total-duration: 735
 vo2-max: 50
 vo2-max-baseline: 50
 ftp-bike: 220
@@ -30,8 +30,8 @@ css-swim-baseline: "2:27"
 |              | Swim   | Bike   | Run     | Total  |
 |--------------|--------|--------|---------|--------|
 | **Sessions** | 3      | 4      | 4       | 11     |
-| **Time**     | 2h20   | 5h45   | 3h30    | 11h35  |
-| **Distance** | 5200m  | 160km  | 31km    | -        | -      |
+| **Time**     | 2h20   | 6h15   | 3h45    | 12h20  |
+| **Distance** | 5200m  | 170km  | 33km    | -      |
 
 ---
 
@@ -43,16 +43,16 @@ css-swim-baseline: "2:27"
 | 16.12.2025 Tue | 🏃 Run        | [[../workouts/run/easy-strides\|Easy with Strides 45min]]           | 45       | ⬜      |
 |                | 🚴 Bike       | [[../workouts/bike/tempo-intervals\|Tempo Intervals 75min]]         | 75       | ⬜      |
 |                | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 40       | ⬜      |
-| 17.12.2025 Wed | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance 60min]]                | 60       | ⬜      |
+| 17.12.2025 Wed | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance 75min]]                | 75       | ⬜      |
 |                | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 50min]]                 | 50       | ⬜      |
 | 18.12.2025 Thu | 🚴 Bike       | [[../workouts/bike/vo2max-intervals\|VO2max Intervals 80min]]       | 80       | ⬜      |
 |                | 🏊 Swim       | [[../workouts/swim/threshold-pace\|Threshold Pace 70min]]            | 70       | ⬜      |
 | 19.12.2025 Fri | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 50min]]                 | 50       | ⬜      |
-| 20.12.2025 Sat | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance Long 150min]]          | 150      | ⬜      |
+| 20.12.2025 Sat | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance Long 165min]]          | 165      | ⬜      |
 | 21.12.2025 Sun | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 50       | ⬜      |
-|                | 🏃 Run        | [[../workouts/run/long-run\|Long Run 105min]]                        | 105      | ⬜      |
+|                | 🏃 Run        | [[../workouts/run/long-run\|Long Run 120min]]                        | 120      | ⬜      |
 
-**Weekly Total:** 690 minutes (~11h35)
+**Weekly Total:** 735 minutes (~12h15)
 
 ---
 
@@ -138,19 +138,19 @@ css-swim-baseline: "2:27"
 
 ### Wed Dec 17 ⬜
 
-#### Morning Bike (6:30-7:30) - 60min
+#### Morning Bike (6:30-7:45) - 75min
 **Workout:** [[../workouts/bike/z2-endurance|Z2 Endurance Ride]]
-**Time:** 6:30-7:30
+**Time:** 6:30-7:45
 
 **Structure:**
 - 10min warmup
-- 45min steady Z2 (120-135W)
+- 60min steady Z2 (120-135W)
 - 5min cooldown
 
 **Target Metrics:**
 - activity:: Bike
-- duration-planned:: 60
-- distance-planned:: 33
+- duration-planned:: 75
+- distance-planned:: 40
 - zone-target:: Z2
 - avg-power-target:: 125-135
 - avg-hr-target:: 130-140
@@ -260,27 +260,27 @@ css-swim-baseline: "2:27"
 
 ### Sat Dec 20 ⬜
 
-#### Morning Long Bike (8:00-10:30) - 2h30 (150min)
+#### Morning Long Bike (8:00-10:45) - 2h45 (165min)
 **Workout:** [[../workouts/bike/z2-endurance|Z2 Long Endurance Ride]]
-**Time:** 8:00-10:30
+**Time:** 8:00-10:45
 
 **Structure:**
 - 15min warmup
-- 2h steady Z2 (120-135W)
+- 2h15 steady Z2 (120-135W)
 - Include 4x5min @ 100 rpm cadence work
 - 15min cooldown
 
 **Target Metrics:**
 - activity:: Bike
-- duration-planned:: 150
-- distance-planned:: 85-90
+- duration-planned:: 165
+- distance-planned:: 92-95
 - zone-target:: Z2
 - avg-power-target:: 120-135
 - avg-hr-target:: 130-140
 
 **Notes:** +15min vs Week 5. Outdoor if possible (Hamburg course). Nutrition practice essential (60g carbs/hour).
 
-**Daily Total:** 1 session, 2h30 (long Z2 bike)
+**Daily Total:** 1 session, 2h45 (long Z2 bike)
 
 ---
 
@@ -312,9 +312,9 @@ css-swim-baseline: "2:27"
 
 **Notes:** 56% technique focus (40% drills + 19% pull buoy). Before long run.
 
-#### Afternoon Long Run (14:00-15:45) - 105min
+#### Afternoon Long Run (14:00-16:00) - 120min
 **Workout:** [[../workouts/run/long-run|Long Run Z2-Low Z3]]
-**Time:** 14:00-15:45
+**Time:** 14:00-16:00
 
 **Structure:**
 - Continuous steady effort
@@ -323,14 +323,14 @@ css-swim-baseline: "2:27"
 
 **Target Metrics:**
 - activity:: Run
-- duration-planned:: 105
-- distance-planned:: 15-16
+- duration-planned:: 120
+- distance-planned:: 17-18
 - zone-target:: Z2-Low Z3
 - avg-hr-target:: 138-143
 
-**Notes:** +10min vs Week 5. Practice race nutrition (gel at 60min).
+**Notes:** +10min vs Week 5. Practice race nutrition (gel at 60min, 90min). 2 hours - building endurance capacity.
 
-**Daily Total:** 2 sessions, 2h35 (drill swim + long run)
+**Daily Total:** 2 sessions, 2h50 (drill swim + long run)
 
 ---
 
@@ -341,11 +341,11 @@ css-swim-baseline: "2:27"
 **Week 6 Status: Planned**
 - Sessions planned: 11
 - Sessions completed: 0
-- Total planned duration: 11h35
+- Total planned duration: 12h15
 
 **Progression from Week 5:**
-- Total hours: +15min (+2%)
-- Bike: +15km, +30min
+- Total hours: +55min (+8%)
+- Bike: +25km, +30min
 - Run: +3km, +15min (added 4th run session)
 - Swim: +400m, +10min
 - VO2max bike: 5 intervals (up from 4)

@@ -11,7 +11,7 @@ swim-sessions: 3
 bike-sessions: 4
 run-sessions: 4
 strength-sessions: 0
-total-duration: 765
+total-duration: 810
 vo2-max: 50
 vo2-max-baseline: 50
 ftp-bike: 220
@@ -30,8 +30,8 @@ css-swim-baseline: "2:27"
 |              | Swim   | Bike   | Run     | Total  |
 |--------------|--------|--------|---------|--------|
 | **Sessions** | 3      | 4      | 4       | 11     |
-| **Time**     | 2h30   | 6h30   | 3h50    | 12h50  |
-| **Distance** | 5500m  | 175km  | 34km    | -        | -      |
+| **Time**     | 2h30   | 7h00   | 4h05    | 13h35  |
+| **Distance** | 5500m  | 185km  | 36km    | -      |
 
 ---
 
@@ -43,16 +43,16 @@ css-swim-baseline: "2:27"
 | 23.12.2025 Tue | 🏃 Run        | [[../workouts/run/threshold-intervals\|Threshold Intervals 65min]]  | 65       | ⬜      |
 |                | 🚴 Bike       | [[../workouts/bike/anaerobic-sweetspot\|Anaerobic Sweetspot 90min]] | 90       | ⬜      |
 |                | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 45       | ⬜      |
-| 24.12.2025 Wed | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance 75min]]                | 75       | ⬜      |
+| 24.12.2025 Wed | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance 90min]]                | 90       | ⬜      |
 |                | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 55min]]                 | 55       | ⬜      |
 | 25.12.2025 Thu | 🚴 Bike       | [[../workouts/bike/vo2max-intervals\|VO2max Intervals 85min]]       | 85       | ⬜      |
 |                | 🏊 Swim       | [[../workouts/swim/vo2max-intervals-2200m\|VO2max Intervals]]        | 75       | ⬜      |
 | 26.12.2025 Fri | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 60min]]                 | 60       | ⬜      |
-| 27.12.2025 Sat | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance Long 165min]]          | 165      | ⬜      |
+| 27.12.2025 Sat | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance Long 180min]]          | 180      | ⬜      |
 | 28.12.2025 Sun | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 60       | ⬜      |
-|                | 🏃 Run        | [[../workouts/run/long-run\|Long Run 120min]]                        | 120      | ⬜      |
+|                | 🏃 Run        | [[../workouts/run/long-run\|Long Run 135min]]                        | 135      | ⬜      |
 
-**Weekly Total:** 765 minutes (~12h50)
+**Weekly Total:** 810 minutes (~13h30)
 
 ---
 
@@ -315,11 +315,11 @@ css-swim-baseline: "2:27"
 **Week 7 Status: Planned - PEAK OF CYCLE 2**
 - Sessions planned: 11
 - Sessions completed: 0
-- Total planned duration: 12h50
+- Total planned duration: 13h30
 
 **Progression from Week 6:**
 - Total hours: +1h15 (+10%)
-- Bike: +15km, +45min (long ride 2h45)
+- Bike: +15km, +45min (long ride 3h00)
 - Run: +3km, +20min (long run 2h)
 - Swim: +300m, +10min
 
