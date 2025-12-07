@@ -1,12 +1,13 @@
 # Training Constraints & Resources
 
 ## Weekly Structure
-- **Rest Day:** Monday (mandatory recovery)
-- **Onsite Work Days:** Tuesday and Thursday (gym access)
+- **Rest Day:** Monday (mandatory recovery, easy/technique swim allowed starting Week 5 in build weeks)
+- **Onsite Work Days:** Thursday
 - **Pool Access:** 50m pool available
 - **Swim Sessions:**
+  - Monday (easy/technique swim starting Week 5, build weeks only)
   - Thursday (fixed, 20:00-21:00)
-  - One flexible session per week
+  - One additional flexible session per week
   - Should NOT be scheduled back-to-back days (need rest between swim sessions)
 
 ## Training Intensity Principles
@@ -26,35 +27,14 @@
 - **Note:** Allows adaptation to weather forecasts and family commitments
 
 ## Daily Schedule
-- **Work Hours:** 9:00-18:00 (flexible, remote except Tue/Thu)
+- **Work Hours:** 9:00-18:00 (flexible, remote except Thu)
 - **School Drop-off:** 7:30 daily
 - **School Pick-up:** Monday 18:30, Wednesday 16:00, Thursday 17:30
 - **Training Windows:**
-  - Morning: After 7:30 drop-off, before work
-  - Lunch: Flexible on remote days
-  - Evening: After 18:00 (limited Wed/Thu due to pick-up)
+  - Morning: Before 7:30 drop-off, before work. During winter season,  no run workouts in the morning.
+  - Lunch: Flexible depending on the meetings schedule of the day
+  - Evening: After 18:00
   - Weekend: Flexible for long sessions
-
-## Training Time Availability
-- **Tuesday/Thursday:** Gym in morning (7:30-9:00), limited evening availability
-- **Wednesday:** Morning/lunch workouts preferred (pick-up at 16:00)
-- **Friday:** Flexible (remote work day)
-- **Saturday/Sunday:** Flexible for long bike rides and runs
-
-## Equipment
-
-### Required
-- Bike with power meter (FTP testing and training)
-- Heart rate monitor (run testing and training)
-- Indoor bike trainer (weather backup, early morning sessions)
-- Running shoes with <400km wear
-- Swim gear (goggles, cap, suit)
-
-### Recommended
-- Running watch with GPS (pace/distance tracking)
-- Swim training aids (pull buoy, paddles, fins for drills)
-- Nutrition supplies (gels, bars, electrolyte mix)
-- Foam roller and stretching tools
 
 ---
 

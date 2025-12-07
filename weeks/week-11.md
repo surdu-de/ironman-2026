@@ -39,10 +39,9 @@ css-swim-baseline: "2:27"
 
 | Date           | Activity      | Workout Template                                                     | Duration | Status |
 | -------------- | ------------- | -------------------------------------------------------------------- | -------- | ------ |
-| 19.01.2026 Mon | -             | Rest day                                                             | -        | ⬜      |
+| 19.01.2026 Mon | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 50       | ⬜      |
 | 20.01.2026 Tue | 🏃 Run        | [[../workouts/run/threshold-intervals\|Threshold Intervals 70min]]  | 70       | ⬜      |
 |                | 🚴 Bike       | [[../workouts/bike/anaerobic-sweetspot\|Anaerobic Sweetspot 95min]] | 95       | ⬜      |
-|                | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 50       | ⬜      |
 | 21.01.2026 Wed | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance 95min]]                | 95       | ⬜      |
 |                | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 60min]]                 | 60       | ⬜      |
 | 22.01.2026 Thu | 🚴 Bike       | [[../workouts/bike/vo2max-intervals\|VO2max Intervals 90min]]       | 90       | ⬜      |
@@ -59,7 +58,33 @@ css-swim-baseline: "2:27"
 ## Detailed Workouts
 
 ### Mon Jan 19 ⬜
-**Rest Day** - Mandatory recovery
+
+#### Evening Swim (19:00-19:50) - 50min
+**Workout:** [[../workouts/swim/drill-heavy-technique|Drill-Heavy Technique]]
+**Time:** 19:00-19:50
+
+**Structure:**
+- Warmup: 300m easy
+- Drill Set (40%): 10x50m @ 1:20
+  - 3x catch-up
+  - 3x fist drill
+  - 2x single-arm
+  - 2x sculling
+- Pull Buoy Set: 4x100m @ 2:35/100m, 20s rest
+- Continuous: 300m smooth @ 2:40/100m
+- Cooldown: 100m
+- **Total: 1700m**
+
+**Target Metrics:**
+- activity:: Swim
+- duration-planned:: 50
+- distance-planned:: 1700
+- zone-target:: Z1-Z2
+- drill-percentage:: 53
+
+**Notes:** 53% technique focus. School pickup at 18:30, allows time for swim after pickup.
+
+**Daily Total:** 1 session, 50min (drill swim)
 
 ---
 
@@ -106,32 +131,7 @@ css-swim-baseline: "2:27"
 
 **Notes:** PEAK anaerobic session - most intervals (4), longest duration (10min), highest power (237W/108% FTP). Indoor trainer REQUIRED. These are EXTREMELY HARD. Quality execution is critical.
 
-#### Evening Swim (20:30-21:20) - 50min
-**Workout:** [[../workouts/swim/drill-heavy-technique|Drill-Heavy Technique]]
-**Time:** 20:30-21:20
-
-**Structure:**
-- Warmup: 300m easy
-- Drill Set (40%): 10x50m @ 1:20
-  - 3x catch-up
-  - 3x fist drill
-  - 2x single-arm
-  - 2x sculling
-- Pull Buoy Set: 4x100m @ 2:35/100m, 20s rest
-- Continuous: 300m smooth @ 2:40/100m
-- Cooldown: 100m
-- **Total: 1700m**
-
-**Target Metrics:**
-- activity:: Swim
-- duration-planned:: 50
-- distance-planned:: 1700
-- zone-target:: Z1-Z2
-- drill-percentage:: 53
-
-**Notes:** 53% technique focus. Lighter swim session on peak intensity training day.
-
-**Daily Total:** 3 sessions, 3h35 (threshold run + peak anaerobic bike + drill swim) - BIGGEST DAY
+**Daily Total:** 2 sessions, 2h45 (threshold run + peak anaerobic bike)
 
 ---
 

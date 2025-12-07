@@ -46,10 +46,10 @@ Structured interval workout at or near lactate threshold. These sessions improve
 - **Cooldown:** 10min easy
 
 ### Format 2: 3x8min @ Z4
-- **Total Duration:** 65min
-- **Warmup:** 15min easy with gradual build
+- **Total Duration:** 60min
+- **Warmup:** 10min easy with gradual build
 - **Main Set:** 3x8min @ Z4 threshold
-- **Recovery:** 4min jog between intervals
+- **Recovery:** 3min jog between intervals
 - **Cooldown:** 10min easy
 
 ### Format 3: 2x12min @ Z4

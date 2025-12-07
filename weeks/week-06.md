@@ -39,10 +39,9 @@ css-swim-baseline: "2:27"
 
 | Date           | Activity      | Workout Template                                                     | Duration | Status |
 | -------------- | ------------- | -------------------------------------------------------------------- | -------- | ------ |
-| 15.12.2025 Mon | -             | Rest day                                                             | -        | ⬜      |
+| 15.12.2025 Mon | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 40       | ⬜      |
 | 16.12.2025 Tue | 🏃 Run        | [[../workouts/run/easy-strides\|Easy with Strides 45min]]           | 45       | ⬜      |
 |                | 🚴 Bike       | [[../workouts/bike/tempo-intervals\|Tempo Intervals 75min]]         | 75       | ⬜      |
-|                | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 40       | ⬜      |
 | 17.12.2025 Wed | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance 75min]]                | 75       | ⬜      |
 |                | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 50min]]                 | 50       | ⬜      |
 | 18.12.2025 Thu | 🚴 Bike       | [[../workouts/bike/vo2max-intervals\|VO2max Intervals 80min]]       | 80       | ⬜      |
@@ -59,7 +58,34 @@ css-swim-baseline: "2:27"
 ## Detailed Workouts
 
 ### Mon Dec 15 ⬜
-**Rest Day** - Mandatory recovery
+
+#### Evening Swim (19:00-19:40) - 40min
+**Workout:** [[../workouts/swim/drill-heavy-technique|Drill-Heavy Technique]]
+**Time:** 19:00-19:40
+
+**Structure:**
+- Warmup: 200m easy
+- Drill Set (45%): 8x50m @ 1:20
+  - 2x sculling (forearm feel)
+  - 2x catch-up
+  - 2x fist drill
+  - 2x single-arm
+- Pull Buoy Set: 3x100m @ 2:35/100m, 25s rest
+- Continuous: 200m smooth @ 2:40/100m
+- Cooldown: 100m
+- **Total: 1400m**
+
+**Target Metrics:**
+- activity:: Swim
+- duration-planned:: 40
+- distance-planned:: 1400
+- zone-target:: Z1-Z2
+- pace-target:: 2:35-2:40/100m
+- drill-percentage:: 57
+
+**Notes:** 57% technique focus (45% drills + 21% pull buoy). School pickup at 18:30, allows time for swim after pickup.
+
+**Daily Total:** 1 session, 40min (drill swim)
 
 ---
 
@@ -106,33 +132,7 @@ css-swim-baseline: "2:27"
 
 **Notes:** Tempo work builds aerobic capacity without deep fatigue. Less intense than anaerobic day last week. Indoor trainer. Moderate effort - RPE 6-7/10.
 
-#### Evening Swim (20:30-21:10) - 40min
-**Workout:** [[../workouts/swim/drill-heavy-technique|Drill-Heavy Technique]]
-**Time:** 20:30-21:10
-
-**Structure:**
-- Warmup: 200m easy
-- Drill Set (45%): 8x50m @ 1:20
-  - 2x sculling (forearm feel)
-  - 2x catch-up
-  - 2x fist drill
-  - 2x single-arm
-- Pull Buoy Set: 3x100m @ 2:35/100m, 25s rest
-- Continuous: 200m smooth @ 2:40/100m
-- Cooldown: 100m
-- **Total: 1400m**
-
-**Target Metrics:**
-- activity:: Swim
-- duration-planned:: 40
-- distance-planned:: 1400
-- zone-target:: Z1-Z2
-- pace-target:: 2:35-2:40/100m
-- drill-percentage:: 57
-
-**Notes:** 57% technique focus (45% drills + 21% pull buoy). Lighter session before Wednesday pickup constraints.
-
-**Daily Total:** 3 sessions, 2h40 (easy run+strides + tempo bike + drill swim)
+**Daily Total:** 2 sessions, 2h (easy run+strides + tempo bike)
 
 ---
 
@@ -363,14 +363,13 @@ css-swim-baseline: "2:27"
 - Combined technique emphasis: 50%
 
 **Constraints Verified:**
-- ✅ Monday rest day
+- ✅ Monday easy/technique swim (build week)
 - ✅ Thursday swim 20:00-21:00
-- ✅ No back-to-back swim days (Tue/Thu/Sun spacing)
+- ✅ No back-to-back swim days (Mon/Thu/Sun spacing)
 - ✅ School pickup times respected (Wed 16:00)
 - ✅ Onsite Tue/Thu gym access
 
 **Intensity Distribution:**
 - Hard days: Tue (tempo bike), Thu (VO2max bike + threshold swim)
 - Moderate days: Wed (easy sessions), Sat (long bike), Sun (long run)
-- Easy day: Fri (easy run only)
-- Rest: Mon
+- Easy days: Mon (technique swim only), Fri (easy run only)

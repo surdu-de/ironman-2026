@@ -11,11 +11,11 @@ This is a personal training planning repository for completing Ironman Hamburg o
 - **Duration:** 30 weeks (Nov 10, 2025 - Jun 7, 2026)
 - **Periodization:** 3 weeks build + 1 week recovery (7 cycles + 2-week taper)
 - **Weekly Constraints:**
-  - Monday: Rest day (mandatory)
-  - Tuesday/Thursday: Onsite work days with gym access (gym must be morning sessions)
+  - Monday: Rest day (easy/technique swim allowed starting Week 5 in build weeks)
   - Thursday: Fixed swim session (20:00-21:00)
   - Swim sessions should NOT be scheduled back-to-back days (need rest between swim sessions)
   - 50m pool available
+  - **Weekend:** Flexible for long sessions
 
 ## Daily Schedule & Constraints
 
@@ -27,19 +27,12 @@ This is a personal training planning repository for completing Ironman Hamburg o
 - **Training Windows:** Morning (before 9:00), lunch break, evening (after 18:00)
 
 ### Family Commitments
-- **School Drop-off:** 7:30 daily (daughter starts at 8:00)
+- **School Drop-off:** 7:45 daily (daughter starts at 8:00)
 - **School Pick-up:**
   - Monday: 18:30
   - Wednesday: 16:00
   - Thursday: 17:30
   - Other days: flexible
-
-### Training Time Windows
-- **Tuesday/Thursday Mornings:** Gym sessions before work (after 7:30 drop-off)
-- **Tuesday/Thursday Evenings:** Limited availability due to pick-up schedule
-- **Wednesday:** Morning or lunch workouts (pick-up at 16:00)
-- **Friday:** Flexible (remote work day)
-- **Weekend:** Flexible for long sessions
 
 ## Priority Focus
 

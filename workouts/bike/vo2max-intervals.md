@@ -39,21 +39,56 @@ High-intensity interval workout targeting VO2max development. These are VERY HAR
 
 ## Common Formats
 
-### Format 1: 3x3min @ Z5
+### Format 1: 3x3min @ 105% FTP (Medium Intervals)
 - **Total Duration:** 60min
 - **Warmup:** 15min progressive, include 2x1min @ Z3 efforts
-- **Main Set:** 3x3min @ VO2max (Z5)
-- **Recovery:** 5min very easy spin (Z1) between intervals
+- **Main Set:** 3x3min @ 231W (105% FTP)
+- **Recovery:** 3min very easy spin (Z1, 80-100W) between intervals
 - **Cooldown:** 15min easy
 
-### Format 2: 4x3min @ Z5
+### Format 2: 4x3min @ 105% FTP (Medium Intervals)
 - **Total Duration:** 70min
 - **Warmup:** 20min with 3x1min build efforts
-- **Main Set:** 4x3min @ VO2max
-- **Recovery:** 5min Z1 between intervals
+- **Main Set:** 4x3min @ 231W (105% FTP)
+- **Recovery:** 3min Z1 between intervals
 - **Cooldown:** 15min easy
 
-### Format 3: 5x2min @ Z5
+### Format 3: 5x3min @ 105% FTP (Medium Intervals - Advanced)
+- **Total Duration:** 75min
+- **Warmup:** 20min progressive
+- **Main Set:** 5x3min @ 231W (105% FTP)
+- **Recovery:** 3min Z1 between intervals
+- **Cooldown:** 15min easy
+
+### Format 4: 3x4min @ 105% FTP (Longer Medium Intervals)
+- **Total Duration:** 75min
+- **Warmup:** 20min progressive, 3x1min Z3 primers
+- **Main Set:** 3x4min @ 231W (105% FTP)
+- **Recovery:** 4min very easy spin between intervals
+- **Cooldown:** 20min easy
+
+### Format 5: 4x4min @ 105% FTP (Peak Medium Intervals)
+- **Total Duration:** 85min
+- **Warmup:** 20min progressive, 3x1min Z3 primers
+- **Main Set:** 4x4min @ 231W (105% FTP)
+- **Recovery:** 4min very easy spin between intervals
+- **Cooldown:** 20min easy
+
+### Format 6: 3x4min @ 107% FTP (High Intensity Medium)
+- **Total Duration:** 75min
+- **Warmup:** 20min progressive
+- **Main Set:** 3x4min @ 235W (107% FTP)
+- **Recovery:** 4min very easy spin between intervals
+- **Cooldown:** 20min easy
+
+### Format 7: 4x4min @ 107% FTP (Peak High Intensity)
+- **Total Duration:** 85min
+- **Warmup:** 20min progressive
+- **Main Set:** 4x4min @ 235W (107% FTP)
+- **Recovery:** 4min very easy spin between intervals
+- **Cooldown:** 20min easy
+
+### Format 8: 5x2min @ Z5 (Short Intervals - Legacy)
 - **Total Duration:** 65min
 - **Warmup:** 20min progressive
 - **Main Set:** 5x2min @ VO2max
