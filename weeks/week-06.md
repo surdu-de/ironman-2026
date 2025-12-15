@@ -11,7 +11,7 @@ swim-sessions: 3
 bike-sessions: 4
 run-sessions: 4
 strength-sessions: 0
-total-duration: 735
+total-duration: 740
 vo2-max: 50
 vo2-max-baseline: 50
 ftp-bike: 220
@@ -30,8 +30,8 @@ css-swim-baseline: "2:27"
 |              | Swim   | Bike   | Run     | Total  |
 |--------------|--------|--------|---------|--------|
 | **Sessions** | 3      | 4      | 4       | 11     |
-| **Time**     | 2h20   | 6h15   | 3h45    | 12h20  |
-| **Distance** | 5200m  | 170km  | 33km    | -      |
+| **Time**     | 2h10   | 6h15   | 4h00    | 12h25  |
+| **Distance** | 4850m  | 170km  | 35km    | -      |
 
 ---
 
@@ -40,18 +40,18 @@ css-swim-baseline: "2:27"
 | Date           | Activity      | Workout Template                                                     | Duration | Status |
 | -------------- | ------------- | -------------------------------------------------------------------- | -------- | ------ |
 | 15.12.2025 Mon | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 40       | ⬜      |
-| 16.12.2025 Tue | 🏃 Run        | [[../workouts/run/easy-strides\|Easy with Strides 45min]]           | 45       | ⬜      |
+| 16.12.2025 Tue | 🏃 Run        | [[../workouts/run/threshold-intervals\|Threshold Intervals 60min]]   | 60       | ⬜      |
 |                | 🚴 Bike       | [[../workouts/bike/tempo-intervals\|Tempo Intervals 75min]]         | 75       | ⬜      |
 | 17.12.2025 Wed | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance 75min]]                | 75       | ⬜      |
 |                | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 50min]]                 | 50       | ⬜      |
 | 18.12.2025 Thu | 🚴 Bike       | [[../workouts/bike/vo2max-intervals\|VO2max Intervals 80min]]       | 80       | ⬜      |
-|                | 🏊 Swim       | [[../workouts/swim/threshold-pace\|Threshold Pace 70min]]            | 70       | ⬜      |
-| 19.12.2025 Fri | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 50min]]                 | 50       | ⬜      |
+|                | 🏊 Swim       | [[../workouts/swim/threshold-pace\|Threshold Pace 60min]]            | 60       | ⬜      |
+| 19.12.2025 Fri | 🏃 Run        | [[../workouts/run/easy-strides\|Easy with Strides 50min]]            | 50       | ⬜      |
 | 20.12.2025 Sat | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance Long 165min]]          | 165      | ⬜      |
 | 21.12.2025 Sun | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 50       | ⬜      |
 |                | 🏃 Run        | [[../workouts/run/long-run\|Long Run 120min]]                        | 120      | ⬜      |
 
-**Weekly Total:** 735 minutes (~12h15)
+**Weekly Total:** 740 minutes (~12h20)
 
 ---
 
@@ -91,25 +91,25 @@ css-swim-baseline: "2:27"
 
 ### Tue Dec 16 ⬜
 
-#### Morning Run (6:15-7:00) - 45min
-**Workout:** [[../workouts/run/easy-strides|Easy Aerobic with Strides]]
-**Time:** 6:15-7:00
+#### Morning Run (6:15-7:15) - 60min
+**Workout:** [[../workouts/run/threshold-intervals|Threshold Intervals - 5x4min @ Faster Pace]]
+**Time:** 6:15-7:15
 
 **Structure:**
-- 30min: Easy aerobic (Z2, 6:30-7:00/km)
-- 6x20s: Strides @ Z5 (fast but controlled, ~4:00/km pace)
-- 40s: Walk recovery between strides
-- 5min: Easy cooldown
+- Warmup: 15min easy (Z1-Z2)
+- Main Set: 5x4min @ Z4 threshold - **TARGET: 4:35-4:40/km pace**
+- Recovery: 3min easy jog between intervals
+- Cooldown: 10min easy
 
 **Target Metrics:**
 - activity:: Run
-- duration-planned:: 45
-- distance-planned:: 6.5
-- zone-target:: Z2 + Z5 strides
-- avg-hr-target:: 135-145
-- pace-target:: 6:30-7:00/km
+- duration-planned:: 60
+- distance-planned:: 10-11
+- zone-target:: Z4 Threshold
+- avg-hr-target:: 170-175 (testing if faster pace drives HR higher)
+- pace-target:: 4:35-4:40/km (faster than Week 5's 4:42-4:48)
 
-**Notes:** Strides add neuromuscular stimulus without fatigue. Light activation before bike session. Focus on form during strides, not all-out sprinting.
+**Notes:** KEY SESSION - Testing faster threshold pace than Week 5. Week 5 you ran 4:42-4:48/km @ 164-166 HR. Today we're pushing 4:35-4:40/km to see if HR reaches 170-175 target zone. This calibrates your actual threshold HR. Start first interval aggressively - trust the pace. Warmup is critical for these faster intervals.
 
 #### Lunch Bike (12:15-13:30) - 75min
 **Workout:** [[../workouts/bike/tempo-intervals|Tempo Intervals - 3x10min @ Z3]]
@@ -132,7 +132,7 @@ css-swim-baseline: "2:27"
 
 **Notes:** Tempo work builds aerobic capacity without deep fatigue. Less intense than anaerobic day last week. Indoor trainer. Moderate effort - RPE 6-7/10.
 
-**Daily Total:** 2 sessions, 2h (easy run+strides + tempo bike)
+**Daily Total:** 2 sessions, 2h15 (threshold run + tempo bike)
 
 ---
 
@@ -202,59 +202,59 @@ css-swim-baseline: "2:27"
 
 **Notes:** +1 interval vs Week 5 (5 vs 4). This is HARD. Indoor trainer required. KEY VO2max session of the week. Quality over quantity - nail all 5 intervals at consistent power.
 
-#### Evening Swim (20:00-21:10) - 70min
+#### Evening Swim (20:00-21:00) - 60min
 **Workout:** [[../workouts/swim/threshold-pace|Mixed Technique + Threshold + Pull Buoy]]
-**Time:** 20:00-21:10
+**Time:** 20:00-21:00 (Max 60min due to pool time constraints)
 
 **Structure:**
-- Warmup: 300m easy build
-- Drill Set (25%): 6x50m @ 1:15
-  - 2x fist drill
+- Warmup: 250m easy build
+- Drill Set (20%): 4x50m @ 1:15
   - 2x catch-up
-  - 2x single-arm
-- Main Set: 5x200m @ 2:30/100m (T3-T4 pace), 40s rest
-- Pull Buoy Finisher: 400m continuous @ 2:40/100m
-  - 200m, 30s rest, 200m
+  - 2x fist drill
+- Main Set: 4x200m @ 2:30/100m (T3-T4 pace), 40s rest
+- Pull Buoy Finisher: 300m continuous @ 2:40/100m
   - Focus: Catch power, high elbow
 - Cooldown: 150m
-- **Total: 2450m**
+- **Total: 2100m**
 
 **Target Metrics:**
 - activity:: Swim
-- duration-planned:: 70
-- distance-planned:: 2450
+- duration-planned:: 60
+- distance-planned:: 2100
 - zone-target:: T3-T4
 - pace-target:: 2:30/100m
-- drill-percentage:: 25
-- pull-buoy-percentage:: 16
+- drill-percentage:: 19
+- pull-buoy-percentage:: 14
 
-**Notes:** Fixed Thursday 20:00 swim. Longer main set (+1 interval vs Week 5). Pull buoy volume increased to 400m (16%). Total technique focus: 41%.
+**Notes:** Fixed Thursday 20:00-21:00 swim (60min max pool time). Main set: 4x200m threshold pace. Pull buoy 300m for upper body strength. Total technique focus: 33%.
 
-**Daily Total:** 2 sessions, 2h30 (VO2max bike + threshold swim)
+**Daily Total:** 2 sessions, 2h20 (VO2max bike + threshold swim)
 
 ---
 
 ### Fri Dec 19 ⬜
 
 #### Morning Run (6:30-7:20) - 50min
-**Workout:** [[../workouts/run/easy-aerobic|Easy Aerobic Run]]
+**Workout:** [[../workouts/run/easy-strides|Easy Aerobic Run with Strides]]
 **Time:** 6:30-7:20
 
 **Structure:**
-- Continuous easy (Z2)
-- Pace: 6:30-7:00/km
-- HR: 135-145 bpm
+- 35min: Easy aerobic (Z2, 6:30-7:00/km)
+- 6x20s: Strides @ Z5 (fast but controlled, ~4:00/km pace)
+- 40s: Walk recovery between strides
+- 5min: Easy cooldown
 
 **Target Metrics:**
 - activity:: Run
 - duration-planned:: 50
 - distance-planned:: 7-7.5
-- zone-target:: Z2
-- avg-hr-target:: 138-142
+- zone-target:: Z2 + Z5 strides
+- avg-hr-target:: 135-145
+- pace-target:: 6:30-7:00/km (easy portion)
 
-**Notes:** Easy recovery run. +5min vs Week 5. RPE 4/10.
+**Notes:** Strides add neuromuscular stimulus without fatigue. Prepares legs for Saturday long bike. Focus on form during strides, not all-out sprinting. These are controlled fast efforts to maintain leg turnover.
 
-**Daily Total:** 1 session, 50min (easy run)
+**Daily Total:** 1 session, 50min (easy run + strides)
 
 ---
 
@@ -341,35 +341,38 @@ css-swim-baseline: "2:27"
 **Week 6 Status: Planned**
 - Sessions planned: 11
 - Sessions completed: 0
-- Total planned duration: 12h15
+- Total planned duration: 12h20 (740min)
 
 **Progression from Week 5:**
-- Total hours: +55min (+8%)
+- Total hours: +2h03 (+20%)
 - Bike: +25km, +30min
-- Run: +3km, +15min (added 4th run session)
-- Swim: +400m, +10min
-- VO2max bike: 5 intervals (up from 4)
+- Run: +5km, +30min (added 4th run session + threshold intervals)
+- Swim: +1550m, +13min (adjusted for 60min pool constraint)
+- Run intensity: 5x4min threshold @ faster pace (4:35-4:40 vs Week 5's 4:42-4:48)
+- Bike intensity: 5x3min VO2max @ 231W (up from 4 planned)
 
 **Key Sessions:**
-1. Thursday VO2max bike (5x3min @ 231W) - progression
-2. Saturday long bike (2h30, 85-90km) - +15min
-3. Sunday long run (105min, 15-16km) - +10min
-4. Tuesday tempo bike (3x10min)
-5. Thursday threshold swim (5x200m)
+1. Tuesday threshold run (5x4min @ 4:35-4:40/km) - testing faster pace
+2. Thursday VO2max bike (5x3min @ 231W) - progression
+3. Saturday long bike (2h45, 92-95km) - +15min
+4. Sunday long run (120min, 17-18km) - +10min
+5. Tuesday tempo bike (3x10min @ 155W)
+6. Thursday threshold swim (4x200m, 60min max)
 
 **Swim Technique Focus:**
-- Total drill volume: ~1720m (33% of 5200m)
-- Pull buoy work: ~880m (17% of 5200m)
-- Combined technique emphasis: 50%
+- Total drill volume: ~1520m (31% of 4850m)
+- Pull buoy work: ~730m (15% of 4850m)
+- Combined technique emphasis: 46%
 
 **Constraints Verified:**
 - ✅ Monday easy/technique swim (build week)
-- ✅ Thursday swim 20:00-21:00
+- ✅ Thursday swim 20:00-21:00 (max 60min pool time)
+- ✅ All swim sessions ≤60min (pool time constraint)
 - ✅ No back-to-back swim days (Mon/Thu/Sun spacing)
 - ✅ School pickup times respected (Wed 16:00)
 - ✅ Onsite Tue/Thu gym access
 
 **Intensity Distribution:**
-- Hard days: Tue (tempo bike), Thu (VO2max bike + threshold swim)
-- Moderate days: Wed (easy sessions), Sat (long bike), Sun (long run)
-- Easy days: Mon (technique swim only), Fri (easy run only)
+- Hard days: Tue (threshold run + tempo bike), Thu (VO2max bike + threshold swim)
+- Moderate days: Wed (easy bike + easy run), Sat (long bike), Sun (long run)
+- Easy days: Mon (technique swim only), Fri (easy run + strides)
