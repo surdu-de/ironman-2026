@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a personal training planning repository for completing Ironman Hamburg on June 7, 2026. The athlete is based in Hamburg, Germany, providing a home advantage for course familiarization.
+This is a personal training planning repository for completing Ironman Hamburg on June 7, 2026. The athlete is ˚based in Hamburg, Germany, providing a home advantage for course familiarization.
 
 ## Training Structure
 

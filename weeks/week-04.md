@@ -16,11 +16,11 @@ This week integrates Garmin Gran Fondo prescribed workouts (Sprint, Threshold, T
 |              | Swim        | Bike       | Run        | Strength | Total      |
 |--------------|-------------|------------|------------|----------|------------|
 | **Planned Sessions** | 3 (1 test)  | 4          | 1 test     | 1        | 9          |
-| **Actual Sessions**  | 1 (test)    | 4          | 1 (+1 pending) | 0    | 6 (+1 pending) |
+| **Actual Sessions**  | 1 (test)    | 5 (1 test) | 2 (1 test) | 0        | 8          |
 | **Planned Time**     | 2h20        | 3h10       | 1h00       | 25min    | 6h55       |
-| **Actual Time**      | 57min       | 2h07       | 45min (+pending) | 0  | 3h49 (+pending) |
+| **Actual Time**      | 57min       | 2h27       | 1h47       | 0        | 5h11       |
 | **Planned Distance** | ~2000m+test | ~95km      | ~9km+test  | -        | -          |
-| **Actual Distance**  | 1350m       | 70.51km    | 8.51km (+pending) | - | -          |
+| **Actual Distance**  | 1350m       | 80.48km    | 19.74km    | -        | -          |
 
 ---
 
@@ -39,7 +39,8 @@ This week integrates Garmin Gran Fondo prescribed workouts (Sprint, Threshold, T
 |                | 🏊 Test     | CSS Test                           | 🌙 20:43  | 57       | ✅      |
 | 05.12.2025 Fri | -           | Rest day (off-plan)                | -         | -        | ✅      |
 | 06.12.2025 Sat | -           | Rest day (off-plan)                | -         | -        | ✅      |
-| 07.12.2025 Sun | 🏃 Run      | TBD                                | pending   | pending  | ⏳      |
+| 07.12.2025 Sun | 🏃 Test     | Run Threshold Test                 | Morning   | 62       | ✅      |
+|                | 🚴 Test     | Zwift Ramp Test (FTP)              | Later     | 20       | ⚠️      |
 
 **Weekly Total:** ~400 minutes (~6-8h)
 
@@ -239,31 +240,89 @@ Extended recovery period continued. Both planned sessions (tempo bike + run thre
 - status:: completed
 - notes:: Second consecutive rest day. Skipped planned tempo bike (76min) and run threshold test (60min). Recovery week principle maintained with significantly reduced training volume.
 
-### Sun Dec 7 ⏳
-**Run Threshold Test - PENDING**
+### Sun Dec 7 ✅
+**Run Threshold Test - TARGET ACHIEVED**
 
 **Moved from Saturday:** 30-minute threshold test (originally scheduled Sat Dec 6)
 
-**Protocol:**
-- Warmup: ~10-15min easy
-- **30-minute TIME TRIAL:** Run as hard as you can sustain for 30 minutes
-  - Target pace: ~4:35/km (13s/km faster than 4:48 baseline)
-  - Even pacing critical
-  - Record average pace and average HR
-- Cooldown: ~10min easy/walking
+**Test Structure:**
+- **Warmup:** 15:01 (2.32km @ 6:27/km, HR 141)
+- **30-Minute Threshold Interval:** 30:00 @ maximum sustainable effort
+- **Cooldown:** 16:50 (2.35km @ 7:09/km, HR 147)
 
-**Target Distance:** ~6.5km in 30min @ 4:35/km pace
+**THRESHOLD TEST RESULTS:**
+- **Distance:** 6.55 km in 30:00
+- **Threshold Pace: 4:35/km** ⬆️ (13s/km faster than 4:48 baseline - TARGET ACHIEVED!)
+- **Threshold HR: 180 bpm** (avg), 184 bpm (max)
+- **Threshold Power: 455W** (avg), NP® 454W
+- **Cadence:** 176 spm
+- **Ground Contact Time:** 246ms
+- **Stride Length:** 1.23m
+- **Vertical Oscillation:** 8.8cm
+- **Vertical Ratio:** 7.2%
 
-**Purpose:**
-- Establish run training zones for Weeks 5-30
-- Test if lactate threshold has improved from baseline
-- Complete Week 4 testing objective alongside CSS swim test
-
-**Context:** Strategic placement after 2-day rest (Fri-Sat) provides fresh legs for accurate threshold assessment. This completes the experimentation phase of recovery week - testing both prescribed workouts (Garmin) and personal limits (threshold capacity).
-
+**Overall Run Performance:**
+- activity:: Run
 - date:: 2025-12-07
-- status:: pending
-- notes:: Final test of Week 4 experimentation phase. Will establish whether threshold pace improved from 4:48/km baseline.
+- duration-actual:: 61.8
+- duration-moving:: 61.7
+- distance-actual:: 11.23
+- avg-pace:: 5:30
+- best-pace:: 3:32
+- avg-hr:: 162
+- max-hr:: 184
+- avg-power:: 382
+- max-power:: 642
+- np:: 404
+- avg-cadence:: 169
+- max-cadence:: 192
+- avg-ground-contact:: 267
+- avg-stride-length:: 1.07
+- avg-vertical-oscillation:: 8.4
+- elevation-gain:: 28
+- elevation-loss:: 16
+- zone-target:: Threshold (30min interval)
+- zone-actual:: Z5 Threshold (180 bpm, 455W)
+- status:: completed
+- aerobic-te:: TBD
+- calories:: 949
+- notes:: **LACTATE THRESHOLD TEST - SUCCESS!** Maximum effort 30-minute time trial. Achieved target threshold pace of 4:35/km (13s/km improvement from 4:48 baseline). Threshold HR established at 180 bpm. Excellent form metrics: 176 spm cadence during threshold, 246ms ground contact time, 1.23m stride length. Power averaged 455W during threshold interval (NP 454W). This establishes new run training zones for Weeks 5-30. Test completed after 2-day rest period, providing fresh legs for accurate assessment.
+
+#### 🚴 Bike - Zwift Ramp Test (Later Same Day) ⚠️
+**FTP Test - COMPROMISED**
+
+**Test Protocol:** Progressive 1-minute intervals increasing power until failure
+- **Warmup:** 5:01 @ 156W (HR 136-148)
+- **Ramp Steps:** 1-minute intervals from 85W → 269W
+- **Failure Point:** 10 seconds into 270W+ step
+
+**Test Results:**
+- **Highest 1-min Power:** 269W (lap 15)
+- **Zwift FTP Estimate:** 205W (75% of 269W max)
+- **Max HR:** 181 bpm (matching run test max - indicates fatigue)
+- **Max Power:** 305W (brief peak)
+- **Average Cadence:** 83 rpm
+
+**Actual Performance:**
+- activity:: Bike
+- date:: 2025-12-07
+- duration-actual:: 19.9
+- duration-moving:: 19.8
+- distance-actual:: 9.97
+- avg-speed:: 30.0
+- avg-hr:: 152
+- max-hr:: 181
+- avg-power:: 161
+- max-power:: 305
+- np:: 188
+- avg-cadence:: 83
+- max-cadence:: 97
+- elevation-gain:: 37
+- zone-target:: Ramp to failure
+- zone-actual:: Progressive Z2 → Z5+
+- status:: completed
+- calories:: 184
+- notes:: **FTP RAMP TEST - RESULT COMPROMISED.** Zwift estimated 205W FTP based on 269W max 1-min power. However, test was performed same day as maximum effort 30-min run threshold test. HR hit 181 bpm (same as run test max), indicating residual fatigue affecting true FTP measurement. Conservative 200W FTP adopted pending fresh retest later this week. This test demonstrates the importance of proper recovery between threshold assessments.
 
 ---
 
@@ -285,19 +344,19 @@ Extended recovery period continued. Both planned sessions (tempo bike + run thre
 ## Week 4 Summary & Analysis
 
 ### Actual Training Load
-**Completed Sessions:** 7 workouts over 4 training days
+**Completed Sessions:** 9 workouts over 5 training days
 - **Monday:** Rest (planned)
 - **Tuesday:** 1 bike session (40min) - swim skipped
 - **Wednesday:** 2 bike sessions (50min + 11min) - strength skipped
 - **Thursday:** 3 sessions - run (45min) + bike (26min) + swim CSS test (57min)
 - **Friday-Saturday:** Rest days (off-plan recovery)
-- **Sunday:** Run pending
+- **Sunday:** Run threshold test (62min) + Zwift FTP ramp test (20min)
 
 **Actual Weekly Volume:**
-- **Bike:** 4 sessions, ~127min (~2h07)
-- **Run:** 1 session, ~45min (+ pending Sunday run)
+- **Bike:** 5 sessions, ~147min (~2h27) - includes Zwift ramp test
+- **Run:** 2 sessions, ~107min (~1h47) - includes unplanned Thu run + Sun threshold test
 - **Swim:** 1 session (CSS test), ~57min
-- **Total:** ~229min (~3h49) completed, significantly reduced from planned 6h55
+- **Total:** ~311min (~5h11), reduced from planned 6h55 (75% of planned volume)
 
 ### Key Deviations from Plan
 1. **Recovery Strategy:** Condensed training into Mon-Thu block, then extended rest Fri-Sat
@@ -309,23 +368,40 @@ Extended recovery period continued. Both planned sessions (tempo bike + run thre
 3. **Added Sessions:**
    - Thursday unplanned threshold run (45min, 8.51km)
    - Wednesday extra 10s intervals test (11min)
+   - Sunday Zwift FTP ramp test (20min, compromised by same-day run test)
 4. **Modified Workouts:**
    - Tuesday bike: Different sprint structure, lower intensity (138W vs 237W target)
    - Wednesday bike: Recovery pace (110W vs 190W threshold target)
    - Thursday bike: Shortened (26min vs 76min planned)
 
-### Key Achievement
-**CSS Swim Test:** **2:27/100m - PERSONAL RECORD**
+### Key Achievements
+
+**1. CSS Swim Test:** **2:27/100m - PERSONAL RECORD**
 - Improved from 2:33/100m baseline (**6 seconds faster**)
 - Establishes new swim training zones for remaining 26 weeks
 - Excellent technique metrics: 23 SPM stroke rate, Swolf 117
 
+**2. Run Threshold Test:** **4:35/km - TARGET ACHIEVED**
+- Improved from 4:48/km baseline (**13 seconds/km faster**)
+- Threshold HR: 180 bpm
+- Threshold Power: 455W (NP 454W)
+- Distance: 6.55km in 30:00 maximum effort
+- Excellent form: 176 spm cadence, 246ms ground contact, 1.23m stride
+- Establishes new run training zones for remaining 26 weeks
+
+**3. Zwift Ramp Test (FTP):** **205W estimated (compromised)**
+- Completed same day as run threshold test
+- Max HR 181 bpm (same as run test) indicates residual fatigue
+- Conservative 200W FTP adopted pending fresh retest
+- Awaiting proper test later this week for accurate assessment
+
 ### Recovery Week Assessment
 **Appropriateness:** ✅ Excellent
-- Significantly reduced volume (3h49 vs 6h55 planned = 45% reduction)
-- High-quality CSS test result despite recovery week
-- Smart adaptation: condensed training, extended rest period
-- One testing objective achieved (CSS), run threshold test deferred
+- Significantly reduced volume (5h11 vs 6h55 planned = 75% of planned volume)
+- **All primary testing objectives achieved:** CSS swim test + Run threshold test
+- **Bonus test completed:** Zwift FTP ramp test (compromised, needs retest)
+- High-quality test results despite recovery week
+- Smart adaptation: condensed training Mon-Thu, extended rest Fri-Sat, tests on Sun
 
 **Strategic Use of Recovery Week:**
 Recovery weeks aren't just for rest - they're perfect for experimentation and learning. With reduced volume and lower stakes:
@@ -372,17 +448,23 @@ This experimentation approach transforms recovery week from passive rest into ac
 
 This realization during Week 4 (recovery/testing week) is perfectly timed - entering Week 5 (start of new build cycle) with clear direction for targeted, self-designed training sessions.
 
-### Training Zone Updates
-- **FTP Bike:** 220W (updated from 188W prior to Week 4, not formally tested this week)
-- **CSS Swim:** **2:27/100m** (NEW - tested Thu Dec 4, improved from 2:33 baseline, 6s faster)
-- **Run Threshold:** Testing today (Sunday) - target 4:35/km (vs 4:48 baseline, seeking 13s improvement)
+### Training Zone Updates (Week 4 Complete)
+- **FTP Bike:** **200W** (conservative estimate, Zwift test suggested 205W but compromised by same-day run test)
+- **CSS Swim:** **2:27/100m** ⬆️ (tested Thu Dec 4, improved from 2:33 baseline, **+6s faster**)
+- **Run Threshold Pace:** **4:35/km** ⬆️ (tested Sun Dec 7, improved from 4:48 baseline, **+13s/km faster**)
+- **Run Threshold HR:** **180 bpm** (established Sun Dec 7)
+- **Run Threshold Power:** **455W** (established Sun Dec 7, NP 454W)
+
+**Pending:** Fresh bike FTP test planned for later this week when fully recovered from Sunday's double threshold day
 
 ---
 
 ## Week Completion
-**Progress:** ✅ ✅ ✅ ✅ ✅ ✅ ⏳ (6/7 days completed, 1 pending)
+**Progress:** ✅ ✅ ✅ ✅ ✅ ✅ ✅ (7/7 days completed)
 
 **Training Zones (Updated Dec 7):**
-- **FTP Bike:** 220W (updated from 188W before Week 4, not tested this week)
+- **FTP Bike:** **200W** (conservative, awaiting fresh test - Zwift estimated 205W but test compromised)
 - **CSS Swim:** **2:27/100m** ⬆️ (tested Thu Dec 4, +6s from 2:33 baseline)
-- **Run Threshold:** Testing today Sun Dec 7 (target 4:35/km, +13s from 4:48 baseline)
+- **Run Threshold Pace:** **4:35/km** ⬆️ (tested Sun Dec 7, +13s/km from 4:48 baseline)
+- **Run Threshold HR:** **180 bpm** (tested Sun Dec 7)
+- **Run Threshold Power:** **455W** (tested Sun Dec 7)

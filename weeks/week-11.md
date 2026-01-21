@@ -39,17 +39,17 @@ css-swim-baseline: "2:27"
 
 | Date           | Activity      | Workout Template                                                     | Duration | Status |
 | -------------- | ------------- | -------------------------------------------------------------------- | -------- | ------ |
-| 19.01.2026 Mon | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 50       | ⬜      |
-| 20.01.2026 Tue | 🏃 Run        | [[../workouts/run/threshold-intervals\|Threshold Intervals 70min]]  | 70       | ⬜      |
-|                | 🚴 Bike       | [[../workouts/bike/anaerobic-sweetspot\|Anaerobic Sweetspot 95min]] | 95       | ⬜      |
-| 21.01.2026 Wed | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance 95min]]                | 95       | ⬜      |
-|                | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 60min]]                 | 60       | ⬜      |
-| 22.01.2026 Thu | 🚴 Bike       | [[../workouts/bike/vo2max-intervals\|VO2max Intervals 90min]]       | 90       | ⬜      |
-|                | 🏊 Swim       | [[../workouts/swim/vo2max-intervals-2200m\|VO2max Intervals]]        | 80       | ⬜      |
-| 23.01.2026 Fri | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 60min]]                 | 60       | ⬜      |
-| 24.01.2026 Sat | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance Long 195min]]          | 195      | ⬜      |
-| 25.01.2026 Sun | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 65       | ⬜      |
-|                | 🏃 Run        | [[../workouts/run/long-run\|Long Run 135min]]                        | 135      | ⬜      |
+| 19.01.2026 Mon | 🏊 Swim       | [[drill-heavy-technique\|Drill-Heavy Technique]]    | 50       | ⬜      |
+| 20.01.2026 Tue | 🏃 Run        | [[threshold-intervals\|Threshold Intervals 70min]]  | 70       | ⬜      |
+|                | 🚴 Bike       | [[anaerobic-sweetspot\|Anaerobic Sweetspot 95min]] | 95       | ⬜      |
+| 21.01.2026 Wed | 🚴 Bike       | [[z2-endurance\|Z2 Endurance 95min]]                | 95       | ⬜      |
+|                | 🏃 Run        | [[easy-aerobic\|Easy Aerobic 60min]]                 | 60       | ⬜      |
+| 22.01.2026 Thu | 🚴 Bike       | [[vo2max-intervals\|VO2max Intervals 90min]]       | 90       | ⬜      |
+|                | 🏊 Swim       | [[vo2max-intervals-2200m\|VO2max Intervals]]        | 80       | ⬜      |
+| 23.01.2026 Fri | 🏃 Run        | [[easy-aerobic\|Easy Aerobic 60min]]                 | 60       | ⬜      |
+| 24.01.2026 Sat | 🚴 Bike       | [[z2-endurance\|Z2 Endurance Long 195min]]          | 195      | ⬜      |
+| 25.01.2026 Sun | 🏊 Swim       | [[drill-heavy-technique\|Drill-Heavy Technique]]    | 65       | ⬜      |
+|                | 🏃 Run        | [[long-run\|Long Run 135min]]                        | 135      | ⬜      |
 
 **Weekly Total:** 905 minutes (~15h05)
 
@@ -60,7 +60,7 @@ css-swim-baseline: "2:27"
 ### Mon Jan 19 ⬜
 
 #### Evening Swim (19:00-19:50) - 50min
-**Workout:** [[../workouts/swim/drill-heavy-technique|Drill-Heavy Technique]]
+**Workout:** [[drill-heavy-technique|Drill-Heavy Technique]]
 **Time:** 19:00-19:50
 
 **Structure:**
@@ -91,7 +91,7 @@ css-swim-baseline: "2:27"
 ### Tue Jan 20 ⬜
 
 #### Morning Run (6:15-7:25) - 70min
-**Workout:** [[../workouts/run/threshold-intervals|Threshold Intervals - 4x6min @ Z4]]
+**Workout:** [[threshold-intervals|Threshold Intervals - 4x6min @ Z4]]
 **Time:** 6:15-7:25
 
 **Structure:**
@@ -111,7 +111,7 @@ css-swim-baseline: "2:27"
 **Notes:** Peak threshold run session. 4x6min intervals - longer sustained efforts building race-pace endurance. Target the faster end of Cycle 3 pacing (4:40/km).
 
 #### Lunch Bike (12:15-13:50) - 95min
-**Workout:** [[../workouts/bike/anaerobic-sweetspot|Anaerobic Intervals - 4x10min @ 108% FTP]]
+**Workout:** [[anaerobic-sweetspot|Anaerobic Intervals - 4x10min @ 108% FTP]]
 **Time:** 12:15-13:50
 
 **Structure:**
@@ -138,7 +138,7 @@ css-swim-baseline: "2:27"
 ### Wed Jan 21 ⬜
 
 #### Morning Bike (6:30-7:50) - 80min
-**Workout:** [[../workouts/bike/z2-endurance|Z2 Endurance Ride]]
+**Workout:** [[z2-endurance|Z2 Endurance Ride]]
 **Time:** 6:30-7:50
 
 **Structure:**
@@ -157,7 +157,7 @@ css-swim-baseline: "2:27"
 **Notes:** Longer Z2 session (+5min from Week 10). Active recovery after Tuesday's peak intensity. Indoor.
 
 #### Evening Run (18:15-19:15) - 60min
-**Workout:** [[../workouts/run/easy-aerobic|Easy Aerobic Run]]
+**Workout:** [[easy-aerobic|Easy Aerobic Run]]
 **Time:** 18:15-19:15
 
 **Structure:**
@@ -181,7 +181,7 @@ css-swim-baseline: "2:27"
 ### Thu Jan 22 ⬜
 
 #### Midday Bike (13:00-14:30) - 90min
-**Workout:** [[../workouts/bike/vo2max-intervals|VO2max Intervals - 4x4min @ 107% FTP]]
+**Workout:** [[vo2max-intervals|VO2max Intervals - 4x4min @ 107% FTP]]
 **Time:** 13:00-14:30
 
 **Structure:**
@@ -202,7 +202,7 @@ css-swim-baseline: "2:27"
 **Notes:** Peak VO2max session matching Week 10. 4x4min @ 235W (107% FTP). Indoor trainer REQUIRED. This is VERY HARD - 9/10 effort.
 
 #### Evening Swim (20:00-21:20) - 80min
-**Workout:** [[../workouts/swim/vo2max-intervals-2200m|Mixed Technique + VO2max Intervals + Pull Buoy]]
+**Workout:** [[vo2max-intervals-2200m|Mixed Technique + VO2max Intervals + Pull Buoy]]
 **Time:** 20:00-21:20
 
 **Structure:**
@@ -237,7 +237,7 @@ css-swim-baseline: "2:27"
 ### Fri Jan 23 ⬜
 
 #### Morning Run (6:30-7:30) - 60min
-**Workout:** [[../workouts/run/easy-aerobic|Easy Aerobic Run]]
+**Workout:** [[easy-aerobic|Easy Aerobic Run]]
 **Time:** 6:30-7:30
 
 **Structure:**
@@ -261,7 +261,7 @@ css-swim-baseline: "2:27"
 ### Sat Jan 24 ⬜
 
 #### Morning Long Bike (8:00-11:00) - 3h (180min)
-**Workout:** [[../workouts/bike/z2-endurance|Z2 Long Endurance Ride]]
+**Workout:** [[z2-endurance|Z2 Long Endurance Ride]]
 **Time:** 8:00-11:00
 
 **Structure:**
@@ -288,7 +288,7 @@ css-swim-baseline: "2:27"
 ### Sun Jan 25 ⬜
 
 #### Morning Swim (9:00-10:05) - 65min
-**Workout:** [[../workouts/swim/drill-heavy-technique|Drill-Heavy Technique + Pull Buoy]]
+**Workout:** [[drill-heavy-technique|Drill-Heavy Technique + Pull Buoy]]
 **Time:** 9:00-10:05
 
 **Structure:**
@@ -314,7 +314,7 @@ css-swim-baseline: "2:27"
 **Notes:** 57% technique focus (35% drills + 17% pull buoy). Extended technique session before peak long run.
 
 #### Afternoon Long Run (14:00-16:00) - 2h (120min)
-**Workout:** [[../workouts/run/long-run|Long Run Z2-Low Z3]]
+**Workout:** [[long-run|Long Run Z2-Low Z3]]
 **Time:** 14:00-16:00
 
 **Structure:**

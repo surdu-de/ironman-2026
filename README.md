@@ -34,8 +34,8 @@ Complete Ironman Hamburg on June 7, 2026 with significant performance improvemen
 
 ## Training Progress
 
-- **Current Week:** [Week 3 - Build (Peak)](weeks/week-03.md) (Nov 24-30, 2025)
-- **Current Cycle:** [Cycle 1 - Base Building](cycles/cycle-1-base-building.md) (Weeks 1-4)
+- **Current Week:** [Week 3 - Build (Peak)](week-03.md) (Nov 24-30, 2025)
+- **Current Cycle:** [Cycle 1 - Base Building](cycle-1-base-building.md) (Weeks 1-4)
 - **Completed:** 2/30 weeks
 - **Latest FTP:** 188W (established Nov 21, 2025)
 

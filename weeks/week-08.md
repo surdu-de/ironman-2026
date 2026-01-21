@@ -42,13 +42,13 @@ css-swim-baseline: "2:27"
 | Date           | Activity   | Workout Template                                             | Duration | Status |
 | -------------- | ---------- | ------------------------------------------------------------ | -------- | ------ |
 | 29.12.2025 Mon | -          | Rest day                                                     | -        | ⬜      |
-| 30.12.2025 Tue | 🏃 Run     | [[../workouts/run/easy-aerobic\|Easy Aerobic 50min]]        | 50       | ⬜      |
-|                | 🚴 Bike    | [[../workouts/bike/easy-recovery\|Easy Recovery 45min]]     | 45       | ⬜      |
-| 31.12.2025 Wed | 🚴 Bike    | [[../workouts/bike/z2-endurance\|Z2 Endurance 60min]]       | 60       | ⬜      |
-| 01.01.2026 Thu | 🏊 Swim    | [[../workouts/swim/easy-technique\|Easy Technique 60min]]   | 60       | ⬜      |
-| 02.01.2026 Fri | 🏃 Run     | [[../workouts/run/easy-aerobic\|Easy Aerobic 60min]]        | 60       | ⬜      |
-| 03.01.2026 Sat | 🚴 Bike    | [[../workouts/bike/z2-endurance\|Z2 Endurance 90min]]       | 90       | ⬜      |
-| 04.01.2026 Sun | 🏊 Swim    | [[../workouts/swim/easy-technique\|Easy Technique 40min]]   | 40       | ⬜      |
+| 30.12.2025 Tue | 🏃 Run     | [[easy-aerobic\|Easy Aerobic 50min]]        | 50       | ⬜      |
+|                | 🚴 Bike    | [[easy-recovery\|Easy Recovery 45min]]     | 45       | ⬜      |
+| 31.12.2025 Wed | 🚴 Bike    | [[z2-endurance\|Z2 Endurance 60min]]       | 60       | ⬜      |
+| 01.01.2026 Thu | 🏊 Swim    | [[easy-technique\|Easy Technique 60min]]   | 60       | ⬜      |
+| 02.01.2026 Fri | 🏃 Run     | [[easy-aerobic\|Easy Aerobic 60min]]        | 60       | ⬜      |
+| 03.01.2026 Sat | 🚴 Bike    | [[z2-endurance\|Z2 Endurance 90min]]       | 90       | ⬜      |
+| 04.01.2026 Sun | 🏊 Swim    | [[easy-technique\|Easy Technique 40min]]   | 40       | ⬜      |
 
 **Weekly Total:** 355 minutes (~5h55)
 
@@ -61,69 +61,67 @@ css-swim-baseline: "2:27"
 
 ---
 
-### Tue Dec 30 ⬜
+### Tue Dec 30 ⚠️
 
-#### Morning Run (6:30-7:20) - 50min
-**Workout:** [[../workouts/run/easy-aerobic|Easy Aerobic Run]]
-**Time:** 6:30-7:20
+#### Bike Workout (Time TBD) - 76min
+**Workout:** Tempo Intervals (NOT PLANNED - recovery week violation)
+**Time:** TBD
 
-**Structure:**
-- Continuous very easy (Z1-Z2)
-- Pace: 6:45-7:15/km (slower than usual)
-- HR: 125-140 bpm
-
-**Target Metrics:**
-- activity:: Run
-- duration-planned:: 50
-- distance-planned:: 6.5-7.5
-- zone-target:: Z1-Z2
-- avg-hr-target:: <138
-
-**Notes:** Recovery week - keep it truly easy. No strides, no tempo, just relaxed running.
-
-#### Lunch Bike (12:30-13:15) - 45min
-**Workout:** [[../workouts/bike/easy-recovery|Easy Recovery Ride]]
-**Time:** 12:30-13:15
-
-**Structure:**
-- 5min warmup
-- 35min steady Z1-low Z2 (90-120W)
-- 5min cooldown
-
-**Target Metrics:**
+**Actual Performance:**
 - activity:: Bike
-- duration-planned:: 45
-- distance-planned:: 24
-- zone-target:: Z1
-- avg-power-target:: 100-115
+- date:: 2025-12-30
+- duration-actual:: 76.4
+- distance-actual:: 40.04
+- avg-power:: 148
+- normalized-power:: 157
+- avg-hr:: 133
+- max-hr:: 153
+- avg-cadence:: 89
+- calories:: 799
+- status:: completed
 
-**Notes:** Very easy spin. Indoor trainer. Focus on smooth pedaling, not power output.
+**Interval Performance:**
+1. 9:00 @ 177W, HR 141, Cadence 91
+2. 9:00 @ 178W, HR 142, Cadence 90
+3. 9:00 @ 177W, HR 143, Cadence 88
+4. 9:00 @ 192W, HR 146, Cadence 91
+- Recoveries: 5:00 easy @ 118-119W between intervals
+- Warmup: 10:00 @ 118W
+- Cooldown: 15:23 @ 117W
 
-**Daily Total:** 2 sessions, 1h35 (easy run + recovery bike)
+**Notes:** ⚠️ **RECOVERY WEEK VIOLATION** - This was a tempo/sweet spot workout (4x9min @ 177-192W = 80-87% FTP) when recovery week called for easy recovery spin @ 100-115W for 45min. This defeats the purpose of the recovery week. Average power 148W and NP 157W are way above recovery intensity (should be ~110W). The body needs LOW intensity during recovery weeks to adapt and consolidate training gains from the build weeks. Doing tempo work adds fatigue instead of allowing recovery.
+
+**Impact:** This tempo work prevents proper recovery, which may affect Week 9 build phase readiness.
+
+**Daily Total:** 1 session, 76min (tempo bike - should have been easy recovery)
 
 ---
 
-### Wed Dec 31 ⬜ (New Year's Eve)
+### Wed Dec 31 ⚠️ (New Year's Eve)
 
-#### Morning Bike (7:00-8:00) - 60min
-**Workout:** [[../workouts/bike/z2-endurance|Z2 Endurance Ride]]
-**Time:** 7:00-8:00
+#### Long Bike Ride (11:38-14:29) - 2h51 (171min)
+**Workout:** Extended ride (NOT PLANNED - recovery week violation)
+**Time:** 11:38-14:29
 
-**Structure:**
-- 10min warmup
-- 45min steady Z2 (110-130W - lower end)
-- 5min cooldown
-
-**Target Metrics:**
+**Actual Performance:**
 - activity:: Bike
-- duration-planned:: 60
-- distance-planned:: 32
-- zone-target:: Z2
-- avg-power-target:: 115-125
+- date:: 2025-12-31
+- duration-actual:: 170.8
+- distance-actual:: 89.25
+- avg-power:: 148
+- normalized-power:: 159
+- avg-hr:: 139
+- max-hr:: 166
+- avg-cadence:: 88
+- elevation-gain:: 213
+- calories:: 1450
+- status:: completed
 
-**Notes:** Easy Z2 ride. Indoor. Lower power than build weeks. New Year's Eve - keep training light.
+**Notes:** ⚠️ **RECOVERY WEEK VIOLATION #2** - Extended ride at moderate intensity when recovery week called for easy 60min @ 115-125W. Power was significantly above recovery zone (148W avg, 159W NP vs 115-125W target). Duration almost 3x planned (171min vs 60min). Heart rate reached Z3/Z4 (max 166 bpm) which is inappropriate for recovery week. This was essentially a moderate endurance ride during what should be a recovery period.
 
-**Daily Total:** 1 session, 1h (Z2 bike)
+**Impact:** Combined with Tuesday's tempo work, this prevents proper recovery adaptation. Two consecutive days of moderate-to-hard training defeats recovery week purpose.
+
+**Daily Total:** 1 session, 2h51 (long moderate ride - should have been 60min easy)
 
 ---
 
@@ -133,7 +131,7 @@ css-swim-baseline: "2:27"
 **Notes:** New Year's Day rest. Optional 30min walk for active recovery if desired. No structured training.
 
 #### Evening Swim (20:00-21:00) - 60min
-**Workout:** [[../workouts/swim/easy-technique|Drill-Heavy Technique + Form Work]]
+**Workout:** [[easy-technique|Drill-Heavy Technique + Form Work]]
 **Time:** 20:00-21:00
 
 **Structure:**
@@ -166,7 +164,7 @@ css-swim-baseline: "2:27"
 ### Fri Jan 2 ⬜
 
 #### Morning Run (6:30-7:30) - 60min
-**Workout:** [[../workouts/run/easy-aerobic|Easy Aerobic Run]]
+**Workout:** [[easy-aerobic|Easy Aerobic Run]]
 **Time:** 6:30-7:30
 
 **Structure:**
@@ -189,7 +187,7 @@ css-swim-baseline: "2:27"
 ### Sat Jan 3 ⬜
 
 #### Morning Bike (9:00-10:30) - 90min
-**Workout:** [[../workouts/bike/z2-endurance|Z2 Endurance Ride]]
+**Workout:** [[z2-endurance|Z2 Endurance Ride]]
 **Time:** 9:00-10:30
 
 **Structure:**
@@ -213,7 +211,7 @@ css-swim-baseline: "2:27"
 ### Sun Jan 4 ⬜
 
 #### Morning Swim (9:30-10:10) - 40min
-**Workout:** [[../workouts/swim/easy-technique|Easy Technique]]
+**Workout:** [[easy-technique|Easy Technique]]
 **Time:** 9:30-10:10
 
 **Structure:**

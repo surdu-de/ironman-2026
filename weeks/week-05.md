@@ -40,15 +40,15 @@ css-swim-baseline: "2:33"
 
 | Date           | Activity      | Workout Template                                                      | Time Slot | Duration | Status |
 | -------------- | ------------- | --------------------------------------------------------------------- | --------- | -------- | ------ |
-| 08.12.2025 Mon | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]     | 🌙 20:24  | 54       | ✅      |
-| 09.12.2025 Tue | 🏃 Run        | [[../workouts/run/threshold-intervals\|Threshold Intervals 4x4min]]   | 🌑 7:58   | 62       | ✅      |
+| 08.12.2025 Mon | 🏊 Swim       | [[drill-heavy-technique\|Drill-Heavy Technique]]     | 🌙 20:24  | 54       | ✅      |
+| 09.12.2025 Tue | 🏃 Run        | [[threshold-intervals\|Threshold Intervals 4x4min]]   | 🌑 7:58   | 62       | ✅      |
 |                | 🚴 Bike       | Virtual Cycling (Recovery)                                            | 🌙 19:16  | 37       | ✅      |
 | 10.12.2025 Wed | -             | Rest Day                                                              | -         | -        | ✅      |
 | 11.12.2025 Thu | 🚴 Bike       | [[../workouts/bike/threshold\|Threshold 60min]]                       | 🌑 6:57   | 59       | ✅      |
-|                | 🏊 Swim       | [[../workouts/swim/threshold-pace\|Threshold Pace 63min]]             | 🌙 20:13  | 63       | ✅      |
+|                | 🏊 Swim       | [[threshold-pace\|Threshold Pace 63min]]             | 🌙 20:13  | 63       | ✅      |
 | 12.12.2025 Fri | -             | Rest Day                                                              | -         | -        | ✅      |
-| 13.12.2025 Sat | 🏃 Run        | [[../workouts/run/long-run\|Long Run 119min]]                         | ☀️ 14:05  | 119      | ✅      |
-| 14.12.2025 Sun | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance Long 150min]]           | 🌙 17:46  | 150      | ✅      |
+| 13.12.2025 Sat | 🏃 Run        | [[long-run\|Long Run 119min]]                         | ☀️ 14:05  | 119      | ✅      |
+| 14.12.2025 Sun | 🚴 Bike       | [[z2-endurance\|Z2 Endurance Long 150min]]           | 🌙 17:46  | 150      | ✅      |
 
 **Weekly Total:** 617 minutes (~10h17) - Planned: 680min (~11h20)
 
@@ -59,7 +59,7 @@ css-swim-baseline: "2:33"
 ### Mon Dec 8 ✅
 
 #### Evening Swim (20:24-21:18) - 54min
-**Workout:** [[../workouts/swim/drill-heavy-technique|Drill-Heavy Technique]]
+**Workout:** [[drill-heavy-technique|Drill-Heavy Technique]]
 **Time:** 20:24-21:18
 
 **Actual Performance:**
@@ -85,7 +85,7 @@ css-swim-baseline: "2:33"
 ### Tue Dec 9 ✅
 
 #### Morning Run (7:58-9:00) - 62min
-**Workout:** [[../workouts/run/threshold-intervals|Threshold Intervals - 4x4min @ Z4]]
+**Workout:** [[threshold-intervals|Threshold Intervals - 4x4min @ Z4]]
 **Time:** 7:58-9:00 (Morning after school drop-off)
 
 **Actual Performance:**
@@ -170,7 +170,7 @@ css-swim-baseline: "2:33"
 **Notes:** Smart substitution: chose 3x7min @ 199W threshold instead of planned 4x3min @ 210W VO2max. Reasoning: 3min felt too easy, wanted more sustained work. Result: 21min total threshold work (vs 12min VO2max planned) - better for Ironman-specific aerobic capacity. Excellent consistency across all intervals (199W). Session average of 148W includes warmup (133W), recoveries (113W), and cooldown (112W). This was a more challenging workout than the plan called for.
 
 #### Evening Swim (20:13-21:17) - 63min
-**Workout:** [[../workouts/swim/threshold-pace|Threshold Pace]]
+**Workout:** [[threshold-pace|Threshold Pace]]
 **Time:** 20:13-21:17 (Fixed Thursday slot)
 
 **Actual Performance:**
@@ -205,7 +205,7 @@ css-swim-baseline: "2:33"
 ### Sat Dec 13 ✅
 
 #### Afternoon Long Run (14:05-16:04) - 119min
-**Workout:** [[../workouts/run/long-run|Long Run Z2-Low Z3]]
+**Workout:** [[long-run|Long Run Z2-Low Z3]]
 **Time:** 14:05-16:04 (Daylight)
 
 **Actual Performance:**
@@ -235,7 +235,7 @@ css-swim-baseline: "2:33"
 ### Sun Dec 14 ✅
 
 #### Evening Long Bike (17:46-20:16) - 2h30 (150min)
-**Workout:** [[../workouts/bike/z2-endurance|Z2 Long Endurance Ride]]
+**Workout:** [[z2-endurance|Z2 Long Endurance Ride]]
 **Time:** 17:46-20:16 (Evening - Indoor Trainer)
 
 **Actual Performance:**

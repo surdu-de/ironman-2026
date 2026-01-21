@@ -1,14 +1,14 @@
 # 📊 Current Week
-[[weeks/week-03|Week 3]] • [[cycles/cycle-1-base-building|Cycle 1]] • [[performance-data|Training Log]] • [[training-zones|Zones]]
+[[weeks/week-09|Week 9]] • [[cycles/cycle-3-build-testing|Cycle 3]] • [[performance-data|Training Log]] • [[training-zones|Zones]]
 
 > [!summary] Performance Metrics
-> - ⏱️ **12h45** total volume (Week 3 of 30 - Peak Week)
+> - ⏱️ **10h30** planned volume (Week 9 of 30 - Testing Week ❄️ Disrupted)
 > - 📊 **VO2 Max: 50** (baseline: 50)
-> - 🚴 **FTP: 188W** (Nov 21 test → down from 195W baseline)
-> - 🏃 **Threshold: 4:48/km** baseline → 4:48 (target: 4:30/km)
-> - 🏊 **CSS: 2:33/100m** baseline → 2:33 (target: 2:15/100m)
+> - 🚴 **FTP: 225W** ⬆️ (Jan 6 test → +5W from 220W baseline)
+> - 🏃 **Threshold: 4:48/km** baseline (test postponed to Week 12)
+> - 🏊 **CSS: 2:27/100m** baseline (test postponed to Week 12)
 >
-> *Next testing week: Week 4 (Dec 4-6)*
-> *Week 2 Note: Injury recovery Sat-Sun, ready for Week 3 training*
+> *Next testing week: Week 12 (Jan 26 - Feb 1)*
+> *Week 9 Note: ❄️ Snow storm + ice injury disrupted Wed/Thu tests. FTP test completed ✅ 225W. Run/swim tests postponed to Week 12.*
 
-![[weeks/week-03#Weekly Schedule]]
+![[weeks/week-09#Weekly Schedule]]

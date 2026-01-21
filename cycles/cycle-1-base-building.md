@@ -38,7 +38,7 @@ This first cycle establishes the foundation for the entire training block throug
 **Current Baselines (Nov 10, 2025):**
 - **Bike FTP:** 195W (2.17 W/kg)
 - **Swim CSS:** 2:33/100m
-- **Run:** HR-based zones (see [README](40-projects/43%20active/ironman-2026/README.md#training-zones))
+- **Run:** HR-based zones (see [README](40-projects/ironman-2026/README.md#training-zones))
 
 **Note:** All zones will be updated after Week 4 testing (Dec 4-6, 2025)
 
@@ -103,7 +103,7 @@ This first cycle establishes the foundation for the entire training block throug
 - Saturday: Run Threshold Test
 
 **After Testing:**
-1. Record new baseline values in [README](40-projects/43%20active/ironman-2026/README.md#current-training-baseline)
+1. Record new baseline values in [README](40-projects/ironman-2026/README.md#current-training-baseline)
 2. Update training zones for Cycle 2
 3. Rest and recover on Sunday
 4. Begin [Cycle 2: Endurance Development](cycle-2-endurance-development.md)

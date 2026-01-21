@@ -3,18 +3,19 @@ week: 9
 cycle: 3
 start-date: 2026-01-05
 end-date: 2026-01-11
-phase: build
-status: planned
-sessions-completed: 0
-sessions-total: 11
-swim-sessions: 3
-bike-sessions: 4
-run-sessions: 4
+phase: build-testing
+status: completed
+sessions-completed: 7
+sessions-total: 10
+swim-sessions: 1
+bike-sessions: 3
+run-sessions: 3
 strength-sessions: 0
-total-duration: 705
+testing-sessions: 1
+total-duration: 515
 vo2-max: 50
 vo2-max-baseline: 50
-ftp-bike: 220
+ftp-bike: 225
 ftp-bike-baseline: 220
 run-threshold-pace: "4:48"
 run-threshold-baseline: "4:48"
@@ -22,308 +23,381 @@ css-swim: "2:27"
 css-swim-baseline: "2:27"
 ---
 
-# Week 9: Jan 5-11, 2026 (Cycle 3 - Build Week 1)
+# Week 9: Jan 5-11, 2026 (Testing Week - Disrupted)
 
-**Focus:** Resume build phase, slightly higher intensity targets
+**Focus:** FTP test completed ✅ 225W | Run/Swim tests postponed to Week 12 due to snow storm
 
 ## Week Overview
-|              | Swim   | Bike   | Run     | Total  |
-|--------------|--------|--------|---------|--------|
-| **Sessions** | 3      | 4      | 4       | 11     |
-| **Time**     | 2h15   | 6h00   | 3h35    | 11h50  |
-| **Distance** | 5000m  | 160km  | 32km    | -      |
+|              | Swim   | Bike     | Run     | Total   |
+|--------------|--------|----------|---------|---------|
+| **Sessions** | 1      | 3        | 3       | 7       |
+| **Time**     | 1h00   | 4h34     | 3h01    | 8h35    |
+| **Distance** | 1950m  | 125.6km  | 28.7km  | -       |
+
+**Actual:** 7 sessions, 8h35 (515min) | **Planned:** 10 sessions, 10h30 (630min) | **Achievement:** 82%
 
 ---
 
 ## Weekly Schedule
 
-| Date           | Activity      | Workout Template                                                     | Duration | Status |
-| -------------- | ------------- | -------------------------------------------------------------------- | -------- | ------ |
-| 05.01.2026 Mon | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 45       | ⬜      |
-| 06.01.2026 Tue | 🏃 Run        | [[../workouts/run/threshold-intervals\|Threshold Intervals 65min]]  | 65       | ⬜      |
-|                | 🚴 Bike       | [[../workouts/bike/anaerobic-sweetspot\|Anaerobic Sweetspot 90min]] | 90       | ⬜      |
-| 07.01.2026 Wed | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance 75min]]                | 75       | ⬜      |
-|                | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 45min]]                 | 45       | ⬜      |
-| 08.01.2026 Thu | 🚴 Bike       | [[../workouts/bike/vo2max-intervals\|VO2max Intervals 80min]]       | 80       | ⬜      |
-|                | 🏊 Swim       | [[../workouts/swim/threshold-pace\|Threshold Pace 70min]]            | 70       | ⬜      |
-| 09.01.2026 Fri | 🏃 Run        | [[../workouts/run/easy-aerobic\|Easy Aerobic 50min]]                 | 50       | ⬜      |
-| 10.01.2026 Sat | 🚴 Bike       | [[../workouts/bike/z2-endurance\|Z2 Endurance Long 150min]]          | 150      | ⬜      |
-| 11.01.2026 Sun | 🏊 Swim       | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]    | 50       | ⬜      |
-|                | 🏃 Run        | [[../workouts/run/long-run\|Long Run 115min]]                        | 115      | ⬜      |
+| Date           | Activity      | Workout                                    | Duration | Status |
+| -------------- | ------------- | ------------------------------------------ | -------- | ------ |
+| 05.01.2026 Mon | 🏊 Swim       | Drill Technique (1950m)                    | 60       | ✅      |
+| 06.01.2026 Tue | 🚴 TEST       | FTP Ramp Test → **225W** (+5W)             | 23       | ✅      |
+|                | 🏃 Run        | Treadmill Easy (4.82km)                    | 30       | ✅      |
+| 07.01.2026 Wed | ❌ Skipped     | Snow storm + ice injury                    | -        | ❌      |
+| 08.01.2026 Thu | 🏃 Run        | Interval Run (5.77km @ 5:21/km avg)        | 31       | ✅      |
+|                | 🏊 TEST       | POSTPONED to Week 12 (pool closed)         | -        | ❌      |
+| 09.01.2026 Fri | 🚴 Bike       | Sweet Spot + HIIT (191W NP)                | 60       | ✅      |
+| 10.01.2026 Sat | 🏃 Run        | Long Run in snow (18.13km)                 | 120      | ✅      |
+| 11.01.2026 Sun | 🚴 Bike       | Long + Tempo Blocks (93.14km, 141W)        | 191      | ✅      |
 
-**Weekly Total:** 705 minutes (~11h45)
+**Actual Total:** 515 minutes (8h35) | **Planned:** 630 min (10h30)
 
 ---
 
 ## Detailed Workouts
 
-### Mon Jan 5 ⬜
+### Mon Jan 5 ✅
 
-#### Evening Swim (19:00-19:45) - 45min
-**Workout:** [[../workouts/swim/drill-heavy-technique|Drill-Heavy Technique]]
-**Time:** 19:00-19:45
+#### Evening Swim (19:00-20:00) - 60min
+**Workout:** [[drill-heavy-technique|Drill-Heavy Technique]]
+**Time:** 19:00-20:00
 
-**Structure:**
-- Warmup: 250m easy
-- Drill Set (45%): 10x50m @ 1:20
-  - 3x catch-up
-  - 3x fist drill
-  - 2x single-arm
-  - 2x sculling
-- Pull Buoy Set: 3x100m @ 2:35/100m, 20s rest
-- Continuous: 250m smooth @ 2:40/100m
-- Cooldown: 100m
-- **Total: 1500m**
+**Planned:**
+- Duration: 45min
+- Distance: 1500m
+- Focus: 53% technique (drills + pull buoy)
+- Zone: Z1-Z2
 
-**Target Metrics:**
+**Actual Performance:**
 - activity:: Swim
-- duration-planned:: 45
-- distance-planned:: 1500
-- zone-target:: Z1-Z2
-- drill-percentage:: 53
+- date:: 2026-01-05
+- duration-actual:: 59.8
+- distance-actual:: 1950
+- avg-pace:: 2:24/100m
+- avg-hr:: 135
+- max-hr:: 161
+- total-strokes:: 1093
+- avg-strokes-per-length:: 28
+- calories:: 753
+- status:: completed
 
-**Notes:** 53% technique focus (45% drills + 20% pull buoy). School pickup at 18:30, allows time for swim after pickup.
+**Structure (16 intervals):**
+- Warmup: 200m @ 2:22/100m
+- Drill/Technique work: 1,050m in various intervals (50m, 100m, 200m, 250m sets)
+- Continuous/Pull sets: 700m
+- Multiple rest periods between sets
 
-**Daily Total:** 1 session, 45min (drill swim)
+**Notes:** Exceeded planned duration (+15min) and distance (+450m). Average pace 2:24/100m is faster than CSS baseline (2:27/100m), showing good form. HR elevated to 135 avg / 161 max suggests solid intensity despite being technique-focused. Stroke efficiency good at 28 strokes/length. School pickup at 18:30, workout after pickup.
+
+**Daily Total:** 1 session, 60min (drill swim)
 
 ---
 
-### Tue Jan 6 ⬜
+### Tue Jan 6 ✅
 
-#### Morning Run (6:15-7:20) - 65min
-**Workout:** [[../workouts/run/threshold-intervals|Threshold Intervals - 5x5min @ Z4]]
-**Time:** 6:15-7:20
+#### Morning: FTP Ramp Test (6:15-6:38) - 23min
+**Workout:** FTP Ramp Test - **COMPLETED**
+**Time:** 6:15-6:38
 
-**Structure:**
-- Warmup: 15min easy build
-- Main Set: 5x5min @ Z4 (160-165 bpm, ~4:40/km)
-- Recovery: 3min jog between intervals
-- Cooldown: 10min easy
+**✅ TEST RESULT: NEW FTP = 225W**
+- Previous FTP: 220W (baseline)
+- Improvement: +5W (+2.3%)
+- Updated training zones for all future workouts
 
-**Target Metrics:**
-- activity:: Run
-- duration-planned:: 65
-- distance-planned:: 10.5-11
-- zone-target:: Z4 Threshold
-- avg-hr-target:: 162-166
-- pace-target:: 4:35-4:45/km
-
-**Notes:** Cycle 3 intensity increase - faster pace target (4:40 vs 4:50). Fresh legs after recovery week should enable hitting these paces.
-
-#### Lunch Bike (12:15-13:45) - 90min
-**Workout:** [[../workouts/bike/anaerobic-sweetspot|Anaerobic Intervals - 3x10min @ 107% FTP]]
-**Time:** 12:15-13:45
-
-**Structure:**
-- Warmup: 20min progressive
-- Main Set: 3x10min @ 235W (107% FTP)
-- Recovery: 5min very easy spin between intervals
-- Cooldown: 15min easy
-
-**Target Metrics:**
+**Actual Performance:**
 - activity:: Bike
-- duration-planned:: 90
-- distance-planned:: 45
-- zone-target:: Z4-Z5 Anaerobic
-- avg-power-target:: 235
-- np-target:: 235
+- date:: 2026-01-06
+- duration-actual:: 22.8
+- distance-actual:: 7.18
+- test-type:: FTP-ramp
+- avg-power:: 152
+- normalized-power:: 197
+- max-power:: 343
+- avg-hr:: 144
+- max-hr:: 186
+- avg-cadence:: 88
+- max-cadence:: 111
+- elevation-gain:: 142
+- calories:: 198
+- ftp-result:: 225
+- status:: completed
 
-**Notes:** Longer intervals (10min vs 8min) at +1W vs Week 7 peak. This is HARD sustained work. Indoor trainer required.
+**Test Protocol (Ramp Test):**
+- 1-minute progressive steps starting at 100W
+- Increase power each minute until failure
+- Ramp progression: 100W → 140W → 161W → 180W → 201W → 220W → 240W → 260W → 280W → 300W → failure
+- Max power achieved: 343W
+- FTP calculated at ~75% of max sustained power
 
-**Daily Total:** 2 sessions, 2h35 (threshold run + anaerobic bike)
+**Notes:** Used ramp test protocol instead of traditional 20-min test. Progressive 1-minute steps from 100W up to 300W+, continuing until failure. Max power 343W achieved. FTP 225W calculated from ramp test formula. This test replaced the threshold run + anaerobic bike workouts. Fresh after 3+ days rest (Fri-Sun-Mon). Indoor trainer for accurate power data.
+
+#### Evening: Treadmill Run - 30min
+**Workout:** Easy Run (added session)
+**Time:** Evening
+
+**Actual Performance:**
+- activity:: Run
+- date:: 2026-01-06
+- duration-actual:: 30.0
+- distance-actual:: 4.82
+- avg-pace:: 6:14/km
+- avg-hr:: 140
+- max-hr:: 147
+- avg-power:: 326
+- calories:: 407
+- status:: completed
+
+**Notes:** Additional treadmill workout not in original plan. Easy pace 6:14/km, controlled HR 140 bpm avg. Good recovery session after morning's ramp test.
+
+**Daily Total:** 2 sessions, 53min (FTP ramp test + treadmill run)
 
 ---
 
 ### Wed Jan 7 ⬜
 
-#### Morning Bike (6:30-7:30) - 60min
-**Workout:** [[../workouts/bike/z2-endurance|Z2 Endurance Ride]]
-**Time:** 6:30-7:30
+#### Morning Bike (6:30-7:45) - 75min
+**Workout:** [[z2-endurance|Z2 Endurance Ride]]
+**Time:** 6:30-7:45
+
+**Structure:**
+- 10min warmup
+- 60min steady Z2 (125-135W)
+- 5min cooldown
 
 **Target Metrics:**
 - activity:: Bike
-- duration-planned:: 60
-- distance-planned:: 33
+- duration-planned:: 75
+- distance-planned:: 40
 - zone-target:: Z2
 - avg-power-target:: 125-135
 
-**Notes:** Easy Z2. Indoor session.
+**Notes:** Easy Z2 recovery ride after FTP test. Indoor session. Keep power controlled - this is recovery between tests.
 
-#### Evening Run (18:15-19:00) - 45min
-**Workout:** [[../workouts/run/easy-aerobic|Easy Aerobic Run]]
-**Time:** 18:15-19:00
+#### Evening Run (18:15-19:15) - 60min
+**Workout:** [[easy-aerobic|Easy Aerobic Run - Extended]]
+**Time:** 18:15-19:15
+
+**Structure:**
+- Continuous easy aerobic pace
+- Pace: 6:45-7:15/km
+- HR: 130-142 bpm
 
 **Target Metrics:**
 - activity:: Run
-- duration-planned:: 45
-- distance-planned:: 6.5-7
+- duration-planned:: 60
+- distance-planned:: 8-9
 - zone-target:: Z2
 
-**Notes:** Easy recovery run. Post-recovery week resumption. Before 16:00 pickup.
+**Notes:** Easy recovery run extended to 60min (volume compensation). Recovery from FTP test. Preparation for Thursday's threshold test. Before 16:00 pickup.
 
-**Daily Total:** 2 sessions, 1h45 (Z2 bike + easy run)
+**Daily Total:** 2 sessions, 2h15 (Z2 bike + easy run)
 
 ---
 
-### Thu Jan 8 ⬜
+### Thu Jan 8 ⚠️
 
-#### Midday Bike (13:00-14:20) - 80min
-**Workout:** [[../workouts/bike/vo2max-intervals|VO2max Intervals - 3x4min @ 107% FTP]]
-**Time:** 13:00-14:20
+#### Morning: Interval Run (Treadmill) - 31min
+**Workout:** Interval Run (substituted for threshold test)
+**Time:** Morning
 
-**Structure:**
-- Warmup: 20min progressive, 3x1min Z3 efforts
-- Main Set: 3x4min @ 235W (107% FTP)
-- Recovery: 4min very easy spin between intervals
-- Cooldown: 20min easy
+**Actual Performance:**
+- activity:: Run
+- date:: 2026-01-08
+- duration-actual:: 30.8
+- distance-actual:: 5.77
+- avg-pace:: 5:21/km
+- best-pace:: 3:09/km
+- avg-hr:: 159
+- max-hr:: 185
+- avg-power:: 377
+- avg-cadence:: 169
+- calories:: 490
+- status:: completed
 
-**Target Metrics:**
+**Interval Structure (6 laps):**
+1. Warmup: 1km @ 6:41/km, HR 126
+2. Fast interval: 1km @ 4:19/km, HR 166
+3. Recovery: 1km @ 5:13/km, HR 164
+4. Interval: 1km @ 5:07/km, HR 166
+5. Interval: 1km @ 5:05/km, HR 171
+6. Cooldown: 0.77km @ 5:44/km, HR 172
+
+**Notes:** **THRESHOLD TEST POSTPONED TO WEEK 12** - Did interval run instead due to snow storm conditions. Treadmill session with structured intervals. Strong effort with HR reaching 185 max. Fast intervals at 4:19-5:07/km pace showing good speed work. Recovery between ice injury and swim test postponement.
+
+#### Evening: CSS Swim Test - POSTPONED
+**Workout:** Critical Swim Speed (CSS) Test
+**Time:** 20:00-21:00
+
+**Status:** ❌ **POSTPONED TO WEEK 12**
+
+**Reason:** Pool closed due to snow storm.
+
+**Notes:** Fixed Thursday 20:00 pool time was unavailable. Test will be rescheduled to Week 12 testing week along with run threshold test. Training continues with Week 1 baseline CSS (2:27/100m) until retesting.
+
+**Daily Total:** 1 session, 31min (interval run only - swim test postponed)
+
+---
+
+### Fri Jan 9 ✅
+
+#### Morning/Midday: Sweet Spot + HIIT Bike - 60min
+**Workout:** Rouvy "Sweet & HIT 4 | Unbound Ready" - **COMPLETED**
+**Time:** Morning/Midday
+
+**Planned:**
+- Duration: 60min
+- TSS: 63.0
+- Zone: Z3 (Sweet Spot) + Z5 (Short HITs)
+- FTP: 225W
+
+**Actual Performance:**
 - activity:: Bike
-- duration-planned:: 80
-- distance-planned:: 37
-- zone-target:: Z5 VO2max
-- avg-power-target:: 235
-- np-target:: 235
+- date:: 2026-01-09
+- duration-actual:: 60.0
+- distance-actual:: 25.32
+- avg-power:: 167
+- normalized-power:: 191
+- max-avg-power-20min:: 205
+- avg-hr:: 148
+- max-hr:: 175
+- avg-cadence:: 87
+- max-cadence:: 104
+- elevation-gain:: 444
+- calories:: 575
+- ftp:: 225
+- status:: completed
 
-**Notes:** Intensity increase to 107% FTP (from 105%). Fewer intervals (3 vs 4) with higher power. Quality over quantity. Indoor trainer.
+**Workout Structure (32 intervals):**
+- Warmup: 10min @ 105-130W
+- Main work: Multiple 2-min sweet spot intervals @ 200-207W (Z3)
+- HIIT surges: 8-second explosive efforts @ 435-483W (Z5)
+- Recovery periods: 135W between intervals
+- Cooldown: 13min progressive easy
 
-#### Evening Swim (20:00-21:10) - 70min
-**Workout:** [[../workouts/swim/threshold-pace|Mixed Technique + Threshold + Pull Buoy]]
-**Time:** 20:00-21:10
+**Notes:** **ADJUSTED FROM ORIGINAL PLAN** - Substituted for 65min easy run due to snow storm + ankle caution. Sweet spot bike better addresses load focus needs (anaerobic shortage per Garmin). Excellent execution: normalized power 191W (85% FTP), sweet spot intervals at 200-207W (89-92% FTP), explosive HITs at 435-483W. Indoor session = weather-proof + ankle-safe. Builds muscular endurance and surge responsiveness for race day.
 
-**Structure:**
-- Warmup: 300m easy build
-- Drill Set (30%): 8x50m @ 1:15
-- Main Set: 4x300m @ 2:30/100m (T3-T4 pace), 50s rest
-- Pull Buoy Finisher: 400m continuous @ 2:38/100m
-  - 300m, 30s rest, 100m
-- Cooldown: 150m
-- **Total: 2350m**
-
-**Target Metrics:**
-- activity:: Swim
-- duration-planned:: 70
-- distance-planned:: 2350
-- zone-target:: T3-T4
-- pace-target:: 2:30/100m
-- pull-buoy-percentage:: 17
-
-**Notes:** Fixed Thursday 20:00 swim. Slightly faster pull buoy pace (2:38 vs 2:40). 47% technique focus.
-
-**Daily Total:** 2 sessions, 2h30 (VO2max bike + threshold swim)
+**Daily Total:** 1 session, 60min (sweet spot + HIIT bike)
 
 ---
 
-### Fri Jan 9 ⬜
+### Sat Jan 10 ✅
 
-#### Morning Run (6:30-7:20) - 50min
-**Workout:** [[../workouts/run/easy-aerobic|Easy Aerobic Run]]
-**Time:** 6:30-7:20
+#### Afternoon Long Run - 2h00
+**Workout:** Long Easy Aerobic Run
+**Time:** Flexible (afternoon)
 
-**Target Metrics:**
+**Planned:**
+- Duration: 90-120min
+- Pace: 6:30-7:00/km
+- HR: 133-145 bpm (Z2)
+- Distance: ~12-17km
+
+**Actual Performance:**
 - activity:: Run
-- duration-planned:: 50
-- distance-planned:: 7-7.5
-- zone-target:: Z2
+- date:: 2026-01-10
+- duration-actual:: 120.0
+- distance-actual:: 18.13
+- avg-pace:: 6:37
+- avg-hr:: 149
+- max-hr:: 161
+- elevation-gain:: 74
+- elevation-loss:: 61
+- avg-power:: 320
+- calories:: 1587
+- status:: completed
 
-**Notes:** Easy recovery run before weekend long sessions.
+**Conditions:** Heavy snow, roads not always clear. Very challenging conditions requiring constant stabilization and extra muscular effort.
 
-**Daily Total:** 1 session, 50min (easy run)
+**Notes:** **SWAPPED WITH SUNDAY** - Completed full 2 hours! HR was higher than Z2 target (149 vs 133-145 target) due to snow conditions - running in snow requires significantly more effort for stabilization and pushing through unstable surface. Cold weather also elevates HR. Pace was controlled and on target (6:37/km). Excellent mental toughness to complete 2h in these conditions. This was effectively a Z3 effort vs planned Z2, which will impact tomorrow's recovery.
+
+**Daily Total:** 1 session, 2h00 (long run)
 
 ---
 
-### Sat Jan 10 ⬜
+### Sun Jan 11 ✅
 
-#### Morning Long Bike (8:00-10:15) - 2h15 (135min)
-**Workout:** [[../workouts/bike/z2-endurance|Z2 Long Endurance Ride]]
-**Time:** 8:00-10:15
+#### Afternoon Long Bike with Tempo Blocks - 3h11 (191min)
+**Workout:** Z2 Endurance + Tempo Intervals
+**Time:** 15:41-18:52
 
-**Structure:**
-- 15min warmup
-- 2h steady Z2 (120-135W)
-- Include 4x5min @ 100 rpm cadence work
-- Optional: 2x10min @ upper Z2 (140W) tempo bursts
+**Planned:**
+- Duration: 180min (3h00)
+- Distance: 85-90km
+- Z2 base @ 140W (62% FTP)
+- Tempo blocks @ 169W (75% FTP)
+- 40min total tempo time
 
-**Target Metrics:**
+**Actual Performance:**
 - activity:: Bike
-- duration-planned:: 135
-- distance-planned:: 80
-- zone-target:: Z2
-- avg-power-target:: 120-135
+- date:: 2026-01-11
+- duration-actual:: 191.2
+- distance-actual:: 93.14
+- avg-power:: 141
+- normalized-power:: 144
+- avg-hr:: 132
+- max-hr:: 148
+- avg-cadence:: 87
+- elevation-gain:: 13
+- calories:: 1456
+- ftp:: 225
+- status:: completed
 
-**Notes:** Restart long bike progression. Outdoor Hamburg course if weather permits. Nutrition practice (50-60g carbs/hour).
+**Notes:** **SWAPPED WITH SATURDAY** - Excellent execution! Average power 141W matched Z2 target perfectly (planned 140W). Normalized power 144W shows very consistent effort throughout. HR stayed controlled at 132 bpm avg despite Saturday's harder snow run. Completed 12 laps indicating tempo block structure was followed. Duration 11min over plan (+6%) and distance exceeded target. Great recovery workout with structured intensity. Indoor trainer (Rouvy).
 
-**Daily Total:** 1 session, 2h15 (long Z2 bike)
-
----
-
-### Sun Jan 11 ⬜
-
-#### Morning Swim (9:00-9:50) - 50min
-**Workout:** [[../workouts/swim/drill-heavy-technique|Drill-Heavy Technique + Pull Buoy]]
-**Time:** 9:00-9:50
-
-**Structure:**
-- Warmup: 250m
-- Drill Set (40%): 10x50m @ 1:20
-- Pull Buoy Set: 250m continuous @ 2:40/100m
-- Continuous: 4x100m smooth @ 2:40/100m, 20s rest
-- Cooldown: 100m
-- **Total: 1350m**
-
-**Target Metrics:**
-- activity:: Swim
-- duration-planned:: 50
-- distance-planned:: 1350
-- zone-target:: Z1-Z2
-- drill-percentage:: 56
-
-**Notes:** 56% technique focus (40% drills + 19% pull buoy). Before long run.
-
-#### Afternoon Long Run (14:00-15:40) - 100min
-**Workout:** [[../workouts/run/long-run|Long Run Z2-Low Z3]]
-**Time:** 14:00-15:40
-
-**Structure:**
-- Continuous steady effort
-- Pace: 6:15-6:45/km
-- HR: 133-145 bpm
-
-**Target Metrics:**
-- activity:: Run
-- duration-planned:: 100
-- distance-planned:: 15
-- zone-target:: Z2-Low Z3
-
-**Notes:** Restart long run progression after recovery week. Practice nutrition (gel at 60min).
-
-**Daily Total:** 2 sessions, 2h30 (technique swim + long run)
+**Daily Total:** 1 session, 3h11 (long bike with tempo blocks)
 
 ---
 
 ## Week Completion
 
-**Progress:** ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ (0/7 days completed)
+**Progress:** ✅ ✅ ❌ ⚠️ ✅ ✅ ✅ (5/7 days with training)
 
-**Week 9 Status: Planned - CYCLE 3 BUILD 1**
-- Sessions planned: 11
-- Sessions completed: 0
-- Total planned duration: 11h05
+**Week 9 Status: COMPLETED - 82% Volume Achievement**
+- Sessions completed: 7 of 10 planned
+- Total duration: 8h35 (515min) vs 10h30 planned
+- Testing: FTP ✅ 225W (+5W) | Run/Swim postponed to Week 12
+- Disruptions: Wednesday (snow storm + ice injury), Thursday swim (pool closed)
 
-**Cycle 3 Intensity Increases:**
-- **Bike VO2max:** 235W (107% FTP) up from 231W (105% FTP)
-- **Bike anaerobic:** 3x10min (longer intervals)
-- **Run threshold:** 4:40/km pace target (faster than 4:50/km Weeks 5-7)
-- **Swim pull buoy:** 2:38/100m pace (slightly faster)
+---
 
-**Key Sessions:**
-1. Tuesday threshold run (5x5min @ 4:40/km pace)
-2. Tuesday anaerobic bike (3x10min @ 235W)
-3. Thursday VO2max bike (3x4min @ 235W) - higher power
-4. Saturday long bike (2h15, 80km)
-5. Sunday long run (100min, 15km)
+## Week 9 Summary
 
-**Progression Strategy:**
-- Volume similar to Week 5 (12h10 vs 11h45)
-- Intensity increased across all disciplines
-- Fresh legs from recovery week enable quality execution
+**Testing Results:**
+- ✅ FTP: 225W (+5W improvement, +2.3%)
+- ❌ Run Threshold: Postponed to Week 12
+- ❌ CSS Swim: Postponed to Week 12
+
+**Training Highlights:**
+- Strong adaptation to snow storm disruption
+- Long run in snow (2h, 18.13km) showed mental toughness
+- Weekend executed well: 5h11 total (2h run + 3h11 bike)
+- Smart workout substitutions maintained training stimulus
+
+**Disruptions:**
+- Wednesday: Snow storm + ice slip injury (ankle minor, recovered)
+- Thursday: Pool closed, did interval run instead of threshold test
+- Friday: Sweet spot bike substituted for easy run (weather + ankle caution)
+
+---
+
+## Key Takeaways
+
+**What Worked:**
+- FTP improvement: 225W (+2.3%) establishes new bike training zones
+- Strong mental resilience: 2h run in heavy snow conditions
+- Smart adaptations: Substituted workouts maintained training stimulus
+- Weekend execution: 5h11 total showed good endurance despite disruption
+
+**Lessons Learned:**
+- Weather flexibility crucial in winter training
+- Indoor alternatives valuable (trainer, treadmill)
+- Testing can be postponed without derailing progress
+- Adaptation > rigid adherence to plan
+
+**Impact on Training:**
+- FTP zones updated for all future bike workouts
+- Run/Swim zones remain at Week 1 baselines until Week 12 tests
+- Snow storm forced intensity work addressed anaerobic load imbalance
+- Week 12 testing will be more accurate with additional training base

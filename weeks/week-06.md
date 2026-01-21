@@ -39,17 +39,17 @@ css-swim-baseline: "2:27"
 
 | Date           | Activity | Workout Template                                                   | Duration | Status |
 | -------------- | -------- | ------------------------------------------------------------------ | -------- | ------ |
-| 15.12.2025 Mon | 🏊 Swim  | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]  | 40       | ⬜      |
-| 16.12.2025 Tue | 🏃 Run   | [[../workouts/run/threshold-intervals\|Threshold Intervals 60min]] | 60       | ⬜      |
-|                | 🚴 Bike  | [[../workouts/bike/tempo-intervals\|Tempo Intervals 75min]]        | 75       | ⬜      |
-| 17.12.2025 Wed | 🚴 Bike  | [[../workouts/bike/z2-endurance\|Z2 Endurance 75min]]              | 75       | ⬜      |
-|                | 🏃 Run   | [[../workouts/run/easy-aerobic\|Easy Aerobic 50min]]               | 50       | ⬜      |
-| 18.12.2025 Thu | 🚴 Bike  | [[../workouts/bike/vo2max-intervals\|VO2max Intervals 80min]]      | 80       | ⬜      |
-|                | 🏊 Swim  | [[../workouts/swim/threshold-pace\|Threshold Pace 60min]]          | 60       | ⬜      |
-| 19.12.2025 Fri | 🏃 Run   | [[../workouts/run/easy-strides\|Easy with Strides 50min]]          | 50       | ⬜      |
-| 20.12.2025 Sat | 🚴 Bike  | [[../workouts/bike/z2-endurance\|Z2 Endurance Long 165min]]        | 165      | ⬜      |
-| 21.12.2025 Sun | 🏊 Swim  | [[../workouts/swim/drill-heavy-technique\|Drill-Heavy Technique]]  | 50       | ⬜      |
-|                | 🏃 Run   | [[../workouts/run/long-run\|Long Run 120min]]                      | 120      | ⬜      |
+| 15.12.2025 Mon | 🏊 Swim  | [[drill-heavy-technique\|Drill-Heavy Technique]]  | 40       | ⬜      |
+| 16.12.2025 Tue | 🏃 Run   | [[threshold-intervals\|Threshold Intervals 60min]] | 60       | ⬜      |
+|                | 🚴 Bike  | [[tempo-intervals\|Tempo Intervals 75min]]        | 75       | ⬜      |
+| 17.12.2025 Wed | 🚴 Bike  | [[z2-endurance\|Z2 Endurance 75min]]              | 75       | ⬜      |
+|                | 🏃 Run   | [[easy-aerobic\|Easy Aerobic 50min]]               | 50       | ⬜      |
+| 18.12.2025 Thu | 🚴 Bike  | [[vo2max-intervals\|VO2max Intervals 80min]]      | 80       | ⬜      |
+|                | 🏊 Swim  | [[threshold-pace\|Threshold Pace 60min]]          | 60       | ⬜      |
+| 19.12.2025 Fri | 🏃 Run   | [[easy-strides\|Easy with Strides 50min]]          | 50       | ⬜      |
+| 20.12.2025 Sat | 🚴 Bike  | [[z2-endurance\|Z2 Endurance Long 165min]]        | 165      | ⬜      |
+| 21.12.2025 Sun | 🏊 Swim  | [[drill-heavy-technique\|Drill-Heavy Technique]]  | 50       | ⬜      |
+|                | 🏃 Run   | [[long-run\|Long Run 120min]]                      | 120      | ⬜      |
 
 **Weekly Total:** 740 minutes (~12h20)
 
@@ -60,7 +60,7 @@ css-swim-baseline: "2:27"
 ### Mon Dec 15 ✅
 
 #### Evening Swim (19:00-19:40) - 40min
-**Workout:** [[../workouts/swim/drill-heavy-technique|Drill-Heavy Technique]]
+**Workout:** [[drill-heavy-technique|Drill-Heavy Technique]]
 **Time:** 19:00-19:40
 
 **Structure:**
@@ -103,7 +103,7 @@ css-swim-baseline: "2:27"
 ### Tue Dec 16 ✅
 
 #### Morning Run (6:15-7:15) - 60min
-**Workout:** [[../workouts/run/threshold-intervals|Threshold Intervals - 5x4min @ Faster Pace]]
+**Workout:** [[threshold-intervals|Threshold Intervals - 5x4min @ Faster Pace]]
 **Time:** 6:15-7:15
 
 **Structure:**
@@ -142,7 +142,7 @@ css-swim-baseline: "2:27"
 **Performance Analysis:** Nailed the target pace! Intervals averaged 4:27-4:35/km, right in the 4:35-4:40/km target zone. However, HR during intervals (166-171 bpm) didn't reach the expected 170-175 zone - staying 4-9 bpm lower than target despite faster pace than Week 5. This suggests either: (1) improved fitness/efficiency, or (2) threshold HR may be lower than 170-175 estimate. Average HR of 151 bpm reflects warmup/cooldown periods. Excellent execution on pacing!
 
 #### Lunch Bike (12:15-13:30) - 75min
-**Workout:** [[../workouts/bike/tempo-intervals|Tempo Intervals - 3x10min @ Z3]]
+**Workout:** [[tempo-intervals|Tempo Intervals - 3x10min @ Z3]]
 **Time:** 12:15-13:30
 
 **Structure:**
@@ -188,7 +188,7 @@ css-swim-baseline: "2:27"
 ### Wed Dec 18 ⚠️
 
 #### Morning Bike (6:30-7:45) - 75min
-**Workout:** [[../workouts/bike/z2-endurance|Z2 Endurance Ride]]
+**Workout:** [[z2-endurance|Z2 Endurance Ride]]
 **Time:** 6:30-7:45
 
 **Structure:**
@@ -221,7 +221,7 @@ css-swim-baseline: "2:27"
 **Performance Analysis:** Solid Z2 session - completed 70 minutes of the planned 75 minutes (93% of target). Power averaged 123W, right at the lower end of the 125-135W Z2 target range. NP of 128W confirms steady effort. HR of 124 bpm was slightly below the 130-140 target, showing good aerobic efficiency. Cadence of 79 rpm is low - aim for 85-90+ rpm to develop better leg speed and reduce muscular load. Overall good aerobic ride despite slightly shortened duration.
 
 #### Evening Run (18:15-19:05) - 50min
-**Workout:** [[../workouts/run/easy-aerobic|Easy Aerobic Run]]
+**Workout:** [[easy-aerobic|Easy Aerobic Run]]
 **Time:** 18:15-19:05
 
 **Structure:**
@@ -257,7 +257,7 @@ css-swim-baseline: "2:27"
 ### Thu Dec 19 ⚠️
 
 #### Midday Bike (13:00-14:20) - 80min
-**Workout:** [[../workouts/bike/vo2max-intervals|VO2max Intervals - 5x3min @ 105% FTP]]
+**Workout:** [[vo2max-intervals|VO2max Intervals - 5x3min @ 105% FTP]]
 **Time:** 13:00-14:20
 
 **Structure:**
@@ -299,7 +299,7 @@ css-swim-baseline: "2:27"
 **Performance Analysis:** Workout cut short at 56 minutes vs planned 80 minutes (70% of target). First 3 intervals were EXCELLENT - 228-230W, right at the 231W target with consistent HR (149-151) and cadence (85-87 rpm). Interval 4 showed fatigue - power dropped to 214W (93% of target) and cadence fell to 72 rpm. Interval 5 was abandoned after 52 seconds. Only 3.5 of 5 intervals completed. Despite incomplete session, quality of first 3 intervals was spot-on. VO2max work is demanding - this is expected. Consider factors: recovery from Tuesday's hard session, time constraints, or cumulative fatigue.
 
 #### Evening Swim (20:00-21:00) - 60min
-**Workout:** [[../workouts/swim/threshold-pace|Mixed Technique + Threshold + Pull Buoy]]
+**Workout:** [[threshold-pace|Mixed Technique + Threshold + Pull Buoy]]
 **Time:** 20:00-21:00 (Max 60min due to pool time constraints)
 
 **Structure:**
@@ -342,7 +342,7 @@ css-swim-baseline: "2:27"
 ### Fri Dec 19 ❌
 
 #### Morning Run (6:30-7:20) - 50min
-**Workout:** [[../workouts/run/easy-strides|Easy Aerobic Run with Strides]]
+**Workout:** [[easy-strides|Easy Aerobic Run with Strides]]
 **Time:** 6:30-7:20
 
 **Structure:**
@@ -371,7 +371,7 @@ css-swim-baseline: "2:27"
 ### Sat Dec 21 ✅
 
 #### Morning Long Bike (8:00-10:45) - 2h45 (165min)
-**Workout:** [[../workouts/bike/z2-endurance|Z2 Long Endurance Ride]]
+**Workout:** [[z2-endurance|Z2 Long Endurance Ride]]
 **Time:** 8:00-10:45
 
 **Structure:**
@@ -411,7 +411,7 @@ css-swim-baseline: "2:27"
 ### Sun Dec 22 ✅
 
 #### Morning Swim (9:00-9:50) - 50min
-**Workout:** [[../workouts/swim/drill-heavy-technique|Drill-Heavy Technique + Pull Buoy]]
+**Workout:** [[drill-heavy-technique|Drill-Heavy Technique + Pull Buoy]]
 **Time:** 9:00-9:50
 
 **Structure:**
@@ -440,7 +440,7 @@ css-swim-baseline: "2:27"
 **Notes:** 56% technique focus (40% drills + 19% pull buoy). Before long run.
 
 #### Afternoon Long Run (14:00-16:00) - 120min
-**Workout:** [[../workouts/run/long-run|Long Run Z2-Low Z3]]
+**Workout:** [[long-run|Long Run Z2-Low Z3]]
 **Time:** 14:00-16:00
 
 **Structure:**

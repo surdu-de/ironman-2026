@@ -42,14 +42,14 @@ css-swim-baseline: "2:27"
 | Date           | Activity   | Workout Template                                             | Duration | Status |
 | -------------- | ---------- | ------------------------------------------------------------ | -------- | ------ |
 | 26.01.2026 Mon | -          | Rest day                                                     | -        | ⬜      |
-| 27.01.2026 Tue | 🏃 Run     | [[../workouts/run/easy-aerobic\|Easy Aerobic 50min]]        | 50       | ⬜      |
-|                | 🚴 Bike    | [[../workouts/bike/easy-recovery\|Easy Recovery 45min]]     | 45       | ⬜      |
+| 27.01.2026 Tue | 🏃 Run     | [[easy-aerobic\|Easy Aerobic 50min]]        | 50       | ⬜      |
+|                | 🚴 Bike    | [[easy-recovery\|Easy Recovery 45min]]     | 45       | ⬜      |
 | 28.01.2026 Wed | 🚴 Bike    | [[../workouts/bike/ftp-bike-test\|FTP Test 60min]]          | 60       | ⬜      |
 | 29.01.2026 Thu | 🏊 Swim    | [[../workouts/swim/css-swim-test\|CSS Test 60min]]          | 60       | ⬜      |
-| 30.01.2026 Fri | 🏃 Run     | [[../workouts/run/easy-aerobic\|Easy Aerobic 50min]]        | 50       | ⬜      |
-| 31.01.2026 Sat | 🚴 Bike    | [[../workouts/bike/z2-endurance\|Z2 Endurance 75min]]       | 75       | ⬜      |
+| 30.01.2026 Fri | 🏃 Run     | [[easy-aerobic\|Easy Aerobic 50min]]        | 50       | ⬜      |
+| 31.01.2026 Sat | 🚴 Bike    | [[z2-endurance\|Z2 Endurance 75min]]       | 75       | ⬜      |
 |                | 🏃 Run     | [[../workouts/run/run-threshold-test\|Threshold Test 30min]]| 30       | ⬜      |
-| 01.02.2026 Sun | 🏊 Swim    | [[../workouts/swim/easy-technique\|Easy Technique 30min]]   | 30       | ⬜      |
+| 01.02.2026 Sun | 🏊 Swim    | [[easy-technique\|Easy Technique 30min]]   | 30       | ⬜      |
 
 **Weekly Total:** 400 minutes (~6h40)
 
@@ -65,7 +65,7 @@ css-swim-baseline: "2:27"
 ### Tue Jan 27 ⬜
 
 #### Morning Run (6:30-7:20) - 50min
-**Workout:** [[../workouts/run/easy-aerobic|Easy Aerobic Run]]
+**Workout:** [[easy-aerobic|Easy Aerobic Run]]
 **Time:** 6:30-7:20
 
 **Structure:**
@@ -83,7 +83,7 @@ css-swim-baseline: "2:27"
 **Notes:** Recovery week - keep it truly easy. Shake out legs from Week 11 peak.
 
 #### Lunch Bike (12:30-13:15) - 45min
-**Workout:** [[../workouts/bike/easy-recovery|Easy Recovery Ride]]
+**Workout:** [[easy-recovery|Easy Recovery Ride]]
 **Time:** 12:30-13:15
 
 **Structure:**
@@ -162,7 +162,7 @@ css-swim-baseline: "2:27"
 ### Fri Jan 30 ⬜
 
 #### Morning Run (6:30-7:20) - 50min
-**Workout:** [[../workouts/run/easy-aerobic|Easy Aerobic Run]]
+**Workout:** [[easy-aerobic|Easy Aerobic Run]]
 **Time:** 6:30-7:20
 
 **Structure:**
@@ -185,7 +185,7 @@ css-swim-baseline: "2:27"
 ### Sat Jan 31 ⬜
 
 #### Morning Bike (9:00-10:15) - 75min
-**Workout:** [[../workouts/bike/z2-endurance|Z2 Endurance Ride]]
+**Workout:** [[z2-endurance|Z2 Endurance Ride]]
 **Time:** 9:00-10:15
 
 **Structure:**
@@ -232,7 +232,7 @@ css-swim-baseline: "2:27"
 ### Sun Feb 1 ⬜
 
 #### Morning Swim (9:30-10:00) - 30min
-**Workout:** [[../workouts/swim/easy-technique|Easy Technique]]
+**Workout:** [[easy-technique|Easy Technique]]
 **Time:** 9:30-10:00
 
 **Structure:**

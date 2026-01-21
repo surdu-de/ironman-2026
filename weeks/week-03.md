@@ -91,7 +91,7 @@ css-swim-baseline: "2:33"
 - notes:: Core & flexibility session completed
 
 #### Lunch
-**Workout:** [[workouts/run/threshold-intervals|Threshold Intervals Run]]
+**Workout:** [[threshold-intervals|Threshold Intervals Run]]
 **Time:** 11:41-12:33
 
 **Actual Performance:**
@@ -114,7 +114,7 @@ css-swim-baseline: "2:33"
 - notes:: Threshold run completed 9min shorter than planned. High intensity achieved - 166 avg HR, excellent threshold work. Felt strong throughout intervals.
 
 #### Evening
-**Workout:** [[workouts/bike/z2-endurance|Z2 Endurance Ride]]
+**Workout:** [[z2-endurance|Z2 Endurance Ride]]
 **Time:** 17:50-20:00
 
 **Actual Performance:**
@@ -141,7 +141,7 @@ css-swim-baseline: "2:33"
 ### Wed Nov 26 ✅
 
 #### Lunch
-**Workout:** [[workouts/bike/tempo-progressive-warmup|Tempo Progressive Warmup]]
+**Workout:** [[tempo-progressive-warmup|Tempo Progressive Warmup]]
 **Time:** 17:39-18:43
 
 **Actual Performance:**
@@ -166,7 +166,7 @@ css-swim-baseline: "2:33"
 - notes:: Tempo intervals with 2x10min @ Z3. NP 145W shows good tempo effort. Progressive warmup executed as planned.
 
 #### Evening
-**Workout:** [[workouts/run/easy-aerobic|Easy Aerobic Run]]
+**Workout:** [[easy-aerobic|Easy Aerobic Run]]
 **Time:** 18:50-19:35
 
 **Actual Performance:**
@@ -190,7 +190,7 @@ css-swim-baseline: "2:33"
 
 ### Thu Nov 27 ⚠️
 
-**Workout:** [[workouts/bike/vo2max-progressive|VO2max Progressive Intervals]]
+**Workout:** [[vo2max-progressive|VO2max Progressive Intervals]]
 **Time:** 6:10-7:01
 
 **Actual Performance:**
@@ -217,7 +217,7 @@ css-swim-baseline: "2:33"
 ### Fri Nov 28 ⚠️ ❌
 
 #### Morning - SKIPPED
-**Workout:** [[workouts/run/easy-aerobic|Easy Aerobic Run 45min]]
+**Workout:** [[easy-aerobic|Easy Aerobic Run 45min]]
 
 **Actual Performance:**
 - activity:: Run
@@ -230,7 +230,7 @@ css-swim-baseline: "2:33"
 - notes:: Morning easy run skipped
 
 #### Lunch
-**Workout:** [[workouts/bike/z2-endurance|Z2 Endurance Ride]]
+**Workout:** [[z2-endurance|Z2 Endurance Ride]]
 **Time:** 7:32-9:02
 
 **Actual Performance:**
@@ -256,7 +256,7 @@ css-swim-baseline: "2:33"
 
 ### Sat Nov 29 ⚠️
 
-**Workout:** [[workouts/run/long-run|Long Run Z2]]
+**Workout:** [[long-run|Long Run Z2]]
 **Time:** 9:38-11:36
 
 **Actual Performance:**
