@@ -5,7 +5,17 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(tree:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "mcp__todoist__find-projects",
+      "mcp__todoist__add-projects",
+      "mcp__todoist__update-projects",
+      "mcp__todoist__add-tasks",
+      "Bash(python3:*)",
+      "Bash(pip3 install:*)",
+      "Bash(source:*)",
+      "Bash(pip install:*)",
+      "Bash(/Users/razvan.surdu/Projects/surdu/ironman-2026/scripts/venv/bin/python:*)",
+      "Bash(ls:*)"
     ],
     "deny": [],
     "ask": []

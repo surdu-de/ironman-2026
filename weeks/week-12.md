@@ -6,12 +6,12 @@ end-date: 2026-02-01
 phase: recovery
 status: planned
 sessions-completed: 0
-sessions-total: 8
-swim-sessions: 2
-bike-sessions: 3
-run-sessions: 3
+sessions-total: 3
+swim-sessions: 1
+bike-sessions: 1
+run-sessions: 1
 strength-sessions: 0
-total-duration: 430
+total-duration: 145
 vo2-max: 50
 vo2-max-baseline: 50
 ftp-bike: 220
@@ -22,239 +22,153 @@ css-swim: "2:27"
 css-swim-baseline: "2:27"
 ---
 
-# Week 12: Jan 26 - Feb 1, 2026 (Recovery Week + Testing)
+# Week 12: Jan 26 - Feb 1, 2026 (Recovery Week)
 
-**Focus:** Active recovery, performance testing, prepare for Cycle 4
+**Focus:** True recovery from Cycle 3 overreach, run threshold test, prepare for Cycle 4
 
 ## Week Overview
 |              | Swim   | Bike   | Run     | Total  |
 |--------------|--------|--------|---------|--------|
-| **Sessions** | 2      | 3      | 3       | 8      |
-| **Time**     | 1h30   | 3h00   | 2h10    | 6h40   |
-| **Distance** | 2800m  | 95km   | 19km    | -      |
+| **Sessions** | 1      | 1      | 1       | 3      |
+| **Time**     | 0h50   | 0h45   | 0h50    | 2h25   |
+| **Distance** | 1800m  | 25km   | 7km     | -      |
 
-**Volume Reduction:** ~53% vs Week 11 (6h40 vs 14h20)
+**Volume Reduction:** ~77% vs Week 11 actual (~10h40)
+
+**Context:** Week 10 overreach (+25% volume at 15h40) caused Week 11 fatigue (Tuesday session failure, needed Monday rest). Garmin data shows acute training load at ceiling (~1750-1800), low aerobic overloaded, anaerobic deficit. This week prioritizes true recovery to start Cycle 4 in optimal condition.
+
+**Travel:** Out of country Friday evening through Sunday.
 
 ---
 
 ## Weekly Schedule
 
-| Date           | Activity   | Workout Template                                             | Duration | Status |
-| -------------- | ---------- | ------------------------------------------------------------ | -------- | ------ |
-| 26.01.2026 Mon | -          | Rest day                                                     | -        | ⬜      |
-| 27.01.2026 Tue | 🏃 Run     | [[easy-aerobic\|Easy Aerobic 50min]]        | 50       | ⬜      |
-|                | 🚴 Bike    | [[easy-recovery\|Easy Recovery 45min]]     | 45       | ⬜      |
-| 28.01.2026 Wed | 🚴 Bike    | [[../workouts/bike/ftp-bike-test\|FTP Test 60min]]          | 60       | ⬜      |
-| 29.01.2026 Thu | 🏊 Swim    | [[../workouts/swim/css-swim-test\|CSS Test 60min]]          | 60       | ⬜      |
-| 30.01.2026 Fri | 🏃 Run     | [[easy-aerobic\|Easy Aerobic 50min]]        | 50       | ⬜      |
-| 31.01.2026 Sat | 🚴 Bike    | [[z2-endurance\|Z2 Endurance 75min]]       | 75       | ⬜      |
-|                | 🏃 Run     | [[../workouts/run/run-threshold-test\|Threshold Test 30min]]| 30       | ⬜      |
-| 01.02.2026 Sun | 🏊 Swim    | [[easy-technique\|Easy Technique 30min]]   | 30       | ⬜      |
+| Date           | Activity | Workout                          | Time  | Duration | Status |
+| -------------- | -------- | -------------------------------- | ----- | -------- | ------ |
+| 26.01.2026 Mon | -        | Rest                             | -     | -        | ⬜      |
+| 27.01.2026 Tue | -        | Rest                             | -     | -        | ⬜      |
+| 28.01.2026 Wed | 🏃 Run   | Run Threshold Test               | AM    | 50       | ⬜      |
+| 29.01.2026 Thu | 🏊 Swim  | Easy Technique                   | 20:00 | 50       | ⬜      |
+| 30.01.2026 Fri | 🚴 Bike  | FTP Tickle (short intensity)     | 06:30 | 45       | ⬜      |
+| 31.01.2026 Sat | -        | Rest (travel)                    | -     | -        | ⬜      |
+| 01.02.2026 Sun | -        | Rest (travel)                    | -     | -        | ⬜      |
 
-**Weekly Total:** 400 minutes (~6h40)
+**Weekly Total:** 145 minutes (~2h25)
 
 ---
 
 ## Detailed Workouts
 
 ### Mon Jan 26 ⬜
-**Rest Day** - Mandatory recovery after peak week
+**Rest Day** - Full recovery after Sunday's 4h bike (89km + 36km)
 
 ---
 
 ### Tue Jan 27 ⬜
-
-#### Morning Run (6:30-7:20) - 50min
-**Workout:** [[easy-aerobic|Easy Aerobic Run]]
-**Time:** 6:30-7:20
-
-**Structure:**
-- Continuous very easy (Z1-Z2)
-- Pace: 6:45-7:15/km (slower than usual)
-- HR: 125-140 bpm
-
-**Target Metrics:**
-- activity:: Run
-- duration-planned:: 50
-- distance-planned:: 6.5-7.5
-- zone-target:: Z1-Z2
-- avg-hr-target:: <138
-
-**Notes:** Recovery week - keep it truly easy. Shake out legs from Week 11 peak.
-
-#### Lunch Bike (12:30-13:15) - 45min
-**Workout:** [[easy-recovery|Easy Recovery Ride]]
-**Time:** 12:30-13:15
-
-**Structure:**
-- 5min warmup
-- 35min steady Z1-low Z2 (90-120W)
-- 5min cooldown
-
-**Target Metrics:**
-- activity:: Bike
-- duration-planned:: 45
-- distance-planned:: 24
-- zone-target:: Z1
-- avg-power-target:: 100-115
-
-**Notes:** Very easy spin. Indoor trainer. Focus on smooth pedaling. Preparing legs for FTP test tomorrow.
-
-**Daily Total:** 2 sessions, 1h35 (easy run + recovery bike)
+**Rest Day** - Second rest day to drop acute training load before Wednesday test
 
 ---
 
 ### Wed Jan 28 ⬜
 
-#### Midday FTP Test (13:00-14:00) - 60min
-**Workout:** [[../workouts/bike/ftp-bike-test|FTP Bike Test - 20min Protocol]]
-**Time:** 13:00-14:00
+#### Morning Run Threshold Test - 50min
+**Workout:** Run Threshold Test - 30min Protocol
+**Time:** Morning (flexible)
 
 **Structure:**
-- Warmup: 20min progressive with 3x1min @ Z3 openers
-- Main Test: 20min ALL-OUT time trial @ maximum sustainable power
-- Cooldown: 15min very easy
+- Warmup: 15min easy progressive build
+- Main Test: 30min ALL-OUT sustainable pace
+  - Start conservatively at ~4:40/km
+  - Settle into rhythm by 5min mark
+  - Push final 10min
+- Cooldown: 5min walk/very easy jog
 
-**Current FTP Baseline:** 220W
-**Target:** 225-230W (expecting 5-10W improvement from Cycles 2-3 training)
+**Current Threshold:** 171 bpm LTHR, 4:48/km pace
+**Target:** Improve to ~4:35-4:45/km
 
 **Target Metrics:**
-- activity:: Bike
-- duration-planned:: 60
-- distance-planned:: 32
-- zone-target:: Z5 Test
-- test-type:: FTP
+- activity:: Run
+- duration-planned:: 50
+- distance-planned:: 6.5-7.5
+- zone-target:: Z4-Z5 Test
+- test-type:: Threshold
 
-**Notes:** CRITICAL TEST. Indoor trainer REQUIRED. This is a 20min all-out effort - pace it correctly. Start at 225W, settle in, push final 5min. FTP = 95% of 20min average power. Proper warmup essential. Fresh legs from recovery days. Results establish new training zones for upcoming cycles.
+**Notes:** CRITICAL TEST. Fresh legs after 2 full rest days. Use flat route. Average HR from 30min effort = new LTHR. Average pace = new threshold pace. This establishes run training zones for Cycle 4.
 
-**Daily Total:** 1 session, 1h (FTP test)
+**Daily Total:** 1 session, 50min (threshold test)
 
 ---
 
 ### Thu Jan 29 ⬜
 
-#### Evening CSS Swim Test (20:00-21:00) - 60min
-**Workout:** [[../workouts/swim/css-swim-test|CSS Swim Test - Time Trial Protocol]]
-**Time:** 20:00-21:00
+#### Evening Swim (20:00-20:50) - 50min
+**Workout:** Easy Technique Swim
+**Time:** 20:00-20:50
 
 **Structure:**
-- Warmup: 400m easy progressive with 6x50m easy
-- Main Test: Continuous time trial for maximum sustainable distance in ~12-15min
-  - Target: 1400-1500m (aiming for improvement from 1350m baseline)
-- Cooldown: 200m very easy
-
-**Current CSS Baseline:** 2:27/100m
-**Target:** 2:23-2:25/100m (expecting 2-4s improvement)
+- Warmup: 300m easy
+- Drill Set (40%): 10x50m @ 1:30 (extra rest)
+  - 3x catch-up
+  - 3x fist drill
+  - 2x single-arm
+  - 2x fingertip drag
+- Pull Buoy: 4x100m @ 2:35/100m, 25s rest
+- Continuous: 200m smooth
+- Cooldown: 100m very easy
+- **Total: 1800m**
 
 **Target Metrics:**
 - activity:: Swim
-- duration-planned:: 60
-- distance-planned:: 1400-1500
-- zone-target:: T5 Test
-- test-type:: CSS
+- duration-planned:: 50
+- distance-planned:: 1800
+- zone-target:: Z1-Z2
+- drill-percentage:: 45
 
-**Notes:** Fixed Thursday 20:00 swim. CRITICAL TEST. This is an all-out sustainable effort for 12-15min. Start controlled, build into rhythm, push final 200m. Proper warmup essential. Results establish new swim training zones. Distance achieved divided by time = CSS pace.
+**Notes:** Fixed Thursday 20:00 slot. Easy technique session - no intensity. Focus on smooth, relaxed swimming. Recovery session, not a workout.
 
-**Daily Total:** 1 session, 1h (CSS test)
+**Daily Total:** 1 session, 50min (easy technique swim)
 
 ---
 
 ### Fri Jan 30 ⬜
 
-#### Morning Run (6:30-7:20) - 50min
-**Workout:** [[easy-aerobic|Easy Aerobic Run]]
-**Time:** 6:30-7:20
+#### Morning Bike (06:30-07:15) - 45min
+**Workout:** FTP Tickle - Short Intensity Stimulus
+**Time:** 06:30-07:15 (before travel)
 
 **Structure:**
-- Continuous easy (Z2)
-- Pace: 6:45-7:15/km
-- HR: 130-142 bpm
+- Warmup: 10min progressive (100W → 150W)
+- Openers: 3x30s @ 130% FTP (286W) / 30s easy spin
+  - Addresses anaerobic deficit
+- Main Set: 3x3min @ 105% FTP (231W)
+  - 3min easy spin between intervals
+  - RPE 8/10 (hard but not maximal)
+  - High cadence: 95-100 rpm
+- Cooldown: 8min very easy
 
 **Target Metrics:**
-- activity:: Run
-- duration-planned:: 50
-- distance-planned:: 7-7.5
-- zone-target:: Z2
+- activity:: Bike
+- duration-planned:: 45
+- distance-planned:: 24-26
+- zone-target:: Z4-Z5 (intervals only)
+- np-target:: 165-175
+- avg-power-target:: 140-150
 
-**Notes:** Easy recovery run. Day before threshold test - keep it light and easy.
+**Notes:** Short intensity session to maintain FTP stimulus without fatigue debt. The 30s sprints address anaerobic deficit (Garmin Load Focus showed 747, below optimal). Total hard work: ~12 minutes. Indoor trainer required. Done before leaving for travel.
 
-**Daily Total:** 1 session, 50min (easy run)
+**Daily Total:** 1 session, 45min (FTP tickle)
 
 ---
 
 ### Sat Jan 31 ⬜
+**Rest Day** - Out of country (travel)
 
-#### Morning Bike (9:00-10:15) - 75min
-**Workout:** [[z2-endurance|Z2 Endurance Ride]]
-**Time:** 9:00-10:15
-
-**Structure:**
-- 15min warmup
-- 50min steady Z2 (using NEW FTP zones from Wed test)
-- 10min cooldown
-
-**Target Metrics:**
-- activity:: Bike
-- duration-planned:: 75
-- distance-planned:: 40
-- zone-target:: Z2
-- avg-power-target:: TBD (based on new FTP)
-
-**Notes:** Moderate Z2 ride using updated training zones. Outdoor if weather permits. Easy legs before run threshold test.
-
-#### Afternoon Run Threshold Test (14:00-14:30) - 30min
-**Workout:** [[../workouts/run/run-threshold-test|Run Threshold Test - 30min Protocol]]
-**Time:** 14:00-14:30
-
-**Structure:**
-- Warmup: 15min easy build
-- Main Test: 30min ALL-OUT time trial @ maximum sustainable pace
-- Cooldown: 10min very easy
-
-**Current Threshold:** 171 bpm LTHR, 4:48/km pace
-**Target:** 173-175 bpm, 4:30-4:35/km pace (expecting improvement)
-
-**Target Metrics:**
-- activity:: Run
-- duration-planned:: 30
-- distance-planned:: 6.5-7
-- zone-target:: Z5 Test
-- test-type:: Threshold
-- avg-hr-target:: Maximum sustainable for 30min
-- pace-target:: Best sustainable pace
-
-**Notes:** CRITICAL TEST. This is a 30min all-out effort. Start conservatively (4:35/km), settle into rhythm, push final 10min. Average HR from test = new LTHR. Average pace = new threshold pace. Use flat course. Results establish new run training zones.
-
-**Daily Total:** 2 sessions, 1h45 (Z2 bike + threshold test)
+Optional: Easy 30-40min walk/jog to explore if desired.
 
 ---
 
 ### Sun Feb 1 ⬜
-
-#### Morning Swim (9:30-10:00) - 30min
-**Workout:** [[easy-technique|Easy Technique]]
-**Time:** 9:30-10:00
-
-**Structure:**
-- Warmup: 200m very easy
-- Drill Set (50%): 6x50m @ 1:30 (extra rest)
-  - 2x catch-up
-  - 2x fist drill
-  - 2x single-arm
-- Continuous: 3x100m smooth @ NEW CSS pace +10s, 30s rest
-- Cooldown: 100m
-- **Total: 800m**
-
-**Target Metrics:**
-- activity:: Swim
-- duration-planned:: 30
-- distance-planned:: 800
-- zone-target:: Z1
-- drill-percentage:: 38
-
-**Notes:** Short easy technique session using updated CSS zones from Thursday test. Very light - end of recovery week.
-
-**Daily Total:** 1 session, 30min (easy technique swim)
+**Rest Day** - Out of country (travel)
 
 ---
 
@@ -262,69 +176,70 @@ css-swim-baseline: "2:27"
 
 **Progress:** ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ (0/7 days completed)
 
-**Week 12 Status: Planned - RECOVERY + TESTING WEEK**
-- Sessions planned: 8
+**Week 12 Status: Planned - TRUE RECOVERY WEEK**
+- Sessions planned: 3
 - Sessions completed: 0
-- Total planned duration: 6h40
+- Total planned duration: 2h25
+- Rest days: 4 (Mon, Tue, Sat, Sun)
 
-**Recovery Week Principles Applied:**
-- **Minimal volume:** 6h40 vs 14h20 peak (53% reduction)
-- **Session reduction:** From 11 → 8 sessions
-- **Testing focus:** 3 critical tests (FTP, CSS, Run Threshold)
-- **Easy pacing:** All non-test sessions at lower end of zones
-- **No strength:** Complete muscular recovery
-- **Strategic timing:** Tests spread across Wed/Thu/Sat
+**Recovery Week Design Rationale:**
 
-**Testing Schedule & Targets:**
+1. **Two rest days at start** - Drop acute training load from ceiling (~1750-1800) back to mid-optimal range
 
-1. **Wednesday FTP Test:**
-   - Current: 220W
-   - Target: 225-230W
-   - Expected gain: 5-10W (2-5% improvement)
+2. **Run threshold test Wednesday** - Fresh legs after 48h rest gives best test data for Cycle 4 zones
 
-2. **Thursday CSS Test:**
-   - Current: 2:27/100m
-   - Target: 2:23-2:25/100m
-   - Expected gain: 2-4 seconds
+3. **Easy swim Thursday** - Technique maintenance at fixed slot, no intensity
 
-3. **Saturday Run Threshold Test:**
-   - Current: 171 bpm LTHR, 4:48/km
-   - Target: 173-175 bpm, 4:30-4:35/km
-   - Expected gain: 2-4 bpm, 13-18s/km faster
+4. **FTP tickle Friday morning** - Short intensity stimulus before travel:
+   - Maintains FTP without full test fatigue
+   - 30s sprints address anaerobic deficit
+   - 3x3min @ 105% gives VO2max tickle
+   - Done by 7:15, clear for travel
 
-**Preparation for Tests:**
-- All tests done with 48h+ recovery from previous hard effort
-- FTP test: 2 days after last intensity (Mon rest + Tue easy)
-- CSS test: 1 day after FTP test (different systems)
-- Run test: 2 days after CSS test (Fri easy between)
+5. **Weekend rest** - Travel days, no training required
 
-**Cycle 3 Complete:**
-This concludes Cycle 3 (Weeks 9-12). Key achievements:
-- ✅ Intensity progression: 231W → 235W bike, 4:50 → 4:40/km run
-- ✅ Volume peaks: 3h bike, 2h run successfully completed
-- ✅ Swim technique: 50%+ maintained throughout
-- ✅ Testing week: Establishes new baselines for Cycle 4
+**Garmin Data Context (entering this week):**
+- Acute Training Load: ~1750-1800 (at ceiling)
+- Low Aerobic: 2077 (above optimal - overloaded)
+- High Aerobic: 1786 (at optimal ceiling)
+- Anaerobic: 747 (below optimal - deficit)
+- HRV Status: Balanced
 
-**Next Steps:**
-- **Cycle 4 (Weeks 13-16):** Build on new FTP/CSS/Threshold zones
-- Use test results to update training-zones.md
-- Plan next 4-week block with updated power/pace targets
-- Continue bike performance focus with higher baseline powers
+**Expected outcomes by end of Week 12:**
+- Acute load dropped to ~1200-1400 (mid-optimal)
+- Low aerobic reduced (less Z2 volume)
+- Anaerobic slightly improved (Friday sprints)
+- HRV maintained balanced
+- Fresh and ready for Cycle 4
 
 ---
 
-## Optional Mobility Work
+## Cycle 3 Summary
 
-**Focus:** Pre-test mobility and recovery (optimize testing performance)
-**Duration:** 20 min
-**Best timing:** Monday evening, Thursday evening (between tests)
+**Weeks 9-12 Complete.** Key outcomes:
 
-**Routine:**
-- Gentle full-body stretching: 8min
-- Hip openers (low lunge variations): 3min
-- Hamstring flossing: 2min
-- Shoulder + thoracic mobility: 3min
-- Spinal twists + cat-cow: 2min
-- Light foam rolling (avoid deep tissue): 2min
+| Metric | Start of Cycle 3 | End of Cycle 3 | Change |
+|--------|------------------|----------------|--------|
+| FTP | 220W | 220W (test Week 4) | Maintain |
+| Run Threshold | 4:48/km | TBD (Wed test) | Expected improvement |
+| CSS | 2:27/100m | 2:19-2:27 | Improved |
+| Long Bike | 2h30 | 4h03 (Week 11) | +65% |
+| Long Run | 1h50 | 2h30 (Week 11) | +36% |
 
-**Benefits:** Light mobility work optimizes testing performance without creating muscle soreness. Monday evening aids recovery from Week 11 peak. Thursday evening (between FTP and run tests) maintains mobility without compromising fresh legs for testing.
+**Key learnings for Cycle 4:**
+1. Cap weekly volume at 12h (15h+ causes next-week fatigue)
+2. 2 swims/week maximum (life constraint accepted)
+3. No long session extensions when feeling good
+4. Address anaerobic deficit with short sprint work
+5. Use Garmin Load Focus and HRV as daily guides
+
+---
+
+## Next: Cycle 4 (Weeks 13-16)
+
+**Cycle 4 Goals:**
+- Peak long bike: 160km
+- Weekly ceiling: 12h
+- Swim: 2 sessions/week
+- Intensity: Mixed (short sprints + sustained threshold)
+- Start: February 2, 2026
