@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a personal training planning repository for completing Ironman Hamburg on June 7, 2026. The athlete is ˚based in Hamburg, Germany, providing a home advantage for course familiarization.
+This is a personal training planning repository for completing Ironman Hamburg on June 7, 2026. Andrei is ˚based in Hamburg, Germany, providing a home advantage for course familiarization.
 
 ## Training Structure
 
@@ -12,7 +12,7 @@ This is a personal training planning repository for completing Ironman Hamburg o
 - **Periodization:** 3 weeks build + 1 week recovery (7 cycles + 2-week taper)
 - **Weekly Constraints:**
   - Monday: Rest day (easy/technique swim allowed starting Week 5 in build weeks)
-  - Thursday: Fixed swim session (20:00-21:00)
+  - Thursday: Fixed swim session
   - Swim sessions should NOT be scheduled back-to-back days (need rest between swim sessions)
   - 50m pool available
   - **Weekend:** Flexible for long sessions
@@ -21,7 +21,7 @@ This is a personal training planning repository for completing Ironman Hamburg o
 
 ### Work Schedule
 - **Work Hours:** 9:00-18:00 (flexible schedule, remote except Tue/Thu)
-- **Onsite Days:** Tuesday and Thursday (gym access available)
+- **Onsite Days:** Tuesday and Thursday
 - **Remote Days:** Monday, Wednesday, Friday (training flexibility)
 - **Earliest Meeting:** 10:00 (standup)
 - **Training Windows:** Morning (before 9:00), lunch break, evening (after 18:00)
@@ -44,8 +44,8 @@ This is a personal training planning repository for completing Ironman Hamburg o
 
 - Use kilometers for all distances (athlete is in Germany)
 - Keep project language in English
-- Week numbering follows the 30-week plan (currently Week 13)
-- Testing weeks: 4, 12, 20, 28 (FTP, run threshold, CSS tests)
+- Week numbering follows the 30-week plan
+
 
 ## Location Context
 
@@ -85,10 +85,3 @@ ironman-2026/
   - Easy bike + hard run
   - Hard bike + easy run
   - Easy bike + easy run
-
-## Volume Constraints (Learned from Cycle 3)
-
-1. **Weekly cap: 12h maximum** (15h+ causes next-week fatigue)
-2. **2 swims/week max** (life constraint)
-3. **No extensions when feeling good** - bank energy for hard sessions
-4. **Recovery weeks must be EASY** - no tempo/threshold work

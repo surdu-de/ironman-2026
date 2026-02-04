@@ -11,10 +11,14 @@
             "id": "cf3924ff11898257",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -181,15 +185,17 @@
   },
   "active": "c58501afaf31614c",
   "lastOpenFiles": [
-    "weeks-taper.md",
-    "weeks-cycle-7.md",
-    "weeks-cycle-6.md",
-    "weeks-cycle-5.md",
-    "weeks-cycle-4.md",
     "weeks-cycle-3.md",
+    "weeks-cycle-4.md",
     "weeks-cycle-2.md",
     "weeks-cycle-1.md",
     "cycles.md",
+    "CLAUDE.md",
+    "weeks-taper.md",
+    "weeks-cycle-5.md",
+    "weeks/week-01.md",
+    "weeks-cycle-7.md",
+    "weeks-cycle-6.md",
     "weeks/week-12.md",
     "nutrition-strategy.md",
     "cycles/cycle-4-threshold-work.md",
@@ -203,10 +209,8 @@
     "training-constraints.md",
     "backlog/PROJECT-PLAN.md",
     "README.md",
-    "CLAUDE.md",
     "cycles/cycle-1-base-building.md",
     "cycles/cycle-2-endurance-development.md",
-    "chats",
-    "cycles/taper-phase.md"
+    "chats"
   ]
 }
