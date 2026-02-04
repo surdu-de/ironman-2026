@@ -63,18 +63,20 @@ Training location is Hamburg, Germany - the same city as the race. This enables:
 
 ```
 ironman-2026/
-├── CLAUDE.md           # This file - project guidance
-├── cycles.md           # All cycles + current zones
-├── weeks-cycle-1.md    # Weeks 1-4 (completed)
-├── weeks-cycle-2.md    # Weeks 5-8 (completed)
-├── weeks-cycle-3.md    # Weeks 9-12 (completed)
-├── weeks-cycle-4.md    # Weeks 13-16 (current)
-├── weeks-cycle-5.md    # Weeks 17-20 (planned)
-├── weeks-cycle-6.md    # Weeks 21-24 (planned)
-├── weeks-cycle-7.md    # Weeks 25-28 (placeholder)
-├── weeks-taper.md      # Weeks 29-30 (placeholder)
-└── .obsidian/          # Obsidian settings
+├── CLAUDE.md                  # This file - project guidance
+├── cycles.md                  # All cycles + current zones
+├── weeks-cycle-1.md           # Weeks 1-4 (completed)
+├── weeks-cycle-2.md           # Weeks 5-8 (completed)
+├── weeks-cycle-3.md           # Weeks 9-12 (completed)
+├── weeks-cycle-4-current.md   # Weeks 13-16 (CURRENT)
+├── weeks-cycle-5.md           # Weeks 17-20 (planned)
+├── weeks-cycle-6.md           # Weeks 21-24 (planned)
+├── weeks-cycle-7.md           # Weeks 25-28 (placeholder)
+├── weeks-taper.md             # Weeks 29-30 (placeholder)
+└── .obsidian/                 # Obsidian settings
 ```
+
+**Note:** The `-current` suffix indicates the active training cycle. Move this suffix to the next cycle file as training progresses.
 
 ## Training Intensity Rules
 
