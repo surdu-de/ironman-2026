@@ -173,9 +173,9 @@
 ### By End of Cycle 4
 
 1. **Complete 160km long bike** (Week 15)
-2. **Maintain 12h volume cap** (no overreach)
-3. **TRUE Z2 discipline** on long rides (120-140W, NOT 165W)
-4. **HR discipline** on long runs (cap at 148 bpm)
-5. **2 swims/week** consistently
-6. **All VO2max intervals completed** (no early failures)
-7. **Recovery week EASY** (no tempo violations like Cycle 2)
+2. **HR discipline on long runs** (cap at 148 bpm)
+3. **HR discipline on long rides** (cap at 140 bpm)
+4. **2 swims/week** consistently
+5. **All VO2max intervals completed** (no early failures)
+6. **FTP increase to 230W** (Week 16 test)
+
