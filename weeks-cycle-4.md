@@ -37,8 +37,6 @@
 | **15** | **Peak** | **2h / 18km** | **160km / 4h30** | **~12h** |
 | 16 | Recovery | 1h / 10km | 60km / 2h | ~6h |
 
-**Volume Cap:** 12h max per week (learned from Cycle 3)
-
 ---
 
 ## Key Workouts

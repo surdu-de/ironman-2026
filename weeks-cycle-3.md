@@ -7,10 +7,11 @@
 | Metric | Start | End | Change |
 |--------|-------|-----|--------|
 | FTP | 220W | 225W | +5W (+2.3%) |
-| CSS | 2:27/100m | ~2:19/100m | Improved (actual swims) |
-| Run Threshold | 4:35/km | TBD (Week 12 test) | Expected improvement |
+| CSS | 2:27/100m | ~2:23/100m | Improved (Week 12 long swim) |
+| Run Threshold | 4:35/km | ~4:40/km | Maintained (fatigued test in long run) |
 | Long Bike | 3h | 4h03 (125km) | +1h |
 | Long Run | 2h | 2h30 (24.7km) | +30min |
+| Long Swim | ~60min | 1h56 (4,200m) | +56min |
 | Cycling VO2max | 38-40 | 41 | Climbing |
 
 ---
@@ -80,23 +81,30 @@
 ---
 
 ### Week 12: Jan 26 - Feb 1 (Recovery)
-**Actual:** ~2h25 vs 6h40 planned
+**Actual:** 6h53 vs 6h40 planned (103%)
 
-**Context:** True recovery week after Week 10 overreach consequences.
+**Context:** Deviated from original recovery plan - turned into productive training week.
 
-| Day | Activity |
-|-----|----------|
-| Mon | Rest |
-| Tue | Rest |
-| Wed | Run threshold test (pending) |
-| Thu | Easy technique swim 50min |
-| Fri | FTP tickle 45min (travel prep) |
-| Sat-Sun | Rest (travel) |
+| Day | Activity | Duration | Distance | Notes |
+|-----|----------|----------|----------|-------|
+| Mon | Rest | - | - | |
+| Tue | Long swim | 1:55:38 | 4,200m | **Peak swim!** Avg 2:23/100m |
+| Wed | Run (aborted) | 24:51 | 3.87km | Ice conditions - smart stop |
+| Thu | Pool swim | 38:34 | 575m | Crowded, mostly waiting |
+| Fri | Bike 5x5min @105% | 1:02:03 | 33.84km | All intervals @ 236W |
+| Sat | Long run + threshold | 2:00:19 | 20.92km | 4x threshold km @ 4:40-5:05 |
+| Sun | Easy run | 52:09 | 8.78km | Recovery pace 5:56/km |
 
-**Testing Status:**
-- Run threshold: Pending (Wed)
-- FTP: Skipped (recent Week 9 test valid)
-- CSS: Skipped (swim lowest priority)
+| Discipline | Sessions | Time | Distance |
+|------------|----------|------|----------|
+| Swim | 2 | 2h34 | 4,775m |
+| Bike | 1 | 1h02 | 33.8km |
+| Run | 3 | 3h17 | 33.6km |
+
+**Key Outcomes:**
+- Run threshold confirmed: ~4:40/km @ 172 HR (Sat long run)
+- Peak swim distance: 4,200m continuous pool session
+- Bike power: 5x5min @ 236W (105% FTP) executed perfectly
 
 ---
 
@@ -132,6 +140,7 @@ Follow Garmin recommendations for tactical daily adjustments, but don't abandon 
 |--------|-------|------|
 | Long Bike | 4h03 / 125.6km | Week 11 |
 | Long Run | 2h30 / 24.7km | Week 11 |
+| **Long Swim** | **1:55 / 4,200m** | **Week 12** |
 | FTP | 225W | Week 9 test |
 | Mental Toughness | 2h run in heavy snow | Week 9 |
 
@@ -139,9 +148,10 @@ Follow Garmin recommendations for tactical daily adjustments, but don't abandon 
 
 ## Readiness for Cycle 4
 
-After Week 12 true recovery:
-- Acute load should drop to ~1200-1400 (mid-optimal)
-- Low aerobic reduced (less Z2 volume)
-- Anaerobic slightly improved (Friday sprints)
-- HRV maintained balanced
-- Fresh and ready for Cycle 4 build
+Week 12 was more productive than planned recovery:
+- ~7h training maintained fitness without full rest
+- Threshold work confirmed run pace improvement (4:40/km)
+- Peak swim volume achieved (4,200m)
+- Quality bike session (5x5min @ 105% FTP)
+- Acute load likely maintained vs. dropped
+- Entering Cycle 4 with momentum rather than from full rest
