@@ -11,14 +11,10 @@
             "id": "cf3924ff11898257",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CLAUDE.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "New tab"
             }
           }
         ]
@@ -185,23 +181,32 @@
   },
   "active": "c58501afaf31614c",
   "lastOpenFiles": [
-    "cycles/cycle-1-base-building.md",
-    "cycles/cycle-2-endurance-development.md",
-    "chats/chat-opus-cycle-3-summary-and-next-cycles.md",
+    "weeks-taper.md",
+    "weeks-cycle-7.md",
+    "weeks-cycle-6.md",
+    "weeks-cycle-5.md",
+    "weeks-cycle-4.md",
+    "weeks-cycle-3.md",
+    "weeks-cycle-2.md",
+    "weeks-cycle-1.md",
+    "cycles.md",
+    "weeks/week-12.md",
+    "nutrition-strategy.md",
     "cycles/cycle-4-threshold-work.md",
-    "chats",
-    "cycles/cycle-5-race-specific.md",
     "cycles/cycle-7-final-build.md",
     "cycles/cycle-6-peak-development.md",
+    "cycles/cycle-5-race-specific.md",
+    "performance-data.md",
+    "chats/chat-opus-cycle-3-summary-and-next-cycles.md",
+    "current-week.md",
     "cycles/cycle-3-strength-integration.md",
-    "cycles/taper-phase.md",
-    "weeks/week-11.md",
-    "weeks/week-10.md",
-    "weeks/week-12.md",
+    "training-constraints.md",
+    "backlog/PROJECT-PLAN.md",
+    "README.md",
     "CLAUDE.md",
-    "workouts/bike/vo2max-intervals.md",
-    "workouts/bike/z2-endurance.md",
-    "weeks/week-04.md",
-    "current-week.md"
+    "cycles/cycle-1-base-building.md",
+    "cycles/cycle-2-endurance-development.md",
+    "chats",
+    "cycles/taper-phase.md"
   ]
 }

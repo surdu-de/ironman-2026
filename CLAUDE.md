@@ -44,7 +44,7 @@ This is a personal training planning repository for completing Ironman Hamburg o
 
 - Use kilometers for all distances (athlete is in Germany)
 - Keep project language in English
-- Week numbering follows the 30-week plan (currently Week 1)
+- Week numbering follows the 30-week plan (currently Week 13)
 - Testing weeks: 4, 12, 20, 28 (FTP, run threshold, CSS tests)
 
 ## Location Context
@@ -59,67 +59,36 @@ Training location is Hamburg, Germany - the same city as the race. This enables:
 - **Obsidian Integration:** This project is symlinked to `/Users/razvan.surdu/Brain/40 projects/ironman-2026` for viewing all markdown files within the Obsidian vault
 - All training plans, weekly schedules, and documentation are accessible through Obsidian for easy note-taking and cross-referencing
 
-## Workout Template System
-
-### Structure
-The project uses a reusable workout template system organized in the `workouts/` directory:
+## File Structure
 
 ```
-workouts/
-├── run/          # Run workout templates
-├── bike/         # Bike workout templates
-├── swim/         # Swim workout templates
-├── strength/     # Strength training templates
-└── brick/        # Brick (multi-sport) workout templates
+ironman-2026/
+├── CLAUDE.md           # This file - project guidance
+├── cycles.md           # All cycles + current zones
+├── weeks-cycle-1.md    # Weeks 1-4 (completed)
+├── weeks-cycle-2.md    # Weeks 5-8 (completed)
+├── weeks-cycle-3.md    # Weeks 9-12 (completed)
+├── weeks-cycle-4.md    # Weeks 13-16 (current)
+├── weeks-cycle-5.md    # Weeks 17-20 (planned)
+├── weeks-cycle-6.md    # Weeks 21-24 (planned)
+├── weeks-cycle-7.md    # Weeks 25-28 (placeholder)
+├── weeks-taper.md      # Weeks 29-30 (placeholder)
+└── .obsidian/          # Obsidian settings
 ```
 
-### Usage in Weekly Files
+## Training Intensity Rules
 
-**Weekly Schedule Table:**
-```markdown
-| Date | Activity | Workout Template | Time Slot | Duration | Status |
-|------|----------|------------------|-----------|----------|--------|
-| Tue  | Run      | [[workouts/run/easy-aerobic-50min\|Easy Aerobic 50min]] | ⛅ 6:15 | 50 | ⬜ |
-```
+- **NEVER combine hard bike + hard run same day**
+  - Hard bike = Threshold, VO2max, Tempo intervals, FTP tests
+  - Hard run = Threshold, intervals, tempo runs
+- **Allowed combinations:**
+  - Easy bike + hard run
+  - Hard bike + easy run
+  - Easy bike + easy run
 
-**Detailed Workouts Section:**
-```markdown
-### Tue Nov 11 ✅
-**Workout:** [[workouts/run/easy-aerobic-50min|Easy Aerobic Run 50min]]
-**Time:** 6:15-7:05
+## Volume Constraints (Learned from Cycle 3)
 
-**Actual Performance:**
-- activity:: Run
-- date:: 2025-11-11
-- duration-actual:: 51.4
-- distance-actual:: 8.15
-- avg-hr:: 145
-- status:: completed
-```
-
-### Template Naming Conventions
-- Use descriptive lowercase filenames with hyphens: `easy-aerobic-50min.md`
-- Include workout type, intensity/category, and duration where applicable
-- Examples: `z2-trainer-60min.md`, `vo2max-intervals-2200m.md`, `full-body-gym.md`
-
-### Template Frontmatter
-Each template includes structured YAML frontmatter with:
-- **Workout metadata:** type, category, name, default duration/distance
-- **Intensity zones:** primary zone, HR/power/pace ranges
-- **Structure:** continuous/intervals, warmup/main/cooldown details
-- **Focus areas:** training emphasis, equipment needs, scalability
-- **Constraints:** suitable phases, weather dependency, scheduling restrictions
-
-### Benefits
-1. **Consistency** - Standardized workout definitions across all 30 weeks
-2. **Reusability** - Define once, reference many times
-3. **Robust Linking** - Obsidian-style links are not time-dependent (unlike header anchors)
-4. **Maintainability** - Update workout template once, affects all week references
-5. **Dataview Integration** - Rich metadata enables powerful queries and dashboards
-
-### Guidelines for Claude
-- When creating new weekly schedules, reference existing workout templates
-- Time slots in weekly schedule are separate from template (kept in week file)
-- Actual performance data (dataview fields) stays in weekly files, not templates
-- Create new templates only when a unique workout pattern is needed
-- See `workouts/README.md` for complete documentation
+1. **Weekly cap: 12h maximum** (15h+ causes next-week fatigue)
+2. **2 swims/week max** (life constraint)
+3. **No extensions when feeling good** - bank energy for hard sessions
+4. **Recovery weeks must be EASY** - no tempo/threshold work
