@@ -1,3 +1,5 @@
 {
-  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-yellow"
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-red",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-red",
+  "anuppuccin-theme-settings@@anp-header-color-toggle": true
 }

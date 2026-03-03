@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "weeks-cycle-5-current.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "weeks-cycle-5-current"
             }
           }
         ]
@@ -89,12 +89,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "8502a9e378cf0930",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "weeks-cycle-5-current.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of weeks-cycle-5-current"
+            }
+          },
+          {
             "id": "4c6e99cafd469f8f",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "weeks-cycle-4-current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CLAUDE"
+              "title": "Backlinks for weeks-cycle-4-current"
             }
           },
           {
@@ -149,28 +164,12 @@
               "icon": "lucide-archive",
               "title": "All properties"
             }
-          },
-          {
-            "id": "8502a9e378cf0930",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "CLAUDE.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of CLAUDE"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,19 +182,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "c58501afaf31614c",
+  "active": "cf3924ff11898257",
   "lastOpenFiles": [
     "weeks-cycle-3.md",
     "weeks-cycle-4.md",
+    "weeks-cycle-5-current.md",
+    "weeks-cycle-6.md",
+    "weeks-cycle-7.md",
     "weeks-cycle-2.md",
     "weeks-cycle-1.md",
-    "cycles.md",
-    "CLAUDE.md",
     "weeks-taper.md",
+    "cycles.md",
+    "weeks-cycle-4-current.md",
+    "CLAUDE.md",
     "weeks-cycle-5.md",
     "weeks/week-01.md",
-    "weeks-cycle-7.md",
-    "weeks-cycle-6.md",
     "weeks/week-12.md",
     "nutrition-strategy.md",
     "cycles/cycle-4-threshold-work.md",
@@ -209,8 +210,6 @@
     "training-constraints.md",
     "backlog/PROJECT-PLAN.md",
     "README.md",
-    "cycles/cycle-1-base-building.md",
-    "cycles/cycle-2-endurance-development.md",
     "chats"
   ]
 }

@@ -1,6 +1,6 @@
 # Ironman Hamburg 2026 - Training Cycles
 
-**Race:** Sunday, June 7, 2026 | **Duration:** 30 weeks | **Current:** Week 13 (Cycle 4)
+**Race:** Sunday, June 7, 2026 | **Duration:** 30 weeks | **Current:** Week 17 (Cycle 5)
 
 ## Target vs Baseline
 
@@ -20,8 +20,8 @@
 | 1 | 1-4 | Nov 10 - Dec 7 | Base Building | 2h30 | Completed |
 | 2 | 5-8 | Dec 8 - Jan 4 | Endurance | 3h | Completed |
 | 3 | 9-12 | Jan 5 - Feb 1 | Threshold | 4h (125km) | Completed |
-| **4** | **13-16** | **Feb 2 - Mar 1** | **FTP/VO2max** | **160km** | **Current** |
-| 5 | 17-20 | Mar 2-29 | Race-Specific | 180km | Planned |
+| 4 | 13-16 | Feb 2 - Mar 1 | FTP/VO2max | 160km | Completed |
+| **5** | **17-20** | **Mar 2-29** | **Race-Specific** | **180km** | **Current** |
 | 6 | 21-24 | Mar 30 - Apr 26 | Peak | 200km | Planned |
 | 7 | 25-28 | Apr 27 - May 24 | Final Build | TBD | Future |
 | Taper | 29-30 | May 25 - Jun 7 | Pre-Race | Reduced | Future |
@@ -32,17 +32,17 @@
 
 ## Current Training Zones
 
-### Bike (FTP: 225W | 2.50 W/kg @ 90kg)
+### Bike (FTP: 240W | 2.70 W/kg @ 89kg)
 
 | Zone | Name | % FTP | Watts | Purpose |
 |------|------|-------|-------|---------|
-| Z1 | Recovery | <50% | <113W | Warmup/cooldown |
-| Z2 | Endurance | 50-65% | 113-146W | Long rides, base |
-| Z3 | Tempo | 65-75% | 146-169W | Race pace |
-| Z4 | Threshold | 75-85% | 169-191W | FTP work |
-| Z5 | VO2max | 85-95% | 191-214W | Intervals |
+| Z1 | Recovery | <50% | <120W | Warmup/cooldown |
+| Z2 | Endurance | 50-65% | 120-156W | Long rides, base |
+| Z3 | Tempo | 65-75% | 156-180W | Race pace |
+| Z4 | Threshold | 75-85% | 180-204W | FTP work |
+| Z5 | VO2max | 85-95% | 204-228W | Intervals |
 
-**FTP History:** 195W (baseline) -> 220W (Wk 4) -> 225W (Wk 9)
+**FTP History:** 195W (baseline) -> 220W (Wk 4) -> 225W (Wk 9) -> 240W (Wk 17)
 
 ### Run (LTHR: 180 bpm | Threshold: 4:35/km)
 
@@ -131,21 +131,43 @@
 
 ---
 
-## Current Cycle
-
 ### Cycle 4: FTP & VO2max Development (Weeks 13-16)
 
-**Status:** In Progress | **Peak Target:** 160km long bike
+| Metric | Start | End | Change |
+|--------|-------|-----|--------|
+| FTP | 225W | 240W | +15W (+6.7%) |
+| Long Bike | 125km | 161.3km (5h18) | +36km |
+| Long Run | 2h30 (24.7km) | 2h46 (27.6km) | +16min |
+| CSS | ~2:23/100m | ~2:17/100m | Improved |
+
+**Key Achievements:**
+- 160km long bike target achieved (Week 15)
+- FTP jumped to 240W (tested Week 17)
+- Hamburg ROUVY course x2 completed
+
+**Challenges:**
+- Week 13 lost to illness (42% volume)
+- HR discipline failed on long runs (155 avg vs 148 cap)
+- Swim consistency dropped (0-2 sessions/week)
+- Recovery week violated again (9h50 vs 6h planned)
+
+---
+
+## Current Cycle
+
+### Cycle 5: Race-Specific Training (Weeks 17-20)
+
+**Status:** In Progress | **Peak Target:** 180km long bike
 
 #### Weekly Template
 
 | Day | Session 1 | Session 2 |
 |-----|-----------|-----------|
-| Mon | Swim 55min (technique + threshold) | - |
+| Mon | Swim 60min (technique + threshold) | - |
 | Tue | Run 55min (VO2max intervals) | - |
-| Wed | Bike 65min (FTP work) | Run 40min easy |
-| Thu | Bike 70min (VO2max) | Swim 45min |
-| Fri | Bike 45min easy | Run 50min (tempo) |
+| Wed | Bike 70min (threshold) | Run 60min easy |
+| Thu | Run 55min (tempo) | Swim 45min |
+| Fri | Bike 75min (VO2max) | - |
 | Sat | **Long Run** | - |
 | Sun | **Long Bike** | - |
 
@@ -153,34 +175,29 @@
 
 | Week | Phase | Long Run | Long Bike | Total |
 |------|-------|----------|-----------|-------|
-| 13 | Build 1 | 1h40 / 16km | 120km / 3h30 | ~10h |
-| 14 | Build 2 | 1h50 / 17km | 140km / 4h | ~11h |
-| **15** | **Peak** | **2h / 18km** | **160km / 4h30** | **~12h** |
-| 16 | Recovery | 1h / 10km | 60km / 2h | ~6h |
+| 17 | Build 1 | 1h45 / 16km | 140km / 4h | ~10h30 |
+| 18 | Build 2 | 1h50 / 17km | 160km / 4h30 | ~11h30 |
+| **19** | **Peak** | **2h / 18km** | **180km / 5h** | **~13h30** |
+| 20 | Recovery + Test | 1h / 10km | 70km / 2h | ~6h |
 
 #### Key Workouts
 
-- **Bike FTP (Wed):** Sweet Spot 3x10-12min @ 200W (91% FTP)
-- **Bike VO2max (Thu):** 4-5x4min @ 235W (107% FTP)
-- **Run Intensity (Tue):** 4-5x4min @ 4:30-4:35/km
-- **Run Tempo (Fri):** 15-20min continuous @ 5:00-5:05/km
+- **Bike Threshold (Wed):** 3x12min @ 240W (100% FTP)
+- **Bike VO2max (Fri):** 5x4min @ 262W (109% FTP)
+- **Run Intensity (Tue):** 4-5x5min @ 4:25-4:30/km
+- **Run Tempo (Thu):** 20-25min continuous @ 4:55-5:00/km
 
 #### Targets
 
 | Metric | Start | Target |
 |--------|-------|--------|
-| FTP | 225W | 230W |
-| Cycling VO2max | 41 | 42-43 |
-| Long bike | 125km | 160km |
+| FTP | 240W | 245W |
+| Cycling VO2max | ~42 | 43-44 |
+| Long bike | 161km | 180km |
 
 ---
 
 ## Future Cycles (Summary)
-
-### Cycle 5: Race-Specific (Weeks 17-20)
-- Peak: 180km long bike
-- Focus: Course-specific training
-- Testing Week 20: FTP, Run Threshold
 
 ### Cycle 6: Peak Development (Weeks 21-24)
 - Peak: 200km race simulation (Week 23)
