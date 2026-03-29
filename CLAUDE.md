@@ -68,9 +68,9 @@ ironman-2026/
 ├── weeks-cycle-1.md           # Weeks 1-4 (completed)
 ├── weeks-cycle-2.md           # Weeks 5-8 (completed)
 ├── weeks-cycle-3.md           # Weeks 9-12 (completed)
-├── weeks-cycle-4-current.md   # Weeks 13-16 (CURRENT)
-├── weeks-cycle-5.md           # Weeks 17-20 (planned)
-├── weeks-cycle-6.md           # Weeks 21-24 (planned)
+├── weeks-cycle-4.md           # Weeks 13-16 (completed)
+├── weeks-cycle-5.md           # Weeks 17-20 (completed)
+├── weeks-cycle-6-current.md   # Weeks 21-24 (CURRENT)
 ├── weeks-cycle-7.md           # Weeks 25-28 (placeholder)
 ├── weeks-taper.md             # Weeks 29-30 (placeholder)
 └── .obsidian/                 # Obsidian settings

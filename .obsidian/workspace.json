@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weeks-cycle-5-current.md",
+                "file": "weeks-cycle-7.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "weeks-cycle-5-current"
+              "title": "weeks-cycle-7"
             }
           }
         ]
@@ -182,20 +182,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf3924ff11898257",
+  "active": "c58501afaf31614c",
   "lastOpenFiles": [
+    "weeks-cycle-6-current.md",
+    "weeks-cycle-5.md",
+    "weeks-cycle-7.md",
+    "weeks-cycle-6.md",
+    "weeks-cycle-5-current.md",
     "weeks-cycle-3.md",
     "weeks-cycle-4.md",
-    "weeks-cycle-5-current.md",
-    "weeks-cycle-6.md",
-    "weeks-cycle-7.md",
     "weeks-cycle-2.md",
     "weeks-cycle-1.md",
     "weeks-taper.md",
     "cycles.md",
     "weeks-cycle-4-current.md",
     "CLAUDE.md",
-    "weeks-cycle-5.md",
     "weeks/week-01.md",
     "weeks/week-12.md",
     "nutrition-strategy.md",
@@ -209,7 +210,6 @@
     "cycles/cycle-3-strength-integration.md",
     "training-constraints.md",
     "backlog/PROJECT-PLAN.md",
-    "README.md",
     "chats"
   ]
 }

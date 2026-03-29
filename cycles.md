@@ -1,6 +1,6 @@
 # Ironman Hamburg 2026 - Training Cycles
 
-**Race:** Sunday, June 7, 2026 | **Duration:** 30 weeks | **Current:** Week 17 (Cycle 5)
+**Race:** Sunday, June 7, 2026 | **Duration:** 30 weeks | **Current:** Week 21 (Cycle 6)
 
 ## Target vs Baseline
 
@@ -21,8 +21,8 @@
 | 2 | 5-8 | Dec 8 - Jan 4 | Endurance | 3h | Completed |
 | 3 | 9-12 | Jan 5 - Feb 1 | Threshold | 4h (125km) | Completed |
 | 4 | 13-16 | Feb 2 - Mar 1 | FTP/VO2max | 160km | Completed |
-| **5** | **17-20** | **Mar 2-29** | **Race-Specific** | **180km** | **Current** |
-| 6 | 21-24 | Mar 30 - Apr 26 | Peak | 200km | Planned |
+| 5 | 17-20 | Mar 2-29 | Race-Specific | 180km | Completed |
+| **6** | **21-24** | **Mar 30 - Apr 26** | **Peak** | **200km** | **Current** |
 | 7 | 25-28 | Apr 27 - May 24 | Final Build | TBD | Future |
 | Taper | 29-30 | May 25 - Jun 7 | Pre-Race | Reduced | Future |
 
@@ -155,45 +155,45 @@
 
 ## Current Cycle
 
-### Cycle 5: Race-Specific Training (Weeks 17-20)
+### Cycle 6: Peak Development (Weeks 21-24)
 
-**Status:** In Progress | **Peak Target:** 180km long bike
+**Status:** In Progress | **Peak Target:** 200km race simulation
 
 #### Weekly Template
 
 | Day | Session 1 | Session 2 |
 |-----|-----------|-----------|
 | Mon | Swim 60min (technique + threshold) | - |
-| Tue | Run 55min (VO2max intervals) | - |
-| Wed | Bike 70min (threshold) | Run 60min easy |
-| Thu | Run 55min (tempo) | Swim 45min |
-| Fri | Bike 75min (VO2max) | - |
+| Tue | Bike 60min (threshold) | - |
+| Wed | Bike 65min (sweet spot) | Run 60min easy |
+| Thu | Run 60min (threshold intervals) | Swim 45min |
+| Fri | Rest (protect weekend long sessions) | - |
 | Sat | **Long Run** | - |
-| Sun | **Long Bike** | - |
+| Sun | **Long Bike** | **Brick Run 20-30min** |
 
 #### Progression
 
 | Week | Phase | Long Run | Long Bike | Total |
 |------|-------|----------|-----------|-------|
-| 17 | Build 1 | 1h45 / 16km | 140km / 4h | ~10h30 |
-| 18 | Build 2 | 1h50 / 17km | 160km / 4h30 | ~11h30 |
-| **19** | **Peak** | **2h / 18km** | **180km / 5h** | **~13h30** |
-| 20 | Recovery + Test | 1h / 10km | 70km / 2h | ~6h |
+| 21 | Build 1 | 2h15 / 22km | 160km / ~5h20 | ~12h20 |
+| 22 | Build 2 | 2h30 / 25km | 180km / ~6h | ~13h30 |
+| **23** | **Peak** | **3h / 30km** | **200km / ~6h40** | **~15h40** |
+| 24 | Recovery + Test | 1h15 / 12km | 80km / 2h30 | ~7h |
 
 #### Key Workouts
 
-- **Bike Threshold (Wed):** 3x12min @ 240W (100% FTP)
-- **Bike VO2max (Fri):** 5x4min @ 262W (109% FTP)
-- **Run Intensity (Tue):** 4-5x5min @ 4:25-4:30/km
-- **Run Tempo (Thu):** 20-25min continuous @ 4:55-5:00/km
+- **Bike Threshold (Tue):** 3x10min @ 240W, progressing to 2x15min @ 240W
+- **Bike Sweet Spot (Wed):** 2x20min @ 223W (91% FTP)
+- **Run Threshold (Thu):** 4x6min @ 4:20-4:25/km
+- **Brick Run (Sun):** 20-30min easy off the bike, race pace in Week 23
 
 #### Targets
 
 | Metric | Start | Target |
 |--------|-------|--------|
-| FTP | 240W | 245W |
-| Cycling VO2max | ~42 | 43-44 |
-| Long bike | 161km | 180km |
+| FTP | 240W | 250W |
+| Cycling VO2max | ~42 | 44-45 |
+| Long bike | 182km | 200km |
 
 ---
 
@@ -203,6 +203,7 @@
 - Peak: 200km race simulation (Week 23)
 - Hamburg course integration
 - Full race nutrition practice
+- Template change: Tue = bike threshold (sustained), Fri = rest (protect weekend)
 
 ### Cycle 7: Final Build (Weeks 25-28)
 - Final peak training block

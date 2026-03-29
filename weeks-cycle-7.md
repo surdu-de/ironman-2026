@@ -34,9 +34,9 @@ To be defined after completing Cycle 6.
 
 | Week | Phase | Long Run | Long Bike | Total |
 |------|-------|----------|-----------|-------|
-| 25 | Build 1 | 2h20 / 23km | 180km / 5h | ~11h30 |
-| 26 | Build 2 | 2h40 / 27km | 180km / 5h | ~12h30 |
-| **27** | **Peak** | **3h15 / 33km** | **180km / 5h** | **~14h30** |
+| 25 | Build 1 | 2h20 / 23km | 180km / ~6h | ~12h30 |
+| 26 | Build 2 | 2h40 / 27km | 180km / ~6h | ~13h30 |
+| **27** | **Peak** | **3h15 / 33km** | **180km / ~6h** | **~15h30** |
 | 28 | Recovery + Test | 1h / 10km | 70km / 2h | ~6h |
 
 ---

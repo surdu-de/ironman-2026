@@ -19,12 +19,14 @@
 | Day | Session 1 | Session 2 |
 |-----|-----------|-----------|
 | Mon | Swim 60min (technique + threshold) | - |
-| Tue | Run 60min (threshold intervals) | - |
+| Tue | Bike 60min (threshold) | - |
 | Wed | Bike 65min (sweet spot) | Run 60min easy |
-| Thu | Run 55min (tempo) | Swim 45min |
-| Fri | Bike 70min (VO2max) | - |
+| Thu | Run 60min (threshold intervals) | Swim 45min |
+| Fri | Rest (protect weekend long sessions) | - |
 | Sat | **Long Run** | - |
-| Sun | **Long Bike** | - |
+| Sun | **Long Bike** | **Brick Run 20-30min easy** |
+
+*Cycle 5 learning: Friday rest protects weekend peak sessions. Sustained bike threshold (Tue) replaces short sprints. Brick run after long bike for race-specific adaptation.*
 
 ---
 
@@ -32,28 +34,25 @@
 
 | Week | Phase | Long Run | Long Bike | Total |
 |------|-------|----------|-----------|-------|
-| 21 | Build 1 | 2h15 / 22km | 160km / 4h30 | ~11h30 |
-| 22 | Build 2 | 2h30 / 25km | 180km / 5h | ~12h30 |
-| **23** | **Peak** | **3h / 30km** | **200km / 5h30** | **~14h30** |
+| 21 | Build 1 | 2h15 / 22km | 160km / ~5h20 | ~12h20 |
+| 22 | Build 2 | 2h30 / 25km | 180km / ~6h | ~13h30 |
+| **23** | **Peak** | **3h / 30km** | **200km / ~6h40** | **~15h40** |
 | 24 | Recovery | 1h15 / 12km | 80km / 2h30 | ~7h |
 
 ---
 
 ## Key Workouts
 
-### Bike (Sweet Spot - Wednesday)
-- Wk 21-22: Sweet Spot 2x20min @ 223W (91% FTP)
-- Wk 23: Sweet Spot 2x25min @ 220W (90% FTP) - pre-race simulation
+### Bike (Threshold - Tuesday)
+- Wk 21-22: 3x10min @ 240W (100% FTP), 5min recovery
+- Wk 23: 2x15min @ 240W (100% FTP), 5min recovery - race-specific sustained effort
 
-### Bike (VO2max - Friday)
-- Wk 21-22: 4x5min @ 262W (107% FTP)
-- Wk 23: 3x6min @ 255W (104% FTP) - longer sustained
-
-### Run (Tuesday - threshold)
+### Run (Threshold intervals - Thursday)
 - 4x6min @ 4:20-4:25/km, 3min jog recovery
 
-### Run (Thursday - tempo)
-- 25min continuous @ 4:50-4:55/km
+### Brick Run (Sunday - after long bike)
+- Wk 21-22: 20min easy @ 6:00-6:30/km immediately off the bike
+- Wk 23: 30min @ race pace (5:30-5:45/km) - race simulation
 
 ---
 
@@ -68,7 +67,7 @@
 ### Goals
 - Complete 200km without bonking
 - Test nutrition tolerance
-- Practice mental focus for 5+ hours
+- Practice mental focus for 6+ hours
 - Identify equipment issues
 
 ---
