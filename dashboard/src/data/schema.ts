@@ -19,6 +19,10 @@ export interface Week {
   run: DisciplineWeek
   ftpW: number | null
   cssPace100m: string | number | null
+  longBikeAvgHr: number | null
+  longRunAvgHr: number | null
+  longRunAvgPace: string | null
+  swimAvgPace100m: string | null
   keySessions: string[]
   flags: string[]
   notes: string

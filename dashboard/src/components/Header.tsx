@@ -2,12 +2,12 @@ import race from '../data/race.json'
 import weeks from '../data/weeks.json'
 import { daysUntil, parseRaceDate } from '../lib/format'
 
-const TRAINING_START = new Date('2025-11-10T00:00:00')
+const TRAINING_START_UTC = Date.UTC(2025, 10, 10)
 
 function currentWeekIndex(): number {
-  const today = new Date()
-  today.setHours(0, 0, 0, 0)
-  const elapsedDays = Math.floor((today.getTime() - TRAINING_START.getTime()) / 86_400_000)
+  const now = new Date()
+  const todayUtc = Date.UTC(now.getFullYear(), now.getMonth(), now.getDate())
+  const elapsedDays = Math.round((todayUtc - TRAINING_START_UTC) / 86_400_000)
   const idx = Math.floor(elapsedDays / 7)
   return Math.min(weeks.length - 1, Math.max(0, idx))
 }

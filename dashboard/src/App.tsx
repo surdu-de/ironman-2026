@@ -4,6 +4,9 @@ import { Header } from './components/Header'
 import { DisciplineFilter } from './components/DisciplineFilter'
 import { VolumeChart } from './components/VolumeChart'
 import { FtpChart } from './components/FtpChart'
+import { BikeHrChart } from './components/BikeHrChart'
+import { RunHrPaceChart } from './components/RunHrPaceChart'
+import { SwimPaceChart } from './components/SwimPaceChart'
 import { CompletionChart } from './components/CompletionChart'
 import { ForecastCard } from './components/ForecastCard'
 import { MilestoneTimeline } from './components/MilestoneTimeline'
@@ -20,6 +23,9 @@ function App() {
         <div className="grid gap-4 md:grid-cols-2 2xl:grid-cols-3">
           <VolumeChart filter={filter} />
           {(filter === 'all' || filter === 'bike') && <FtpChart />}
+          {(filter === 'all' || filter === 'bike') && <BikeHrChart />}
+          {(filter === 'all' || filter === 'run') && <RunHrPaceChart />}
+          {(filter === 'all' || filter === 'swim') && <SwimPaceChart />}
           <CompletionChart />
           <ForecastCard />
         </div>
