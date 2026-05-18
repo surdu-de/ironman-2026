@@ -181,7 +181,7 @@
       "Sleep is #1 taper priority",
       "Address anaerobic shortage with short hard openers"
     ],
-    "status": "completed"
+    "status": "current"
   },
   {
     "number": "taper",
@@ -198,6 +198,6 @@
     "achievements": [],
     "challenges": [],
     "learnings": [],
-    "status": "current"
+    "status": "upcoming"
   }
 ]
