@@ -1,15 +1,17 @@
 # Ironman Hamburg 2026 - Training Cycles
 
-**Race:** Sunday, June 7, 2026 | **Duration:** 30 weeks | **Current:** Week 21 (Cycle 6)
+**Race:** Sunday, June 7, 2026 | **Duration:** 30 weeks | **Current:** Week 28 (end of Cycle 7, entering Taper)
 
 ## Target vs Baseline
 
-| Discipline | Frankfurt 2024 | Hamburg 2026 Target | Improvement |
-|-----------|----------------|---------------------|-------------|
-| Swim 3.8km | 1:57:53 | 1:50:00 | -7:53 |
-| Bike 180km | 7:17:16 | 6:30:00 | -47:16 |
-| Run 42.2km | 4:51:28 | 4:30:00 | -21:28 |
-| **Total** | **14:24:58** | **~12:50:00** | **-1:34:58** |
+| Discipline | Frankfurt 2024 | Original Target | **Revised May 18** | Improvement vs Frankfurt |
+|-----------|----------------|------------------|---------------------|--------------------------|
+| Swim 3.8km | 1:57:53 | 1:50:00 | **1:55:00** | -2:53 |
+| Bike 180km | 7:17:16 | 6:00 stretch | **6:30:00** | -47:16 |
+| Run 42.2km | 4:51:28 | 4:30:00 | **4:30:00** | -21:28 |
+| **Total** | **14:24:58** | **~12:50:00** | **13:00-13:30** | **~1:00-1:25** |
+
+**Note:** Targets revised May 18 after wrist fracture (cast May 5-19) cost 3 outdoor long rides + all swim Wk26-27. 6:00 bike and 12:50 total are off the table; CSS retest Wk29 Wed may refine swim target.
 
 ---
 
@@ -22,9 +24,9 @@
 | 3 | 9-12 | Jan 5 - Feb 1 | Threshold | 4h (125km) | Completed |
 | 4 | 13-16 | Feb 2 - Mar 1 | FTP/VO2max | 160km | Completed |
 | 5 | 17-20 | Mar 2-29 | Race-Specific | 180km | Completed |
-| **6** | **21-24** | **Mar 30 - Apr 26** | **Peak** | **200km** | **Current** |
-| 7 | 25-28 | Apr 27 - May 24 | Final Build | TBD | Future |
-| Taper | 29-30 | May 25 - Jun 7 | Pre-Race | Reduced | Future |
+| 6 | 21-24 | Mar 30 - Apr 26 | Peak | 220km | Completed |
+| 7 | 25-28 | Apr 27 - May 24 | Final Build | 6h30 indoor race-sim (gut wall 4-5h) | Completed |
+| **Taper** | **29-30** | **May 25 - Jun 7** | **Pre-Race** | **Reduced** | **Current** |
 
 **Testing Weeks:** 4, 12, 20, 28
 
@@ -32,29 +34,31 @@
 
 ## Current Training Zones
 
-### Bike (FTP: 240W | 2.70 W/kg @ 89kg)
+### Bike (FTP: 255W | 2.93 W/kg @ 87kg)
 
 | Zone | Name | % FTP | Watts | Purpose |
 |------|------|-------|-------|---------|
-| Z1 | Recovery | <50% | <120W | Warmup/cooldown |
-| Z2 | Endurance | 50-65% | 120-156W | Long rides, base |
-| Z3 | Tempo | 65-75% | 156-180W | Race pace |
-| Z4 | Threshold | 75-85% | 180-204W | FTP work |
-| Z5 | VO2max | 85-95% | 204-228W | Intervals |
+| Z1 | Recovery | <50% | <128W | Warmup/cooldown |
+| Z2 | Endurance | 50-65% | 128-166W | Long rides, base |
+| Z3 | Tempo | 65-75% | 166-191W | Race pace |
+| Z4 | Threshold | 75-85% | 191-217W | FTP work |
+| Z5 | VO2max | 85-95% | 217-242W | Intervals |
 
-**FTP History:** 195W (baseline) -> 220W (Wk 4) -> 225W (Wk 9) -> 240W (Wk 17)
+**FTP History:** 195W (baseline) -> 220W (Wk 4) -> 225W (Wk 9) -> 240W (Wk 17) -> **255W (Wk 26, May 5)**
 
-### Run (LTHR: 180 bpm | Threshold: 4:35/km)
+### Run (LTHR: ~170 bpm estimated | Threshold: 4:35/km | HRmax: ~185-190 estimated)
 
 | Zone | Name | HR Range | Purpose |
 |------|------|----------|---------|
-| Z1 | Recovery | 95-113 | Easy recovery |
-| Z2 | Aerobic | 114-132 | Base building |
-| Z3 | Tempo | 133-151 | Race pace |
-| Z4 | Threshold | 152-179 | Hard efforts |
-| Z5 | VO2max | 180+ | Intervals |
+| Z1 | Recovery | <120 | Easy recovery |
+| Z2 | Aerobic | 120-151 | Base building, easy runs (cap 148 for solo long runs) |
+| Z3 | Tempo | 152-164 | Race pace |
+| Z4 | Threshold | 165-174 | Hard efforts |
+| Z5 | VO2max | 175+ | Intervals (target high 170s on later reps) |
 
 **Threshold History:** 4:48/km (baseline) -> 4:35/km (Wk 4)
+
+**Zone calibration note (Apr 29, 2026):** Earlier zones used LTHR 180, but Apr workout data (5×6min @ 4:27-4:34/km topping at HR 174 max) shows real LTHR is closer to 168-172. Zones above are estimated from this data. **Confirm with Wk28 30min TT**, that test sets race HR targets.
 
 ### Swim (CSS: 2:27/100m)
 
@@ -80,6 +84,8 @@
 | CSS | 2:33/100m | 2:27/100m | +6s faster |
 | Run Threshold | 4:48/km | 4:35/km | +13s/km faster |
 
+**Total volume (4 weeks):** ~35h54 (Wk1-4: 10h27 / 8h25 / 11h51 / 5h11)
+
 **Key Achievements:**
 - Major FTP improvement (+13%)
 - All tests completed successfully
@@ -95,6 +101,8 @@
 | Long Bike | 2h30 | 3h+ | +30min |
 | Long Run | 1h45 | 2h+ | +15min |
 | FTP/CSS/Threshold | - | - | Maintained |
+
+**Total volume (4 weeks):** ~34h26 (Wk5-8: 10h17 / 12h02 / 8h07 / ~4h, Wk7-8 cut for holidays)
 
 **Key Achievements:**
 - Extended endurance base significantly
@@ -115,6 +123,8 @@
 | Long Bike | 3h | 4h03 (125km) | +1h |
 | Long Run | 2h | 2h30 (24.7km) | +30min |
 | Cycling VO2max | 38-40 | 41 | Climbing |
+
+**Total volume (4 weeks):** ~41h48 (Wk9-12: 8h35 / 15h40 / 10h40 / 6h53, Wk10 overreach drove the 12h cap rule)
 
 **Key Achievements:**
 - FTP test success: 225W
@@ -140,6 +150,8 @@
 | Long Run | 2h30 (24.7km) | 2h46 (27.6km) | +16min |
 | CSS | ~2:23/100m | ~2:17/100m | Improved |
 
+**Total volume (4 weeks):** ~35h26 (Wk13-16: 4h12 / 9h06 / 12h18 / 9h50, Wk13 illness, Wk16 recovery violated)
+
 **Key Achievements:**
 - 160km long bike target achieved (Week 15)
 - FTP jumped to 240W (tested Week 17)
@@ -153,65 +165,106 @@
 
 ---
 
-## Current Cycle
+### Cycle 5: Race-Specific Training (Weeks 17-20)
 
-### Cycle 6: Peak Development (Weeks 21-24)
+| Metric | Plan | Actual |
+|--------|------|--------|
+| Long Bike Peak | 180km (Wk19) | **182km / 6h04 (Wk19)**, hit target |
+| Long Run Peak | 27km (Wk19) | **27km / 2h43**, hit target (shifted to Mon after illness) |
+| FTP | Test → 245W | **Not tested cleanly** (Wk20 ramp was an interval session, not a test) |
 
-**Status:** In Progress | **Peak Target:** 200km race simulation
+**Total volume (4 weeks):** ~41h (Wk17-20: 10h54 / 11h20 / 13h01 / 5h52, Wk19 disrupted by food poisoning)
 
-#### Weekly Template
+**Key Achievements:**
+- Both peak targets hit: 182km bike + 27km run in Wk19, despite food poisoning Fri-Sat
+- HR discipline strong on long sessions: long run 143 avg (cap 148), long bike 133 avg
+- 5,000m swim block in Wk18 (massive aerobic stimulus)
+- Recovery week (Wk20) respected at ~6h, first time in the cycle sequence
 
-| Day | Session 1 | Session 2 |
-|-----|-----------|-----------|
-| Mon | Swim 60min (technique + threshold) | - |
-| Tue | Bike 60min (threshold) | - |
-| Wed | Bike 65min (sweet spot) | Run 60min easy |
-| Thu | Run 60min (threshold intervals) | Swim 45min |
-| Fri | Rest (protect weekend long sessions) | - |
-| Sat | **Long Run** | - |
-| Sun | **Long Bike** | **Brick Run 20-30min** |
-
-#### Progression
-
-| Week | Phase | Long Run | Long Bike | Total |
-|------|-------|----------|-----------|-------|
-| 21 | Build 1 | 2h15 / 22km | 160km / ~5h20 | ~12h20 |
-| 22 | Build 2 | 2h30 / 25km | 180km / ~6h | ~13h30 |
-| **23** | **Peak** | **3h / 30km** | **200km / ~6h40** | **~15h40** |
-| 24 | Recovery + Test | 1h15 / 12km | 80km / 2h30 | ~7h |
-
-#### Key Workouts
-
-- **Bike Threshold (Tue):** 3x10min @ 240W, progressing to 2x15min @ 240W
-- **Bike Sweet Spot (Wed):** 2x20min @ 223W (91% FTP)
-- **Run Threshold (Thu):** 4x6min @ 4:20-4:25/km
-- **Brick Run (Sun):** 20-30min easy off the bike, race pace in Week 23
-
-#### Targets
-
-| Metric | Start | Target |
-|--------|-------|--------|
-| FTP | 240W | 250W |
-| Cycling VO2max | ~42 | 44-45 |
-| Long bike | 182km | 200km |
+**Challenges:**
+- **Food poisoning Wk19** lost Fri+Sat, forced peak sessions to Sun+Mon back-to-back
+- **No clean FTP test**, Wk20 "ramp" was an interval session, not a true test
+- **Bike intensity sessions skipped repeatedly**, Wk18 both threshold and VO2max missed
+- Pattern of swapping planned sessions (e.g., bike VO2max → run VO2max)
 
 ---
 
-## Future Cycles (Summary)
-
 ### Cycle 6: Peak Development (Weeks 21-24)
-- Peak: 200km race simulation (Week 23)
-- Hamburg course integration
-- Full race nutrition practice
-- Template change: Tue = bike threshold (sustained), Fri = rest (protect weekend)
+
+| Metric | Plan | Actual |
+|--------|------|--------|
+| Long Bike Peak | 200km / ~6h40 (Wk23) | **220km / 7h05 (Wk23)**, +20km over plan |
+| Long Run Peak | 30km (Wk23) | **30km (Wk22, 2h48)**, hit one week early |
+| FTP | Test → 250W | **Not tested** (3 cycles without a clean test) |
+
+**Total volume (4 weeks):** ~53h40 (Wk21-24: 11h59 / 13h54 / 16h40 / 11h07, Wk24 recovery violated, +4h over plan)
+
+**Key Achievements:**
+- Long bike peak: 220km in 7h05 (Wk23) at NP 155W, HR 134 avg, exceeded 200km target
+- Long run peak: 30km hit in Wk22 (with Dragos), week ahead of schedule
+- All Tue threshold bike sessions executed clean (3x10min and 2x15min @ 240W)
+- Swim volume rebuilt across the cycle: 0 / 4.1km / 6.6km / 2.75km (Wk21-24)
+- Hamburg course integration started on long bikes
+
+**Challenges:**
+- **HR discipline failed on long runs**, Wk22: 154 avg (Dragos), Wk24: 156 avg in half-marathon race. Cap was 148.
+- **Recovery week (Wk24) not respected**, ~11h vs 7h plan, included a half-marathon race + tempo work
+- **Brick run skipped** after the 220km Wk23 ride (race-specific failure)
+- **No formal FTP test** scheduled or executed in the cycle
+- Wk22 violated the hard bike + hard run same-day rule (5x5min threshold bike + tempo run)
+
+**Critical Learnings (carried into Cycle 7):**
+1. **FTP test must be scheduled**, Wk26 mid-week. Three cycles without one is too long.
+2. **Long runs solo** through Wk28, Dragos pushes pace above HR cap consistently
+3. **Recovery week intensity cap**, no races, no tempo, low volume
+4. **220km on trainer ≠ 180km outdoor**, real outdoor benchmark needed in Wk26
+5. **Brick runs are non-negotiable**, schedule them after the long bike, don't skip when tired
+
+---
 
 ### Cycle 7: Final Build (Weeks 25-28)
-- Final peak training block
-- Testing Week 28: Final assessments
-- Prepare for taper
 
-### Taper Phase (Weeks 29-30)
-- Volume reduction, intensity maintenance
-- Race week logistics
-- Mental preparation
+| Metric | Plan | Actual |
+|--------|------|--------|
+| FTP test | 255-265W | **255W** (Wk26 clean test) |
+| Outdoor 180km benchmark | Wk26 race-pace ride | **Cancelled** (wrist fracture May 2) |
+| Body weight 89 → 85 kg | -4kg | **89 → 87 kg** (-2kg, target 86.5) |
+| Long ride peak | 180km outdoor | **Wk27 6h30 indoor race-sim** (gut wall hit at 4-5h with 80g/h) |
+| Long run peak | 30km+ | **Wk27 31km @ HR 145**, Garmin flagged anaerobic shortage |
+
+**Total volume (4 weeks):** Reduced post-injury. Wk25 normal, Wk26-27 cast-limited (no swim, no outdoor bike), Wk28 cast off May 19.
+
+**Key Achievements:**
+- Clean FTP test 255W at lower body weight (2.93 W/kg vs 2.87 pre-cycle)
+- VO2max climbed to 53 (Excellent)
+- HRV 117ms rising into taper, top-decile entry state
+- Cardio confirmed NOT the bottleneck via Wk27 31km @ HR 145
+- Mental resilience through wrist fracture + adapted training around the cast
+
+**Challenges:**
+- **Wrist fracture May 2** (Wk25 long ride), cast May 5-19, no swim/outdoor bike for ~3 weeks
+- **Gut wall confirmed at 4-5h** with 80g/h carbs in Wk27 6h30 race-sim
+- **Cadence collapse** at 5h30 (75-82 → 64-66) identified as bonk early-warning
+- Lost 3 outdoor long rides + all swim Wk26-27
+- 1:50 swim and 6:00 bike targets retired
+
+**Critical Learnings (carried into Taper + Race):**
+1. **Gut is the new ceiling, not HR.** 80g/h works for 4h then watch tolerance. Switch to fluid+sodium only if it goes.
+2. **Cadence is the bonk tell.** Cruise 75-80, if it drops to 70, back off 5-10W and refuel.
+3. **Pace by HR + RPE outdoors** (no power meter on outdoor bike).
+4. **Sleep is the #1 taper priority**, Garmin Readiness flagged Poor in Wk28.
+5. **Anaerobic Shortage** flagged by Garmin, taper addresses with short hard openers (1min reps, strides).
+
+---
+
+## Current Cycle
+
+### Taper (Weeks 29-30)
+
+**Status:** Current | See [weeks-taper.md](weeks-taper.md) for full plan.
+
+- Wk29 ~8h, Wk30 ~1.5h training + race day
+- Two anaerobic openers (Tue bike + Thu run) Wk29 to address Garmin shortage
+- Final nutrition rehearsal Wk29 Sat (3h outdoor race-pace)
+- CSS retest Wk29 Wed to refine swim target
 - **Race Day: Sunday, June 7, 2026**
