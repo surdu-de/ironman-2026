@@ -1,0 +1,25 @@
+{
+  "date": "2026-06-07",
+  "city": "Hamburg",
+  "targets": {
+    "swim": "1:55:00",
+    "bike": "6:30:00",
+    "run": "4:30:00",
+    "total": "13:00-13:30"
+  },
+  "baseline2024": {
+    "swim": "1:57:53",
+    "bike": "7:17:16",
+    "run": "4:51:28",
+    "total": "14:24:58"
+  },
+  "ftpW": 255,
+  "weightKg": 87,
+  "wPerKg": 2.93,
+  "notes": [
+    "Gut is the new ceiling. 80g/h carbs works for 4h; watch tolerance after 4-5h.",
+    "Cadence is the bonk tell: cruise 75-80; if it drops to 70, back off 5-10W.",
+    "Outdoor bike pacing by HR + RPE (no power meter outdoors).",
+    "1:50 swim and 6:00 bike targets retired after wrist fracture."
+  ]
+}

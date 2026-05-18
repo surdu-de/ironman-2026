@@ -1,0 +1,203 @@
+[
+  {
+    "number": 1,
+    "phase": "Base Building",
+    "weeks": [1, 4],
+    "dates": "Nov 10 - Dec 7, 2025",
+    "goals": ["Establish baseline", "Build aerobic base", "Volume tolerance"],
+    "results": [
+      { "metric": "FTP", "baseline": "195W", "end": "220W", "change": "+25W (+13%)" },
+      { "metric": "CSS", "baseline": "2:33/100m", "end": "2:27/100m", "change": "+6s faster" },
+      { "metric": "Run Threshold", "baseline": "4:48/km", "end": "4:35/km", "change": "+13s/km faster" }
+    ],
+    "achievements": [
+      "Major FTP improvement (+13%)",
+      "All tests completed",
+      "Volume tolerance established"
+    ],
+    "challenges": [],
+    "learnings": [],
+    "status": "completed"
+  },
+  {
+    "number": 2,
+    "phase": "Endurance Development",
+    "weeks": [5, 8],
+    "dates": "Dec 8 - Jan 4",
+    "goals": ["Extend endurance base", "Maintain through holidays"],
+    "results": [
+      { "metric": "Long Bike", "baseline": "2h30", "end": "3h+", "change": "+30min" },
+      { "metric": "Long Run", "baseline": "1h45", "end": "2h+", "change": "+15min" }
+    ],
+    "achievements": [
+      "Extended endurance base",
+      "Consistency through holidays",
+      "Upgraded threshold work over VO2max"
+    ],
+    "challenges": ["Wk8 recovery violated (tempo in recovery)", "Holiday disruptions"],
+    "learnings": [],
+    "status": "completed"
+  },
+  {
+    "number": 3,
+    "phase": "Threshold Development",
+    "weeks": [9, 12],
+    "dates": "Jan 5 - Feb 1",
+    "goals": ["FTP test", "Push threshold work", "Long sessions"],
+    "results": [
+      { "metric": "FTP", "baseline": "220W", "end": "225W", "change": "+5W (+2.3%)" },
+      { "metric": "Long Bike", "baseline": "3h", "end": "4h03 (125km)", "change": "+1h" },
+      { "metric": "Long Run", "baseline": "2h", "end": "2h30 (24.7km)", "change": "+30min" }
+    ],
+    "achievements": [
+      "FTP test 225W",
+      "Long bike peak 4h03 / 125.6km",
+      "2h run in heavy snow"
+    ],
+    "challenges": ["Wk10 overreach (15h40)", "Anaerobic deficit flagged by Garmin"],
+    "learnings": [
+      "Weekly cap: 12h max",
+      "2 swims/week max (life constraint)",
+      "No extensions when feeling good; bank energy",
+      "Add anaerobic work",
+      "Use Garmin for daily readiness"
+    ],
+    "status": "completed"
+  },
+  {
+    "number": 4,
+    "phase": "FTP & VO2max Development",
+    "weeks": [13, 16],
+    "dates": "Feb 2 - Mar 1",
+    "goals": ["FTP +15W", "160km long bike", "Continued swim build"],
+    "results": [
+      { "metric": "FTP", "baseline": "225W", "end": "240W", "change": "+15W (+6.7%)" },
+      { "metric": "Long Bike", "baseline": "125km", "end": "161.3km (5h18)", "change": "+36km" },
+      { "metric": "Long Run", "baseline": "2h30 (24.7km)", "end": "2h46 (27.6km)", "change": "+16min" },
+      { "metric": "CSS", "baseline": "2:23", "end": "2:17", "change": "+6s faster" }
+    ],
+    "achievements": [
+      "160km long bike target",
+      "FTP jumped to 240W",
+      "Hamburg ROUVY course x2"
+    ],
+    "challenges": [
+      "Wk13 lost to illness (42% volume)",
+      "HR discipline failed on long runs (155 avg vs 148 cap)",
+      "Swim consistency dropped",
+      "Wk16 recovery violated (9h50 vs 6h)"
+    ],
+    "learnings": [],
+    "status": "completed"
+  },
+  {
+    "number": 5,
+    "phase": "Race-Specific Training",
+    "weeks": [17, 20],
+    "dates": "Mar 2-29",
+    "goals": ["180km long bike", "27km long run", "FTP test"],
+    "results": [
+      { "metric": "Long Bike Peak", "end": "182km / 6h04 (Wk19)" },
+      { "metric": "Long Run Peak", "end": "27km / 2h43 (Wk19)" },
+      { "metric": "FTP", "end": "Not cleanly tested" }
+    ],
+    "achievements": [
+      "Both peak targets hit despite food poisoning",
+      "HR discipline: long run 143 avg / long bike 133 avg",
+      "5,000m swim block in Wk18",
+      "First respected recovery week (Wk20 ~6h)"
+    ],
+    "challenges": [
+      "Food poisoning Wk19 lost Fri+Sat",
+      "No clean FTP test",
+      "Bike intensity sessions skipped"
+    ],
+    "learnings": [],
+    "status": "completed"
+  },
+  {
+    "number": 6,
+    "phase": "Peak Development",
+    "weeks": [21, 24],
+    "dates": "Mar 30 - Apr 26",
+    "goals": ["200km long bike", "30km long run", "FTP test"],
+    "results": [
+      { "metric": "Long Bike Peak", "end": "220km / 7h05 (Wk23, +20km)" },
+      { "metric": "Long Run Peak", "end": "30km Wk22 (one week early)" },
+      { "metric": "FTP", "end": "Not tested (3 cycles without)" }
+    ],
+    "achievements": [
+      "220km peak ride at NP 155W, HR 134 avg",
+      "30km run Wk22 with Dragos",
+      "All Tue threshold bikes executed clean",
+      "Swim volume rebuilt 0/4.1/6.6/2.75 km"
+    ],
+    "challenges": [
+      "HR discipline failed on long runs (Dragos pacing)",
+      "Wk24 recovery not respected (~11h vs 7h)",
+      "Brick run skipped after 220km",
+      "No formal FTP test"
+    ],
+    "learnings": [
+      "FTP test must be scheduled (Wk26 mid-week)",
+      "Long runs solo through Wk28",
+      "Recovery week intensity cap",
+      "220km trainer ≠ 180km outdoor",
+      "Brick runs non-negotiable"
+    ],
+    "status": "completed"
+  },
+  {
+    "number": 7,
+    "phase": "Final Build",
+    "weeks": [25, 28],
+    "dates": "Apr 27 - May 24",
+    "goals": ["FTP 255-265W", "Outdoor 180km benchmark", "Body weight 89→85 kg"],
+    "results": [
+      { "metric": "FTP", "end": "255W (Wk26 clean test, 2.93 W/kg)" },
+      { "metric": "Outdoor 180km", "end": "Cancelled (wrist fracture)" },
+      { "metric": "Body weight", "baseline": "89 kg", "end": "87 kg", "change": "-2kg" },
+      { "metric": "Long ride peak", "end": "Wk27 6h30 indoor race-sim" },
+      { "metric": "Long run peak", "end": "Wk27 31km @ HR 145" }
+    ],
+    "achievements": [
+      "Clean FTP 255W at lower weight",
+      "VO2max climbed to 53 (Excellent)",
+      "HRV 117ms rising into taper",
+      "Cardio not the bottleneck (Wk27 31km @ HR 145)",
+      "Adapted training around cast"
+    ],
+    "challenges": [
+      "Wrist fracture May 2 (cast May 5-19)",
+      "Gut wall confirmed at 4-5h with 80g/h carbs",
+      "Cadence collapse at 5h30",
+      "Lost 3 outdoor long rides + all swim Wk26-27",
+      "1:50 swim and 6:00 bike targets retired"
+    ],
+    "learnings": [
+      "Gut is the new ceiling, not HR",
+      "Cadence is the bonk tell (cruise 75-80)",
+      "Pace by HR + RPE outdoors (no outdoor power)",
+      "Sleep is #1 taper priority",
+      "Address anaerobic shortage with short hard openers"
+    ],
+    "status": "completed"
+  },
+  {
+    "number": "taper",
+    "phase": "Taper + Race",
+    "weeks": [29, 30],
+    "dates": "May 25 - Jun 7",
+    "goals": [
+      "Address Garmin anaerobic shortage",
+      "Final nutrition rehearsal",
+      "CSS retest to refine swim target",
+      "Race Sunday June 7"
+    ],
+    "results": [],
+    "achievements": [],
+    "challenges": [],
+    "learnings": [],
+    "status": "current"
+  }
+]

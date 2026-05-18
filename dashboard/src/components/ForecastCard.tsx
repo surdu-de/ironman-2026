@@ -1,0 +1,51 @@
+import { computeForecast } from '../lib/forecast'
+import race from '../data/race.json'
+
+const rowDef: { key: 'swim' | 'bike' | 'run' | 'total'; label: string; color: string }[] = [
+  { key: 'swim', label: 'Swim 3.8km', color: 'text-cyan-400' },
+  { key: 'bike', label: 'Bike 180km', color: 'text-orange-400' },
+  { key: 'run', label: 'Run 42.2km', color: 'text-green-400' },
+  { key: 'total', label: 'Total', color: 'text-fuchsia-300' },
+]
+
+export function ForecastCard() {
+  const f = computeForecast()
+  return (
+    <section
+      data-testid="forecast-card"
+      className="rounded-2xl border border-slate-800 bg-slate-900/50 p-4 md:p-6"
+    >
+      <div className="flex items-baseline justify-between">
+        <h2 className="text-base font-medium md:text-lg 2xl:text-2xl">Race-day forecast</h2>
+        <span className="text-xs text-slate-400">Target {race.targets.total}</span>
+      </div>
+      <div className="mt-3 overflow-hidden rounded-xl border border-slate-800">
+        <table className="w-full text-xs md:text-sm 2xl:text-base">
+          <thead className="bg-slate-900/60 text-slate-400">
+            <tr>
+              <th className="px-3 py-2 text-left font-medium">Split</th>
+              <th className="px-3 py-2 text-right font-medium">Cautious</th>
+              <th className="px-3 py-2 text-right font-medium">Target</th>
+              <th className="px-3 py-2 text-right font-medium">Stretch</th>
+            </tr>
+          </thead>
+          <tbody>
+            {rowDef.map((r) => (
+              <tr key={r.key} className="border-t border-slate-800" data-testid={`forecast-${r.key}`}>
+                <td className={`px-3 py-2 font-medium ${r.color}`}>{r.label}</td>
+                <td className="px-3 py-2 text-right tabular-nums text-slate-300">{f[r.key].cautious}</td>
+                <td className="px-3 py-2 text-right tabular-nums text-slate-100">{f[r.key].target}</td>
+                <td className="px-3 py-2 text-right tabular-nums text-slate-300">{f[r.key].stretch}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <ul className="mt-3 space-y-1 text-xs text-slate-400">
+        {f.assumptions.map((a, i) => (
+          <li key={i}>· {a}</li>
+        ))}
+      </ul>
+    </section>
+  )
+}
