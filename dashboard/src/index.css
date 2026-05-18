@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-swim: #06b6d4;
+  --color-bike: #f97316;
+  --color-run: #22c55e;
+  --color-brand: #aa3bff;
+}
+
+html,
+body,
+#root {
+  min-height: 100svh;
+  margin: 0;
+  background: #0b0d12;
+  color: #e5e7eb;
+  font-family: system-ui, "Segoe UI", Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
