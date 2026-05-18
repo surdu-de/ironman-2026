@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weeks-cycle-7.md",
+                "file": "weeks-cycle-7-current.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "weeks-cycle-7"
+              "title": "weeks-cycle-7-current"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weeks-cycle-5-current.md",
+                "file": "weeks-cycle-7-current.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of weeks-cycle-5-current"
+              "title": "Outline of weeks-cycle-7-current"
             }
           },
           {
@@ -182,34 +182,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "c58501afaf31614c",
+  "active": "cf3924ff11898257",
   "lastOpenFiles": [
-    "weeks-cycle-6-current.md",
-    "weeks-cycle-5.md",
-    "weeks-cycle-7.md",
-    "weeks-cycle-6.md",
-    "weeks-cycle-5-current.md",
-    "weeks-cycle-3.md",
-    "weeks-cycle-4.md",
-    "weeks-cycle-2.md",
-    "weeks-cycle-1.md",
+    "dashboard/mobile-check.png",
+    "dashboard/volume-milestones2.png",
+    "dashboard/volume-milestones.png",
+    "layout-filter.png",
+    "layout-b-full.png",
+    "layout-b.png",
+    "charts-full.png",
+    "charts-check3.png",
+    "charts-check2.png",
+    "charts-check.png",
     "weeks-taper.md",
+    "weeks-cycle-6.md",
+    "weeks-cycle-7-current.md",
+    "weeks-cycle-5.md",
+    "weeks-cycle-4.md",
+    "weeks-cycle-3.md",
+    "weeks-cycle-2.md",
+    "dashboard/README.md",
+    "dashboard/CLAUDE.md",
+    "weeks-cycle-1.md",
+    "dashboard/src/components/SwimPaceChart.tsx",
+    "dashboard/src/components/RunHrPaceChart.tsx",
+    "dashboard/src/components/BikeHrChart.tsx",
     "cycles.md",
-    "weeks-cycle-4-current.md",
-    "CLAUDE.md",
-    "weeks/week-01.md",
-    "weeks/week-12.md",
-    "nutrition-strategy.md",
-    "cycles/cycle-4-threshold-work.md",
-    "cycles/cycle-7-final-build.md",
-    "cycles/cycle-6-peak-development.md",
-    "cycles/cycle-5-race-specific.md",
-    "performance-data.md",
-    "chats/chat-opus-cycle-3-summary-and-next-cycles.md",
-    "current-week.md",
-    "cycles/cycle-3-strength-integration.md",
-    "training-constraints.md",
-    "backlog/PROJECT-PLAN.md",
-    "chats"
+    "dashboard/dist/index.html",
+    "dashboard/dist/assets/index-NIERtcFd.js",
+    "dashboard/dist/assets/index-BCogOsjf.css",
+    "dashboard/dist/assets",
+    "dashboard/dist/favicon.svg",
+    "dashboard/dist",
+    "dashboard/filter-bike.yaml",
+    "dashboard/src/components/CycleList.tsx",
+    "dashboard/node_modules/d3-path/README.md",
+    "dashboard/node_modules/d3-time-format/README.md",
+    "dashboard/node_modules/d3-format/README.md",
+    "dashboard/node_modules/d3-color/README.md",
+    "dashboard/node_modules/internmap/README.md",
+    "dashboard/node_modules/@types/d3-path/README.md",
+    "dashboard/node_modules/@types/d3-color/README.md",
+    "dashboard/node_modules/tapable/README.md",
+    "dashboard/node_modules/graceful-fs/README.md",
+    "dashboard/node_modules/d3-timer/README.md",
+    "dashboard/node_modules/d3-time/README.md",
+    "dashboard/node_modules/d3-shape/README.md",
+    "dashboard/node_modules/d3-scale/README.md",
+    "dashboard/node_modules/d3-interpolate/README.md"
   ]
 }

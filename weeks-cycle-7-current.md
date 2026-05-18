@@ -4,12 +4,12 @@
 
 ## Cycle Goals
 
-| Metric | Start | Target | Status |
-|--------|-------|--------|--------|
-| FTP | 240W (untested) / 250W (Rouvy) | 255-265W | ✅ **255W (Wk26 Tue, May 5)** |
-| Body weight | 89 kg | **86-86.5 kg by Wk28** (revised from 85) | **87 kg (May 18, Wk28 Mon)**, -2kg from cycle start, on track for 86-86.5 by end Wk28 |
-| Outdoor 180km benchmark | none | 6:00-6:15 saddle time | ❌ **Cancelled** (cast May 5-19, trainer only) |
-| Race-pace HR sustainability | 6h at HR 130-135 | 6h at HR 138-142 | Indoor 5h race-sim Wk27 (peak) |
+| Metric                      | Start                          | Target                                   | Status                                                                                |
+| --------------------------- | ------------------------------ | ---------------------------------------- | ------------------------------------------------------------------------------------- |
+| FTP                         | 240W (untested) / 250W (Rouvy) | 255-265W                                 | ✅ **255W (Wk26 Tue, May 5)**                                                          |
+| Body weight                 | 89 kg                          | **86-86.5 kg by Wk28** (revised from 85) | **87 kg (May 18, Wk28 Mon)**, -2kg from cycle start, on track for 86-86.5 by end Wk28 |
+| Outdoor 180km benchmark     | none                           | 6:00-6:15 saddle time                    | ❌ **Cancelled** (cast May 5-19, trainer only)                                         |
+| Race-pace HR sustainability | 6h at HR 130-135               | 6h at HR 138-142                         | Indoor 5h race-sim Wk27 (peak)                                                        |
 
 **Peak Target (revised):** 6h30 trainer ride at race-pace HR 138-142 + 30min brick (Wk27 Sat). Outdoor return only Wk28 Sat (3-4h cautious).
 
@@ -170,14 +170,12 @@ Race-pace targets without watts:
 
 ## Behavioral Guardrails (carrying forward from Cycle 6 failures)
 
-1. **Long runs solo** through Wk28 - no Dragos until openers in Wk29-30. Enforces HR cap of 148.
-2. **No races/social hard efforts** in Cycle 7 - Cycle 6 had a half-marathon in recovery week.
-3. **Brick run is non-negotiable** every weekend Wk26-28. Indoor counts. Don't skip like after the 220km in Cycle 6.
-4. **Sleep gates progression** - if morning HRV / sleep is bad, swap hard for easy.
-5. **No new nutrition products** in Wk29-30.
-6. **Recovery happens in taper** - if Wk26-28 push starts to break the body, drop a hard day, don't muscle through.
-7. **Cast protection (May 5-19)**: no swim, no outdoor bike. Trainer only. If wrist pain spikes during/after a session, stop and reassess, losing race day to re-injury is worse than skipping a workout.
-8. **Friday is "easy by feel"**, replaces rest. HR <140 run or Z1-Z2 spin. Never let it drift into tempo before Sat long ride.
+1. 2. **Brick run is non-negotiable** every weekend Wk26-28. Indoor counts. Don't skip like after the 220km in Cycle 6.
+2. **Sleep gates progression** - if morning HRV / sleep is bad, swap hard for easy.
+3. **No new nutrition products** in Wk29-30.
+4. **Recovery happens in taper** - if Wk26-28 push starts to break the body, drop a hard day, don't muscle through.
+5. **Cast protection (May 5-19)**: no swim, no outdoor bike. Trainer only. If wrist pain spikes during/after a session, stop and reassess, losing race day to re-injury is worse than skipping a workout.
+6. **Friday is "easy by feel"**, replaces rest. HR <140 run or Z1-Z2 spin. Never let it drift into tempo before Sat long ride.
 
 ---
 

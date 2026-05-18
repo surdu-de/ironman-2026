@@ -54,7 +54,7 @@ export function SwimPaceChart() {
             stroke="#06b6d4"
             strokeWidth={2}
             dot={{ r: 3, fill: '#06b6d4' }}
-            connectNulls={false}
+            connectNulls={true}
           />
         </LineChart>
       </ResponsiveContainer>

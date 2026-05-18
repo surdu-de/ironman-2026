@@ -44,7 +44,7 @@ export function BikeHrChart() {
             stroke="#f97316"
             strokeWidth={2}
             dot={{ r: 3, fill: '#f97316' }}
-            connectNulls={false}
+            connectNulls={true}
           />
         </LineChart>
       </ResponsiveContainer>

@@ -9,7 +9,6 @@ import { RunHrPaceChart } from './components/RunHrPaceChart'
 import { SwimPaceChart } from './components/SwimPaceChart'
 import { CompletionChart } from './components/CompletionChart'
 import { ForecastCard } from './components/ForecastCard'
-import { MilestoneTimeline } from './components/MilestoneTimeline'
 import { CycleList } from './components/CycleList'
 
 function App() {
@@ -18,25 +17,46 @@ function App() {
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100">
       <Header />
-      <DisciplineFilter value={filter} onChange={setFilter} />
-      <main className="space-y-4 px-4 py-4 md:px-8 md:py-6 2xl:px-16 2xl:py-10">
-        <div className="grid gap-4 md:grid-cols-2 2xl:grid-cols-3">
-          <VolumeChart filter={filter} />
+
+      {/* Race forecast — hero */}
+      <div className="px-4 pt-4 md:px-8 2xl:px-16">
+        <ForecastCard />
+      </div>
+
+      {/* Global discipline filter */}
+      <div className="px-4 pt-4 md:px-8 2xl:px-16">
+        <DisciplineFilter value={filter} onChange={setFilter} />
+      </div>
+
+      {/* Weekly volume — full width with milestone markers */}
+      <div className="px-4 pt-4 md:px-8 md:pt-6 2xl:px-16">
+        <VolumeChart filter={filter} />
+      </div>
+
+      {/* Training load + Performance trends — two columns */}
+      <div className="grid gap-4 px-4 py-4 md:grid-cols-2 md:px-8 md:py-6 2xl:px-16 2xl:py-6">
+        {/* Left: Training adherence */}
+        <section className="space-y-4">
+          <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">Training adherence</h3>
+          <CompletionChart />
+        </section>
+
+        {/* Right: Performance trends */}
+        <section className="space-y-4">
+          <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">Performance trends</h3>
           {(filter === 'all' || filter === 'bike') && <FtpChart />}
           {(filter === 'all' || filter === 'bike') && <BikeHrChart />}
           {(filter === 'all' || filter === 'run') && <RunHrPaceChart />}
           {(filter === 'all' || filter === 'swim') && <SwimPaceChart />}
-          <CompletionChart />
-          <ForecastCard />
-        </div>
-        <div className="grid gap-4 md:grid-cols-2 2xl:grid-cols-3">
-          <MilestoneTimeline filter={filter} />
-          <div className="md:col-span-1 2xl:col-span-2">
-            <CycleList filter={filter} />
-          </div>
-        </div>
-      </main>
-      <footer className="px-4 pb-8 pt-4 text-center text-xs text-slate-500 md:px-8 2xl:px-16">
+        </section>
+      </div>
+
+      {/* History — cycles */}
+      <div className="px-4 pb-8 md:px-8 2xl:px-16">
+        <CycleList filter={filter} />
+      </div>
+
+      <footer className="px-4 pb-8 text-center text-xs text-slate-500 md:px-8 2xl:px-16">
         Ironman Hamburg 2026 · personal training dashboard
       </footer>
     </div>

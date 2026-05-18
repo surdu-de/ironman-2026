@@ -35,7 +35,7 @@ export function RunHrPaceChart() {
           <XAxis dataKey="week" stroke="#94a3b8" fontSize={11} />
           <YAxis
             yAxisId="hr"
-            stroke="#22c55e"
+            stroke="#ef4444"
             fontSize={11}
             domain={[130, 170]}
             unit=" bpm"
@@ -43,7 +43,7 @@ export function RunHrPaceChart() {
           <YAxis
             yAxisId="pace"
             orientation="right"
-            stroke="#a3e635"
+            stroke="#3b82f6"
             fontSize={11}
             domain={[300, 400]}
             tickFormatter={(v) => secondsToPace(v)}
@@ -64,20 +64,19 @@ export function RunHrPaceChart() {
             yAxisId="hr"
             type="monotone"
             dataKey="hr"
-            stroke="#22c55e"
+            stroke="#ef4444"
             strokeWidth={2}
-            dot={{ r: 3, fill: '#22c55e' }}
-            connectNulls={false}
+            dot={{ r: 3, fill: '#ef4444' }}
+            connectNulls={true}
           />
           <Line
             yAxisId="pace"
             type="monotone"
             dataKey="paceSec"
-            stroke="#a3e635"
+            stroke="#3b82f6"
             strokeWidth={2}
-            strokeDasharray="4 3"
-            dot={{ r: 3, fill: '#a3e635' }}
-            connectNulls={false}
+            dot={{ r: 3, fill: '#3b82f6' }}
+            connectNulls={true}
           />
         </ComposedChart>
       </ResponsiveContainer>

@@ -606,10 +606,10 @@
       "test"
     ],
     "notes": "Tue FTP test (unplanned). Friday bike skipped for recovery.",
-    "longBikeAvgHr": 140,
+    "longBikeAvgHr": 143,
     "longRunAvgHr": 142,
-    "longRunAvgPace": "5:44",
-    "swimAvgPace100m": "2:17"
+    "longRunAvgPace": "6:09",
+    "swimAvgPace100m": "2:20"
   },
   {
     "week": 18,
@@ -868,7 +868,7 @@
     "dateRange": "Apr 27 - May 3",
     "phase": "Build",
     "plannedHours": 12,
-    "actualHours": 11.47,
+    "actualHours": 13.42,
     "swim": {
       "plannedKm": null,
       "actualKm": 3.75,
@@ -876,28 +876,29 @@
     },
     "bike": {
       "plannedKm": 135,
-      "actualKm": 135.07,
-      "estimatedHours": 4.81
+      "actualKm": 206.76,
+      "estimatedHours": 8.27
     },
     "run": {
       "plannedKm": 30,
-      "actualKm": 31.68,
-      "estimatedHours": 4.78
+      "actualKm": 41.68,
+      "estimatedHours": 3.79
     },
     "ftpW": null,
-    "cssPace100m": "2:11",
+    "cssPace100m": null,
     "keySessions": [
-      "Sat: 5h long bike 135km @ 28.0 km/h",
-      "Sun: 2h long run 21km easy"
+      "Sat: long bike 135km / 4h50 @ 28 km/h (cut short by accident)",
+      "Sun: long run 21km / 1h56 @ 5:32",
+      "Mon swim main 750m FR @ 1:59/100m (CSS 2:27 outdated)"
     ],
     "flags": [
       "injury"
     ],
-    "notes": "Wrist fracture May 2 on 5h bike. Heat acclimation needed.",
+    "notes": "Wrist fracture May 2 on long bike. HR drift on long ride driven by heat (28°C), not fitness. Heat acclimation needed.",
     "longBikeAvgHr": 143,
     "longRunAvgHr": 143,
     "longRunAvgPace": "5:32",
-    "swimAvgPace100m": "1:59"
+    "swimAvgPace100m": "2:11"
   },
   {
     "week": 26,
@@ -905,7 +906,7 @@
     "dateRange": "May 4 - May 10",
     "phase": "Build",
     "plannedHours": 14,
-    "actualHours": 11,
+    "actualHours": 13.69,
     "swim": {
       "plannedKm": null,
       "actualKm": 2.2,
@@ -913,29 +914,30 @@
     },
     "bike": {
       "plannedKm": 180,
-      "actualKm": 203,
-      "estimatedHours": 6
+      "actualKm": 213.66,
+      "estimatedHours": 8.55
     },
     "run": {
       "plannedKm": 30,
-      "actualKm": 26,
-      "estimatedHours": 2.5
+      "actualKm": 60.97,
+      "estimatedHours": 5.54
     },
     "ftpW": 255,
     "cssPace100m": null,
     "keySessions": [
-      "Tue: Ramp test FTP 255W (340W MAP)",
-      "Sat: 6h trainer race-sim 203km"
+      "Tue: Ramp test FTP 255W (340W MAP, +15W)",
+      "Sat: 6h10 ROUVY race-sim 177.6km HR 132 + brick run 5km",
+      "Sun: long run 27.2km @ 5:21 HR 148"
     ],
     "flags": [
       "injury",
       "test"
     ],
-    "notes": "Cast on May 5; no outdoor bike; gut shutdown last 1h30.",
-    "longBikeAvgHr": 133,
-    "longRunAvgHr": null,
-    "longRunAvgPace": null,
-    "swimAvgPace100m": null
+    "notes": "Cast on May 5; no outdoor bike post-cast; first clean FTP test in 3 cycles.",
+    "longBikeAvgHr": 132,
+    "longRunAvgHr": 148,
+    "longRunAvgPace": "5:21",
+    "swimAvgPace100m": "2:19"
   },
   {
     "week": 27,
@@ -943,7 +945,7 @@
     "dateRange": "May 11 - May 17",
     "phase": "Peak",
     "plannedHours": 16,
-    "actualHours": 16,
+    "actualHours": 13.46,
     "swim": {
       "plannedKm": 0,
       "actualKm": 0,
@@ -951,13 +953,13 @@
     },
     "bike": {
       "plannedKm": 210,
-      "actualKm": 226.57,
-      "estimatedHours": 8.05
+      "actualKm": 256.57,
+      "estimatedHours": 10.26
     },
     "run": {
       "plannedKm": 59,
-      "actualKm": 52.13,
-      "estimatedHours": 7.88
+      "actualKm": 56.73,
+      "estimatedHours": 5.16
     },
     "ftpW": null,
     "cssPace100m": null,
