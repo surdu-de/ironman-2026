@@ -41,7 +41,7 @@ export interface Milestone {
   date: string
   week: number
   discipline: Discipline | 'all'
-  type: 'test' | 'peak' | 'injury' | 'phase' | 'race'
+  type: 'test' | 'peak' | 'injury' | 'illness' | 'phase' | 'race'
   label: string
   value?: string
   significance: 'major' | 'minor'

@@ -5,6 +5,7 @@ const typeColor: Record<string, string> = {
   test: 'bg-orange-500',
   peak: 'bg-amber-500',
   injury: 'bg-red-500',
+  illness: 'bg-yellow-500',
   phase: 'bg-slate-400',
   race: 'bg-fuchsia-500',
 }
