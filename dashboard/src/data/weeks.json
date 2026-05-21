@@ -5,21 +5,21 @@
     "dateRange": "Nov 10-16",
     "phase": "Build",
     "plannedHours": 8.08,
-    "actualHours": 10.45,
+    "actualHours": 9.55,
     "swim": {
       "plannedKm": 3.6,
       "actualKm": 2.9,
-      "estimatedHours": 1.21
+      "estimatedHours": 1.97
     },
     "bike": {
       "plannedKm": 115,
-      "actualKm": 134.6,
-      "estimatedHours": 5.38
+      "actualKm": 134.56,
+      "estimatedHours": 4.52
     },
     "run": {
       "plannedKm": 19,
-      "actualKm": 26.4,
-      "estimatedHours": 4.01
+      "actualKm": 26.37,
+      "estimatedHours": 3.06
     },
     "ftpW": null,
     "cssPace100m": null,
@@ -40,21 +40,21 @@
     "dateRange": "Nov 17-23",
     "phase": "Build",
     "plannedHours": 11.5,
-    "actualHours": 8.42,
+    "actualHours": 7.97,
     "swim": {
       "plannedKm": 2.6,
       "actualKm": 1.4,
-      "estimatedHours": 0.58
+      "estimatedHours": 0.88
     },
     "bike": {
       "plannedKm": 100,
-      "actualKm": 128,
-      "estimatedHours": 5.12
+      "actualKm": 153.32,
+      "estimatedHours": 4.77
     },
     "run": {
       "plannedKm": 30,
-      "actualKm": 20,
-      "estimatedHours": 3.03
+      "actualKm": 20.25,
+      "estimatedHours": 2.32
     },
     "ftpW": 207,
     "cssPace100m": null,
@@ -77,21 +77,21 @@
     "dateRange": "Nov 24-30",
     "phase": "Peak",
     "plannedHours": 12.75,
-    "actualHours": 11.85,
+    "actualHours": 9.84,
     "swim": {
       "plannedKm": 2.7,
-      "actualKm": 0,
-      "estimatedHours": 0
+      "actualKm": 0.0,
+      "estimatedHours": 0.0
     },
     "bike": {
       "plannedKm": 160,
-      "actualKm": 195,
-      "estimatedHours": 7.8
+      "actualKm": 164.41,
+      "estimatedHours": 6.26
     },
     "run": {
       "plannedKm": 33,
-      "actualKm": 35,
-      "estimatedHours": 5.33
+      "actualKm": 34.99,
+      "estimatedHours": 3.58
     },
     "ftpW": null,
     "cssPace100m": null,
@@ -151,21 +151,21 @@
     "dateRange": "Dec 8-14",
     "phase": "Build",
     "plannedHours": 11.33,
-    "actualHours": 10.28,
+    "actualHours": 9.08,
     "swim": {
       "plannedKm": null,
       "actualKm": 3.3,
-      "estimatedHours": 1.38
+      "estimatedHours": 1.96
     },
     "bike": {
       "plannedKm": null,
-      "actualKm": 118,
-      "estimatedHours": 4.72
+      "actualKm": 118.39,
+      "estimatedHours": 4.1
     },
     "run": {
       "plannedKm": 29.8,
-      "actualKm": 29.8,
-      "estimatedHours": 4.52
+      "actualKm": 29.84,
+      "estimatedHours": 3.02
     },
     "ftpW": 220,
     "cssPace100m": "2:27",
@@ -293,21 +293,21 @@
     "dateRange": "Jan 5-11",
     "phase": "Build",
     "plannedHours": 10.5,
-    "actualHours": 8.58,
+    "actualHours": 9.92,
     "swim": {
       "plannedKm": null,
       "actualKm": 1.95,
-      "estimatedHours": 0.81
+      "estimatedHours": 1.0
     },
     "bike": {
       "plannedKm": null,
-      "actualKm": 125.6,
-      "estimatedHours": 5.02
+      "actualKm": 156.94,
+      "estimatedHours": 5.81
     },
     "run": {
       "plannedKm": null,
-      "actualKm": 28.7,
-      "estimatedHours": 2.61
+      "actualKm": 29.63,
+      "estimatedHours": 3.11
     },
     "ftpW": 225,
     "cssPace100m": null,
@@ -330,21 +330,21 @@
     "dateRange": "Jan 12-18",
     "phase": "Build",
     "plannedHours": 12.58,
-    "actualHours": 15.67,
+    "actualHours": 14.77,
     "swim": {
       "plannedKm": null,
       "actualKm": 2.08,
-      "estimatedHours": 0.88
+      "estimatedHours": 1.31
     },
     "bike": {
       "plannedKm": null,
-      "actualKm": 231.2,
-      "estimatedHours": 9.25
+      "actualKm": 231.72,
+      "estimatedHours": 8.53
     },
     "run": {
       "plannedKm": null,
-      "actualKm": 47.8,
-      "estimatedHours": 4.35
+      "actualKm": 47.94,
+      "estimatedHours": 4.93
     },
     "ftpW": null,
     "cssPace100m": null,
@@ -365,7 +365,7 @@
     "dateRange": "Jan 19-25",
     "phase": "Peak",
     "plannedHours": 14.08,
-    "actualHours": 10.67,
+    "actualHours": 10.71,
     "swim": {
       "plannedKm": null,
       "actualKm": 1.25,
@@ -373,13 +373,13 @@
     },
     "bike": {
       "plannedKm": null,
-      "actualKm": 125.6,
-      "estimatedHours": 5.02
+      "actualKm": 190.56,
+      "estimatedHours": 6.22
     },
     "run": {
       "plannedKm": null,
-      "actualKm": 24.7,
-      "estimatedHours": 2.25
+      "actualKm": 37.5,
+      "estimatedHours": 3.86
     },
     "ftpW": null,
     "cssPace100m": null,
@@ -509,21 +509,21 @@
     "dateRange": "Feb 16-22",
     "phase": "Peak",
     "plannedHours": 12,
-    "actualHours": 12.3,
+    "actualHours": 12.45,
     "swim": {
       "plannedKm": 3.3,
-      "actualKm": 2.7,
-      "estimatedHours": 1.14
+      "actualKm": 2.73,
+      "estimatedHours": 1.74
     },
     "bike": {
       "plannedKm": 160,
-      "actualKm": 216.5,
-      "estimatedHours": 8.66
+      "actualKm": 216.53,
+      "estimatedHours": 7.94
     },
     "run": {
       "plannedKm": 18,
-      "actualKm": 27.6,
-      "estimatedHours": 4.18
+      "actualKm": 27.64,
+      "estimatedHours": 2.77
     },
     "ftpW": null,
     "cssPace100m": "2:17",
@@ -580,21 +580,21 @@
     "dateRange": "Mar 2-8",
     "phase": "Build",
     "plannedHours": 11.7,
-    "actualHours": 10.9,
+    "actualHours": 12.93,
     "swim": {
       "plannedKm": 0.6,
       "actualKm": 3.55,
-      "estimatedHours": 1.48
+      "estimatedHours": 1.86
     },
     "bike": {
       "plannedKm": 140,
-      "actualKm": 140.6,
-      "estimatedHours": 5.63
+      "actualKm": 174.52,
+      "estimatedHours": 6.15
     },
     "run": {
       "plannedKm": 20,
-      "actualKm": 39.5,
-      "estimatedHours": 3.59
+      "actualKm": 49.65,
+      "estimatedHours": 4.92
     },
     "ftpW": 240,
     "cssPace100m": "2:12",
@@ -617,21 +617,21 @@
     "dateRange": "Mar 9-15",
     "phase": "Build",
     "plannedHours": 12.85,
-    "actualHours": 11.33,
+    "actualHours": 13.05,
     "swim": {
       "plannedKm": 0.75,
       "actualKm": 6.63,
-      "estimatedHours": 2.76
+      "estimatedHours": 2.81
     },
     "bike": {
       "plannedKm": 160,
-      "actualKm": 175.1,
-      "estimatedHours": 7
+      "actualKm": 175.12,
+      "estimatedHours": 6.02
     },
     "run": {
       "plannedKm": 23,
-      "actualKm": 45,
-      "estimatedHours": 4.09
+      "actualKm": 45.0,
+      "estimatedHours": 4.22
     },
     "ftpW": 240,
     "cssPace100m": "2:11",
@@ -650,24 +650,24 @@
   {
     "week": 19,
     "cycle": 5,
-    "dateRange": "Mar 16-23",
+    "dateRange": "Mar 16-22",
     "phase": "Peak",
     "plannedHours": 15,
-    "actualHours": 13.02,
+    "actualHours": 11.71,
     "swim": {
       "plannedKm": 0.6,
-      "actualKm": 1,
-      "estimatedHours": 0.42
+      "actualKm": 1.78,
+      "estimatedHours": 1.49
     },
     "bike": {
       "plannedKm": 180,
-      "actualKm": 227,
-      "estimatedHours": 9.08
+      "actualKm": 227.06,
+      "estimatedHours": 8.54
     },
     "run": {
       "plannedKm": 27,
-      "actualKm": 44.5,
-      "estimatedHours": 4.04
+      "actualKm": 17.41,
+      "estimatedHours": 1.68
     },
     "ftpW": 240,
     "cssPace100m": "2:11",
@@ -690,21 +690,21 @@
     "dateRange": "Mar 23-29",
     "phase": "Recovery",
     "plannedHours": 6,
-    "actualHours": 5.87,
+    "actualHours": 9.58,
     "swim": {
       "plannedKm": null,
       "actualKm": 1.6,
-      "estimatedHours": 0.67
+      "estimatedHours": 0.91
     },
     "bike": {
       "plannedKm": 70,
-      "actualKm": 122.6,
-      "estimatedHours": 4.9
+      "actualKm": 122.63,
+      "estimatedHours": 3.76
     },
     "run": {
       "plannedKm": 12,
-      "actualKm": 23.6,
-      "estimatedHours": 2.15
+      "actualKm": 50.6,
+      "estimatedHours": 4.91
     },
     "ftpW": null,
     "cssPace100m": "2:08",
@@ -726,21 +726,21 @@
     "dateRange": "Mar 30 - Apr 5",
     "phase": "Build",
     "plannedHours": 12.33,
-    "actualHours": 11.98,
+    "actualHours": 12.87,
     "swim": {
       "plannedKm": null,
-      "actualKm": 0,
-      "estimatedHours": 0
+      "actualKm": 2.0,
+      "estimatedHours": 0.89
     },
     "bike": {
       "plannedKm": 160,
-      "actualKm": 231.7,
-      "estimatedHours": 9.27
+      "actualKm": 231.67,
+      "estimatedHours": 7.39
     },
     "run": {
       "plannedKm": 22,
-      "actualKm": 47.1,
-      "estimatedHours": 7.17
+      "actualKm": 47.07,
+      "estimatedHours": 4.59
     },
     "ftpW": null,
     "cssPace100m": null,
@@ -763,21 +763,21 @@
     "dateRange": "Apr 6 - Apr 12",
     "phase": "Build",
     "plannedHours": 13.5,
-    "actualHours": 13.9,
+    "actualHours": 15.06,
     "swim": {
       "plannedKm": 1.6,
       "actualKm": 4.15,
-      "estimatedHours": 1.74
+      "estimatedHours": 1.93
     },
     "bike": {
       "plannedKm": 180,
-      "actualKm": 217.2,
-      "estimatedHours": 8.69
+      "actualKm": 240.96,
+      "estimatedHours": 7.96
     },
     "run": {
       "plannedKm": 25,
-      "actualKm": 55.7,
-      "estimatedHours": 8.47
+      "actualKm": 55.66,
+      "estimatedHours": 5.17
     },
     "ftpW": null,
     "cssPace100m": null,
@@ -798,21 +798,21 @@
     "dateRange": "Apr 13 - Apr 19",
     "phase": "Peak",
     "plannedHours": 15.67,
-    "actualHours": 16.67,
+    "actualHours": 9.59,
     "swim": {
       "plannedKm": null,
       "actualKm": 6.6,
-      "estimatedHours": 2.76
+      "estimatedHours": 2.9
     },
     "bike": {
       "plannedKm": 200,
-      "actualKm": 260.7,
-      "estimatedHours": 10.43
+      "actualKm": 40.65,
+      "estimatedHours": 2.0
     },
     "run": {
       "plannedKm": 30,
-      "actualKm": 46.6,
-      "estimatedHours": 7.07
+      "actualKm": 46.61,
+      "estimatedHours": 4.69
     },
     "ftpW": null,
     "cssPace100m": null,
@@ -832,21 +832,21 @@
     "dateRange": "Apr 20 - Apr 26",
     "phase": "Recovery",
     "plannedHours": 7,
-    "actualHours": 11.12,
+    "actualHours": 17.66,
     "swim": {
       "plannedKm": null,
       "actualKm": 2.75,
-      "estimatedHours": 1.15
+      "estimatedHours": 1.68
     },
     "bike": {
       "plannedKm": 80,
-      "actualKm": 156.8,
-      "estimatedHours": 6.27
+      "actualKm": 376.77,
+      "estimatedHours": 12.83
     },
     "run": {
       "plannedKm": 12,
-      "actualKm": 35.01,
-      "estimatedHours": 5.33
+      "actualKm": 35.02,
+      "estimatedHours": 3.15
     },
     "ftpW": null,
     "cssPace100m": null,
@@ -868,21 +868,21 @@
     "dateRange": "Apr 27 - May 3",
     "phase": "Build",
     "plannedHours": 12,
-    "actualHours": 13.42,
+    "actualHours": 13.44,
     "swim": {
       "plannedKm": null,
       "actualKm": 3.75,
-      "estimatedHours": 1.56
+      "estimatedHours": 1.85
     },
     "bike": {
       "plannedKm": 135,
-      "actualKm": 206.76,
-      "estimatedHours": 8.27
+      "actualKm": 216.76,
+      "estimatedHours": 7.82
     },
     "run": {
       "plannedKm": 30,
       "actualKm": 41.68,
-      "estimatedHours": 3.79
+      "estimatedHours": 3.77
     },
     "ftpW": null,
     "cssPace100m": null,
@@ -906,21 +906,21 @@
     "dateRange": "May 4 - May 10",
     "phase": "Build",
     "plannedHours": 14,
-    "actualHours": 13.69,
+    "actualHours": 14.04,
     "swim": {
       "plannedKm": null,
       "actualKm": 2.2,
-      "estimatedHours": 0.92
+      "estimatedHours": 1.0
     },
     "bike": {
       "plannedKm": 180,
       "actualKm": 213.66,
-      "estimatedHours": 8.55
+      "estimatedHours": 7.58
     },
     "run": {
       "plannedKm": 30,
       "actualKm": 60.97,
-      "estimatedHours": 5.54
+      "estimatedHours": 5.46
     },
     "ftpW": 255,
     "cssPace100m": null,
