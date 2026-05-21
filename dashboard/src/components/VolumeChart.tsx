@@ -22,6 +22,15 @@ const typeColorHex: Record<string, string> = {
   race: '#d946ef',
 }
 
+const typeEmoji: Record<string, string> = {
+  test: '⚡',
+  peak: '📈',
+  injury: '⚠️',
+  illness: '🤒',
+  phase: '🏁',
+  race: '🏆',
+}
+
 const typePriority = ['race', 'injury', 'test', 'peak', 'illness', 'phase']
 
 const milestonesByWeek: Record<number, typeof milestones> = {}
@@ -38,9 +47,43 @@ function MilestoneDot(props: {
   const { cx, cy, payload } = props
   if (!payload?.milestoneType || cx == null || cy == null) return null
   const color = typeColorHex[payload.milestoneType] ?? '#94a3b8'
+  const emoji = typeEmoji[payload.milestoneType] ?? '📍'
+
+  // Position the floating badge 26px above the top of the bar
+  const badgeHeight = 26
+  const badgeY = cy - badgeHeight
+
   return (
     <g>
-      <circle cx={cx} cy={cy - 14} r={10} fill={color} stroke="#0f172a" strokeWidth={1.5} />
+      {/* Thin dashed guideline from top of bar to the badge */}
+      <line
+        x1={cx}
+        y1={cy}
+        x2={cx}
+        y2={badgeY}
+        stroke={color}
+        strokeWidth={1.5}
+        strokeDasharray="3 3"
+      />
+      {/* Badge outer circle ring */}
+      <circle
+        cx={cx}
+        cy={badgeY}
+        r={12}
+        fill="#0b0d12"
+        stroke={color}
+        strokeWidth={2}
+      />
+      {/* Icon/Emoji */}
+      <text
+        x={cx}
+        y={badgeY + 4}
+        textAnchor="middle"
+        fontSize={11}
+        className="select-none"
+      >
+        {emoji}
+      </text>
     </g>
   )
 }
@@ -77,7 +120,7 @@ function CustomTooltip(props: {
       )}
       {ms.map((m, i) => (
         <p key={i} style={{ color: typeColorHex[m.type] ?? '#94a3b8', marginTop: 2 }}>
-          {m.label}
+          {typeEmoji[m.type] ?? '📍'} {m.label}
           {'value' in m && m.value ? ` — ${m.value}` : ''}
         </p>
       ))}
@@ -111,6 +154,15 @@ export function VolumeChart({ filter }: { filter: Filter }) {
     }
   })
 
+  // Weeks that carry at least one (filtered) milestone, for the timeline strip
+  const timelineWeeks = weeks.filter((w) => {
+    const ms = milestonesByWeek[w.week] ?? []
+    const filteredMs = filter === 'all'
+      ? ms
+      : ms.filter((m) => m.discipline === filter || m.discipline === 'all')
+    return filteredMs.length > 0
+  })
+
   return (
     <section
       data-testid="volume-chart"
@@ -125,14 +177,14 @@ export function VolumeChart({ filter }: { filter: Filter }) {
             Markers: {Object.entries(typeColorHex).map(([type, color], i) => (
               <span key={type}>
                 {i > 0 && ' · '}
-                <span style={{ color }}>{type}</span>
+                <span style={{ color }}>{typeEmoji[type]} {type}</span>
               </span>
             ))}
           </p>
         </div>
       </div>
-      <ResponsiveContainer width="100%" height={280}>
-        <ComposedChart data={data} margin={{ top: 24, right: 8, left: -16, bottom: 0 }}>
+      <ResponsiveContainer width="100%" height={300}>
+        <ComposedChart data={data} margin={{ top: 32, right: 8, left: -16, bottom: 0 }}>
           <CartesianGrid stroke="#1f2937" strokeDasharray="3 3" />
           <XAxis dataKey="week" stroke="#94a3b8" fontSize={11} />
           <YAxis stroke="#94a3b8" fontSize={11} unit="h" />
@@ -152,6 +204,55 @@ export function VolumeChart({ filter }: { filter: Filter }) {
           />
         </ComposedChart>
       </ResponsiveContainer>
+
+      {/* Dedicated Milestone Timeline Strip */}
+      <div className="mt-6 border-t border-slate-800 pt-4">
+        <div className="mb-3 flex items-center justify-between">
+          <h3 className="text-xs font-semibold uppercase tracking-wider text-slate-400">
+            Season Milestones Timeline
+          </h3>
+          <span className="text-[10px] text-slate-500">Scroll horizontally →</span>
+        </div>
+        <div className="flex gap-3 overflow-x-auto pb-2 scrollbar-thin">
+          {timelineWeeks.map((w) => {
+            const ms = milestonesByWeek[w.week] ?? []
+            const filteredMs = filter === 'all'
+              ? ms
+              : ms.filter((m) => m.discipline === filter || m.discipline === 'all')
+
+            return (
+              <div
+                key={w.week}
+                className="w-48 flex-shrink-0 rounded-xl border border-slate-800/80 bg-slate-950/80 p-3 transition hover:border-slate-700"
+              >
+                <div className="mb-2 flex items-center justify-between border-b border-slate-900 pb-1.5">
+                  <span className="text-xs font-bold text-slate-300">Wk {w.week}</span>
+                  <span className="text-[10px] font-medium text-slate-500">{w.dateRange.split(' - ')[0]}</span>
+                </div>
+                <div className="space-y-2">
+                  {filteredMs.map((m, idx) => (
+                    <div key={idx} className="space-y-0.5">
+                      <div className="flex items-start gap-1.5">
+                        <span className="mt-0.5 shrink-0 select-none text-xs leading-tight">
+                          {typeEmoji[m.type] ?? '📍'}
+                        </span>
+                        <span className="text-xs font-medium leading-tight text-slate-200">
+                          {m.label}
+                        </span>
+                      </div>
+                      {'value' in m && m.value && (
+                        <p className="pl-5 font-mono text-[10px] leading-normal text-slate-400">
+                          {m.value}
+                        </p>
+                      )}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )
+          })}
+        </div>
+      </div>
     </section>
   )
 }
