@@ -18,11 +18,6 @@ function App() {
     <div className="min-h-screen bg-slate-950 text-slate-100">
       <Header />
 
-      {/* Race forecast — hero */}
-      <div className="px-4 pt-4 md:px-8 2xl:px-16">
-        <ForecastCard />
-      </div>
-
       {/* Global discipline filter */}
       <div className="px-4 pt-4 md:px-8 2xl:px-16">
         <DisciplineFilter value={filter} onChange={setFilter} />
@@ -35,8 +30,10 @@ function App() {
 
       {/* Training load + Performance trends — two columns */}
       <div className="grid gap-4 px-4 py-4 md:grid-cols-2 md:px-8 md:py-6 2xl:px-16 2xl:py-6">
-        {/* Left: Training adherence */}
+        {/* Left: Race forecast + Training adherence */}
         <section className="space-y-4">
+          <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">Race-day forecast</h3>
+          <ForecastCard />
           <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">Training adherence</h3>
           <CompletionChart />
         </section>

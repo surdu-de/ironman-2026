@@ -16,8 +16,7 @@ export function ForecastCard() {
       className="rounded-2xl border border-slate-800 bg-slate-900/50 p-4 md:p-6"
     >
       <div className="flex items-baseline justify-between">
-        <h2 className="text-base font-medium md:text-lg 2xl:text-2xl">Race-day forecast</h2>
-        <span className="text-xs text-slate-400">Target {race.targets.total}</span>
+        <h2 className="text-base font-medium md:text-lg 2xl:text-2xl">Total Time Target: {race.targets.total}</h2>
       </div>
       <div className="mt-3 overflow-hidden rounded-xl border border-slate-800">
         <table className="w-full text-xs md:text-sm 2xl:text-base">
