@@ -13,6 +13,10 @@ permissions:
   pages: write
   id-token: write
 
+env:
+  # Opt actions into the Node 24 runtime ahead of the June 2, 2026 forced switch
+  ACTIONS_RUNNER_FORCE_ACTIONS_NODE_VERSION: node24
+
 concurrency:
   group: pages
   cancel-in-progress: true
