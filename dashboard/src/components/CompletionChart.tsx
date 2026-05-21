@@ -11,12 +11,23 @@ import {
 } from 'recharts'
 import weeks from '../data/weeks.json'
 
-const data = weeks.map((w) => ({
-  week: w.week,
-  planned: w.plannedHours ?? 0,
-  actual: w.actualHours ?? 0,
-  compliance: w.plannedHours && w.actualHours ? Math.round((w.actualHours / w.plannedHours) * 100) : null,
-}))
+const data = weeks.map((w) => {
+  // Actual volume must match the Weekly volume chart: sum of per-discipline
+  // estimated hours, not the standalone actualHours field (which drifts).
+  const hasData =
+    w.swim.estimatedHours != null ||
+    w.bike.estimatedHours != null ||
+    w.run.estimatedHours != null
+  const actual = hasData
+    ? (w.swim.estimatedHours ?? 0) + (w.bike.estimatedHours ?? 0) + (w.run.estimatedHours ?? 0)
+    : null
+  return {
+    week: w.week,
+    planned: w.plannedHours ?? 0,
+    actual,
+    compliance: w.plannedHours && actual ? Math.round((actual / w.plannedHours) * 100) : null,
+  }
+})
 
 export function CompletionChart() {
   return (
@@ -38,8 +49,8 @@ export function CompletionChart() {
             labelFormatter={(w) => `Week ${w}`}
           />
           <Legend wrapperStyle={{ fontSize: 12 }} />
-          <Bar dataKey="planned" fill="#334155" />
-          <Line type="monotone" dataKey="actual" stroke="#aa3bff" strokeWidth={2} dot={{ r: 3 }} />
+          <Bar dataKey="actual" fill="#334155" />
+          <Line type="monotone" dataKey="planned" stroke="#aa3bff" strokeWidth={2} dot={{ r: 3 }} />
         </ComposedChart>
       </ResponsiveContainer>
     </section>
