@@ -1,10 +1,58 @@
 @import "tailwindcss";
 
-@theme {
+/* Brand tokens. Dark mode is the default; light mode mirrors via prefers-color-scheme. */
+:root {
+  --bg: #1e1e1e;
+  --surface: #252525;
+  --border: #333333;
+  --text: #ffffff;
+  --muted: #b0b0b0;
+  --faint: #808080;
+
+  /* Semantic, same role in both modes */
+  --success: #4caf7d;
+  --info: #6b9bd2;
+  --danger: #e05c4b;
+  --highlight: #c9970a;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    --bg: #f5f0e8;
+    --surface: #ede8df;
+    --border: #ccc6bb;
+    --text: #1a1a1a;
+    --muted: #555555;
+    --faint: #888888;
+
+    --success: #3a8c63;
+    --info: #4f7cb0;
+    --danger: #c0432f;
+    --highlight: #a87c08;
+  }
+}
+
+@theme inline {
+  /* Discipline hues stay distinct (swim/bike/run keep their identity) */
   --color-swim: #06b6d4;
   --color-bike: #f97316;
   --color-run: #22c55e;
-  --color-brand: #aa3bff;
+
+  /* Shell + semantic tokens reference the runtime vars so light/dark flips for free */
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-border: var(--border);
+  --color-text: var(--text);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-success: var(--success);
+  --color-info: var(--info);
+  --color-danger: var(--danger);
+  --color-highlight: var(--highlight);
+  --color-brand: var(--highlight);
+
+  --font-sans: "Inter", system-ui, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, "SFMono-Regular", monospace;
 }
 
 html,
@@ -12,8 +60,8 @@ body,
 #root {
   min-height: 100svh;
   margin: 0;
-  background: #0b0d12;
-  color: #e5e7eb;
-  font-family: system-ui, "Segoe UI", Roboto, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
   -webkit-font-smoothing: antialiased;
 }

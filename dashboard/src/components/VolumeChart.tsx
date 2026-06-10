@@ -18,8 +18,8 @@ const typeColorHex: Record<string, string> = {
   peak: '#f59e0b',
   injury: '#ef4444',
   illness: '#eab308',
-  phase: '#94a3b8',
-  race: '#d946ef',
+  phase: 'var(--color-muted)',
+  race: 'var(--color-highlight)',
 }
 
 const typeEmoji: Record<string, string> = {
@@ -46,7 +46,7 @@ function MilestoneDot(props: {
 }) {
   const { cx, cy, payload } = props
   if (!payload?.milestoneType || cx == null || cy == null) return null
-  const color = typeColorHex[payload.milestoneType] ?? '#94a3b8'
+  const color = typeColorHex[payload.milestoneType] ?? 'var(--color-muted)'
   const emoji = typeEmoji[payload.milestoneType] ?? '📍'
 
   // Position the floating badge 26px above the top of the bar
@@ -70,7 +70,7 @@ function MilestoneDot(props: {
         cx={cx}
         cy={badgeY}
         r={12}
-        fill="#0b0d12"
+        fill="var(--color-bg)"
         stroke={color}
         strokeWidth={2}
       />
@@ -101,25 +101,25 @@ function CustomTooltip(props: {
   return (
     <div
       style={{
-        background: '#0f172a',
-        border: '1px solid #1e293b',
+        background: 'var(--color-surface)',
+        border: '1px solid var(--color-border)',
         padding: '8px 12px',
         borderRadius: 8,
         fontSize: 12,
         maxWidth: 260,
       }}
     >
-      <p style={{ color: '#e2e8f0', marginBottom: 4, fontWeight: 600 }}>Week {label}</p>
+      <p style={{ color: 'var(--color-text)', marginBottom: 4, fontWeight: 600 }}>Week {label}</p>
       {volumeRows.map((p) => (
         <p key={p.dataKey} style={{ color: p.fill }}>
           {p.dataKey}: {Number(p.value).toFixed(1)}h
         </p>
       ))}
       {ms.length > 0 && (
-        <hr style={{ borderColor: '#1e293b', margin: '6px 0' }} />
+        <hr style={{ borderColor: 'var(--color-border)', margin: '6px 0' }} />
       )}
       {ms.map((m, i) => (
-        <p key={i} style={{ color: typeColorHex[m.type] ?? '#94a3b8', marginTop: 2 }}>
+        <p key={i} style={{ color: typeColorHex[m.type] ?? 'var(--color-muted)', marginTop: 2 }}>
           {typeEmoji[m.type] ?? '📍'} {m.label}
           {'value' in m && m.value ? ` — ${m.value}` : ''}
         </p>
@@ -166,14 +166,14 @@ export function VolumeChart({ filter }: { filter: Filter }) {
   return (
     <section
       data-testid="volume-chart"
-      className="rounded-2xl border border-slate-800 bg-slate-900/50 p-4 md:p-6"
+      className="rounded-2xl border border-border bg-surface/50 p-4 md:p-6"
     >
       <div className="mb-3 flex flex-wrap items-start justify-between gap-2">
         <div>
           <h2 className="text-base font-medium md:text-lg 2xl:text-2xl">
             Weekly volume (hours, estimated by discipline)
           </h2>
-          <p className="mt-0.5 text-xs text-slate-400">
+          <p className="mt-0.5 text-xs text-muted">
             Markers: {Object.entries(typeColorHex).map(([type, color], i) => (
               <span key={type}>
                 {i > 0 && ' · '}
@@ -185,9 +185,9 @@ export function VolumeChart({ filter }: { filter: Filter }) {
       </div>
       <ResponsiveContainer width="100%" height={300}>
         <ComposedChart data={data} margin={{ top: 32, right: 8, left: -16, bottom: 0 }}>
-          <CartesianGrid stroke="#1f2937" strokeDasharray="3 3" />
-          <XAxis dataKey="week" stroke="#94a3b8" fontSize={11} />
-          <YAxis stroke="#94a3b8" fontSize={11} unit="h" />
+          <CartesianGrid stroke="var(--color-border)" strokeDasharray="3 3" />
+          <XAxis dataKey="week" stroke="var(--color-muted)" fontSize={11} />
+          <YAxis stroke="var(--color-muted)" fontSize={11} unit="h" />
           <Tooltip content={<CustomTooltip />} />
           <Legend wrapperStyle={{ fontSize: 12 }} />
           {show('swim') && <Bar dataKey="swim" stackId="v" fill="#06b6d4" />}
@@ -206,12 +206,12 @@ export function VolumeChart({ filter }: { filter: Filter }) {
       </ResponsiveContainer>
 
       {/* Dedicated Milestone Timeline Strip */}
-      <div className="mt-6 border-t border-slate-800 pt-4">
+      <div className="mt-6 border-t border-border pt-4">
         <div className="mb-3 flex items-center justify-between">
-          <h3 className="text-xs font-semibold uppercase tracking-wider text-slate-400">
+          <h3 className="text-xs font-semibold uppercase tracking-wider text-muted">
             Season Milestones Timeline
           </h3>
-          <span className="text-[10px] text-slate-500">Scroll horizontally →</span>
+          <span className="text-[10px] text-faint">Scroll horizontally →</span>
         </div>
         <div className="flex gap-3 overflow-x-auto pb-2 scrollbar-thin">
           {timelineWeeks.map((w) => {
@@ -223,11 +223,11 @@ export function VolumeChart({ filter }: { filter: Filter }) {
             return (
               <div
                 key={w.week}
-                className="w-48 flex-shrink-0 rounded-xl border border-slate-800/80 bg-slate-950/80 p-3 transition hover:border-slate-700"
+                className="w-48 flex-shrink-0 rounded-xl border border-border/80 bg-bg/80 p-3 transition hover:border-border"
               >
-                <div className="mb-2 flex items-center justify-between border-b border-slate-900 pb-1.5">
-                  <span className="text-xs font-bold text-slate-300">Wk {w.week}</span>
-                  <span className="text-[10px] font-medium text-slate-500">{w.dateRange.split(' - ')[0]}</span>
+                <div className="mb-2 flex items-center justify-between border-b border-surface pb-1.5">
+                  <span className="text-xs font-bold text-muted">Wk {w.week}</span>
+                  <span className="text-[10px] font-medium text-faint">{w.dateRange.split(' - ')[0]}</span>
                 </div>
                 <div className="space-y-2">
                   {filteredMs.map((m, idx) => (
@@ -236,12 +236,12 @@ export function VolumeChart({ filter }: { filter: Filter }) {
                         <span className="mt-0.5 shrink-0 select-none text-xs leading-tight">
                           {typeEmoji[m.type] ?? '📍'}
                         </span>
-                        <span className="text-xs font-medium leading-tight text-slate-200">
+                        <span className="text-xs font-medium leading-tight text-text">
                           {m.label}
                         </span>
                       </div>
                       {'value' in m && m.value && (
-                        <p className="pl-5 font-mono text-[10px] leading-normal text-slate-400">
+                        <p className="pl-5 font-mono text-[10px] leading-normal text-muted">
                           {m.value}
                         </p>
                       )}

@@ -16,7 +16,7 @@ function App() {
   const [filter, setFilter] = useState<Filter>('all')
 
   return (
-    <div className="min-h-screen bg-slate-950 text-slate-100">
+    <div className="min-h-screen bg-bg text-text">
       <Header />
 
       {/* Global discipline filter */}
@@ -33,17 +33,17 @@ function App() {
       <div className="grid gap-4 px-4 py-4 md:grid-cols-2 md:px-8 md:py-6 2xl:px-16 2xl:py-6">
         {/* Left: Race result + Training adherence */}
         <section className="space-y-4">
-          <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">
+          <h3 className="text-xs font-semibold uppercase tracking-widest text-faint">
             {race.result ? 'Race result' : 'Race-day forecast'}
           </h3>
           <ForecastCard />
-          <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">Training adherence</h3>
+          <h3 className="text-xs font-semibold uppercase tracking-widest text-faint">Training adherence</h3>
           <CompletionChart />
         </section>
 
         {/* Right: Performance trends */}
         <section className="space-y-4">
-          <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">Performance trends</h3>
+          <h3 className="text-xs font-semibold uppercase tracking-widest text-faint">Performance trends</h3>
           {(filter === 'all' || filter === 'bike') && <FtpChart />}
           {(filter === 'all' || filter === 'bike') && <BikeHrChart />}
           {(filter === 'all' || filter === 'run') && <RunHrPaceChart />}
@@ -56,7 +56,7 @@ function App() {
         <CycleList filter={filter} />
       </div>
 
-      <footer className="px-4 pb-8 text-center text-xs text-slate-500 md:px-8 2xl:px-16">
+      <footer className="px-4 pb-8 text-center text-xs text-faint md:px-8 2xl:px-16">
         Ironman Hamburg 2026 · personal training dashboard
       </footer>
     </div>

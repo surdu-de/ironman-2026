@@ -21,18 +21,18 @@ export function RunHrPaceChart() {
   return (
     <section
       data-testid="run-hr-pace-chart"
-      className="rounded-2xl border border-slate-800 bg-slate-900/50 p-4 md:p-6"
+      className="rounded-2xl border border-border bg-surface/50 p-4 md:p-6"
     >
       <h2 className="text-base font-medium md:text-lg 2xl:text-2xl">
         Long run HR &amp; pace
       </h2>
-      <p className="mt-1 text-xs text-slate-400 md:text-sm">
+      <p className="mt-1 text-xs text-muted md:text-sm">
         HR cap 148 bpm; pace on right axis (lower = faster)
       </p>
       <ResponsiveContainer width="100%" height={240}>
         <ComposedChart data={data} margin={{ top: 16, right: 0, left: -16, bottom: 0 }}>
-          <CartesianGrid stroke="#1f2937" strokeDasharray="3 3" />
-          <XAxis dataKey="week" stroke="#94a3b8" fontSize={11} />
+          <CartesianGrid stroke="var(--color-border)" strokeDasharray="3 3" />
+          <XAxis dataKey="week" stroke="var(--color-muted)" fontSize={11} />
           <YAxis
             yAxisId="hr"
             stroke="#ef4444"
@@ -50,8 +50,8 @@ export function RunHrPaceChart() {
             reversed
           />
           <Tooltip
-            contentStyle={{ background: '#0f172a', border: '1px solid #1e293b' }}
-            labelStyle={{ color: '#e2e8f0' }}
+            contentStyle={{ background: 'var(--color-surface)', border: '1px solid var(--color-border)' }}
+            labelStyle={{ color: 'var(--color-text)' }}
             labelFormatter={(w) => `Week ${w}`}
             formatter={(value, name) => {
               const v = Number(value)
@@ -59,7 +59,7 @@ export function RunHrPaceChart() {
               return [`${v} bpm`, 'HR']
             }}
           />
-          <ReferenceLine yAxisId="hr" y={148} stroke="#475569" strokeDasharray="4 4" label={{ value: 'Cap 148', fill: '#64748b', fontSize: 10 }} />
+          <ReferenceLine yAxisId="hr" y={148} stroke="var(--color-faint)" strokeDasharray="4 4" label={{ value: 'Cap 148', fill: 'var(--color-faint)', fontSize: 10 }} />
           <Line
             yAxisId="hr"
             type="monotone"
