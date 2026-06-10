@@ -50,9 +50,9 @@ export function CycleList({ filter }: { filter: Filter }) {
                         {c.results.map((r, i) => (
                           <li key={i}>
                             <span className="text-muted">{r.metric}:</span>{' '}
-                            {r.baseline && <span className="text-faint">{r.baseline} → </span>}
+                            {'baseline' in r && r.baseline && <span className="text-faint">{r.baseline} → </span>}
                             <span>{r.end}</span>{' '}
-                            {r.change && <span className="text-faint">({r.change})</span>}
+                            {'change' in r && r.change && <span className="text-faint">({r.change})</span>}
                           </li>
                         ))}
                       </ul>
