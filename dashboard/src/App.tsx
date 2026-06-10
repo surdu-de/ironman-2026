@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import type { Filter } from './data/schema'
+import race from './data/race.json'
 import { Header } from './components/Header'
 import { DisciplineFilter } from './components/DisciplineFilter'
 import { VolumeChart } from './components/VolumeChart'
@@ -30,9 +31,11 @@ function App() {
 
       {/* Training load + Performance trends — two columns */}
       <div className="grid gap-4 px-4 py-4 md:grid-cols-2 md:px-8 md:py-6 2xl:px-16 2xl:py-6">
-        {/* Left: Race forecast + Training adherence */}
+        {/* Left: Race result + Training adherence */}
         <section className="space-y-4">
-          <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">Race-day forecast</h3>
+          <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">
+            {race.result ? 'Race result' : 'Race-day forecast'}
+          </h3>
           <ForecastCard />
           <h3 className="text-xs font-semibold uppercase tracking-widest text-slate-500">Training adherence</h3>
           <CompletionChart />

@@ -982,35 +982,40 @@
     "dateRange": "May 18 - May 24",
     "phase": "Sharpen",
     "plannedHours": 9,
-    "actualHours": null,
+    "actualHours": 8.9,
     "swim": {
       "plannedKm": 2.5,
-      "actualKm": null,
-      "estimatedHours": null
+      "actualKm": 1.85,
+      "estimatedHours": 0.77
     },
     "bike": {
       "plannedKm": 90,
-      "actualKm": null,
-      "estimatedHours": null
+      "actualKm": 73.97,
+      "estimatedHours": 2.96
     },
     "run": {
       "plannedKm": 30,
-      "actualKm": null,
-      "estimatedHours": null
+      "actualKm": 57.12,
+      "estimatedHours": 5.19
     },
     "ftpW": null,
     "cssPace100m": null,
     "keySessions": [
-      "Cast off May 19",
-      "Thu: 5K or 30min run TT",
-      "Sat/Sun: first outdoor 3h bike"
+      "Tue: cast off, run 5x3min 3:59-4:29",
+      "Thu: run 5x4min, new HR ceiling 184 max",
+      "Wed: first swim post-cast 1,850m @ 2:07/100m",
+      "Sat: first outdoor ride post-accident 33km @ HR 142 (wrist bracer)"
     ],
-    "flags": [],
-    "notes": "Cast off May 19; cautious return to outdoor cycling.",
-    "longBikeAvgHr": null,
-    "longRunAvgHr": null,
-    "longRunAvgPace": null,
-    "swimAvgPace100m": null
+    "flags": [
+      "cast off",
+      "first swim post-cast",
+      "first outdoor ride"
+    ],
+    "notes": "Cast removed May 19. First swim and first outdoor ride since the May 2 accident, both pain-free. CSS test skipped (too little swim volume); Wk25 indicators stand.",
+    "longBikeAvgHr": 142,
+    "longRunAvgHr": 150,
+    "longRunAvgPace": "5:37",
+    "swimAvgPace100m": "2:07"
   },
   {
     "week": 29,
@@ -1018,34 +1023,34 @@
     "dateRange": "May 25 - May 31",
     "phase": "Taper",
     "plannedHours": 8,
-    "actualHours": null,
+    "actualHours": 7.5,
     "swim": {
       "plannedKm": null,
-      "actualKm": null,
-      "estimatedHours": null
+      "actualKm": 0.14,
+      "estimatedHours": 0.06
     },
     "bike": {
       "plannedKm": null,
-      "actualKm": null,
-      "estimatedHours": null
+      "actualKm": 92.97,
+      "estimatedHours": 3.72
     },
     "run": {
       "plannedKm": null,
-      "actualKm": null,
-      "estimatedHours": null
+      "actualKm": 41.22,
+      "estimatedHours": 3.75
     },
     "ftpW": null,
     "cssPace100m": null,
     "keySessions": [
-      "CSS retest (Wed)",
-      "Anaerobic openers Tue+Thu",
-      "3h race-pace nutrition rehearsal Sat"
+      "Wed: run tempo 12km @ 5:02, 9km block at HR 158-165",
+      "Fri: 2h bike + 28min brick run, mixed fuel",
+      "Sat: long run 16.85km @ 5:21 HR 149"
     ],
     "flags": [],
-    "notes": "Two anaerobic openers; final nutrition rehearsal.",
-    "longBikeAvgHr": null,
-    "longRunAvgHr": null,
-    "longRunAvgPace": null,
+    "notes": "Wrist came free; two outdoor rides with no wrist issue, including a brick. Open-water swim aborted, water too cold. CSS test not done (no clean pool slot). Actuals skewed to running.",
+    "longBikeAvgHr": 138,
+    "longRunAvgHr": 149,
+    "longRunAvgPace": "5:21",
     "swimAvgPace100m": null
   },
   {
@@ -1054,32 +1059,37 @@
     "dateRange": "Jun 1 - Jun 7",
     "phase": "Race Week",
     "plannedHours": 1.5,
-    "actualHours": null,
+    "actualHours": 7.8,
     "swim": {
       "plannedKm": null,
-      "actualKm": null,
-      "estimatedHours": null
+      "actualKm": 5.17,
+      "estimatedHours": 2.15
     },
     "bike": {
       "plannedKm": null,
-      "actualKm": null,
-      "estimatedHours": null
+      "actualKm": 134.3,
+      "estimatedHours": 5.37
     },
     "run": {
       "plannedKm": null,
-      "actualKm": null,
-      "estimatedHours": null
+      "actualKm": 3.41,
+      "estimatedHours": 0.31
     },
     "ftpW": null,
     "cssPace100m": null,
     "keySessions": [
-      "Race Day: Sunday June 7"
+      "Race swim 3.8km @ 1:51:19 (beat 1:55 target)",
+      "Race bike stopped at 120km (~4:55, HR 132)",
+      "Fri: last pool swim 1.25km @ 2:20/100m"
     ],
-    "flags": [],
-    "notes": "Race day Sunday June 7, 2026.",
-    "longBikeAvgHr": null,
+    "flags": [
+      "race",
+      "DNF"
+    ],
+    "notes": "Ironman Hamburg, DNF at 120km. Swim beat target. Bike on plan (HR 132) until a loose TT bar plus a sabotaged course (metal shards, hundreds of flats, no spare tubes left) forced a deliberate stop at 120km. Run did not start. Not a fitness or pacing failure.",
+    "longBikeAvgHr": 132,
     "longRunAvgHr": null,
     "longRunAvgPace": null,
-    "swimAvgPace100m": null
+    "swimAvgPace100m": "2:50"
   }
 ]

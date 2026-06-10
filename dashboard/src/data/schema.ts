@@ -51,6 +51,22 @@ export interface Milestone {
   significance: 'major' | 'minor'
 }
 
+export interface RaceResultSplit {
+  discipline: 'Swim' | 'Bike' | 'Run' | 'Total'
+  target: string
+  actual: string | null
+  beatTarget?: boolean
+}
+
+export interface RaceResult {
+  outcome: string
+  outcomeDetail: string
+  conditions: string
+  cause: string
+  splits: RaceResultSplit[]
+  notes: string[]
+}
+
 export interface Race {
   date: string
   city: string
@@ -70,4 +86,5 @@ export interface Race {
   weightKg: number
   wPerKg: number
   notes: string[]
+  result?: RaceResult
 }

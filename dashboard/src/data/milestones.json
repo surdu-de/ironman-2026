@@ -23,5 +23,5 @@
   { "date": "2026-05-17", "week": 27, "discipline": "run", "type": "peak", "label": "Long run", "value": "31km @ 5:19/km HR 145", "significance": "major" },
   { "date": "2026-05-19", "week": 28, "discipline": "all", "type": "phase", "label": "Cast off", "significance": "major" },
   { "date": "2026-05-25", "week": 29, "discipline": "all", "type": "phase", "label": "Taper start", "significance": "major" },
-  { "date": "2026-06-07", "week": 30, "discipline": "all", "type": "race", "label": "Ironman Hamburg", "value": "Target 13:00-13:30", "significance": "major" }
+  { "date": "2026-06-07", "week": 30, "discipline": "all", "type": "race", "label": "Ironman Hamburg, DNF at 120km", "value": "Swim 1:51:19 (beat target), Bike DNF at 120km, sabotaged course + weather", "significance": "major" }
 ]

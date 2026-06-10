@@ -181,7 +181,7 @@
       "Sleep is #1 taper priority",
       "Address anaerobic shortage with short hard openers"
     ],
-    "status": "current"
+    "status": "completed"
   },
   {
     "number": "taper",
@@ -194,10 +194,27 @@
       "CSS retest to refine swim target",
       "Race Sunday June 7"
     ],
-    "results": [],
-    "achievements": [],
-    "challenges": [],
-    "learnings": [],
-    "status": "upcoming"
+    "results": [
+      { "metric": "Swim", "end": "1:51:19 (beat 1:55 target)" },
+      { "metric": "Bike", "end": "DNF at 120km (~4:55, HR 132)" },
+      { "metric": "Run", "end": "Did not start" }
+    ],
+    "achievements": [
+      "Swim beat target (2:50/100m, faster than Frankfurt 2024)",
+      "HR controlled and in the race band on the bike (132)",
+      "Deliberate safety call to stop, not a blow-up"
+    ],
+    "challenges": [
+      "Rain and wind all day, cold and wet on the bike",
+      "TT bars came loose around km 10",
+      "Course sabotage, metal shards caused hundreds of flats",
+      "Crew ran out of spare tubes, no second tube available",
+      "Wrist not fully healed from the May 2 fracture"
+    ],
+    "learnings": [
+      "Switch to a tubeless setup, riders on tubeless finished",
+      "DNF was conditions and sabotage, not fitness, fueling, or pacing"
+    ],
+    "status": "completed"
   }
 ]

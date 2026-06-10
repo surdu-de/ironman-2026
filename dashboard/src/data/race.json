@@ -21,5 +21,24 @@
     "Cadence is the bonk tell: cruise 75-80; if it drops to 70, back off 5-10W.",
     "Outdoor bike pacing by HR + RPE (no power meter outdoors).",
     "1:50 swim and 6:00 bike targets retired after wrist fracture."
-  ]
+  ],
+  "result": {
+    "outcome": "DNF",
+    "outcomeDetail": "Stopped at 120km on the bike",
+    "conditions": "Rain and wind most of the day, poor road surface",
+    "cause": "Course sabotage (metal shards, hundreds of flats) plus a loose TT bar and a wrist not fully healed. Not fitness, fueling, or pacing.",
+    "splits": [
+      { "discipline": "Swim", "target": "1:55:00", "actual": "1:51:19", "beatTarget": true },
+      { "discipline": "Bike", "target": "6:30:00", "actual": "DNF at 120km (~4:55)" },
+      { "discipline": "Run", "target": "4:30:00", "actual": null },
+      { "discipline": "Total", "target": "13:00-13:30", "actual": null }
+    ],
+    "notes": [
+      "Swim beat target despite a month without swim training (cast). HR 130 avg, controlled.",
+      "Bike HR ran high early (over 160 the first 30min) from cold rain and excitement, then settled to 132 in the race band.",
+      "TT bars worked loose around km 10, then the course was sabotaged with metal shards.",
+      "Stopped at km 120 by choice rather than ride a second lap through the shard zone on tubed tires (crew out of spare tubes). Tubeless riders could continue.",
+      "Forward: switch to a tubeless setup, not giving up on future races."
+    ]
+  }
 }
