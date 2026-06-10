@@ -20,8 +20,14 @@ bun install
 bun dev         # http://localhost:5173/ironman-2026/
 bun run build   # writes dist/
 bun run preview # serve the built dist
-bun tsc --noEmit
+bun run typecheck # tsc -b, the SAME check CI runs in `bun run build`
 ```
+
+Use `bun run typecheck` (not `bun tsc --noEmit`) to verify types locally. The
+root `tsconfig.json` is a solution file with only references, so `tsc --noEmit`
+against it checks nothing real and silently passes. CI runs `tsc -b` via
+`bun run build`, which builds the app project and catches errors the looser
+check misses. Keep local and CI on `tsc -b` so they can't drift.
 
 ## Data workflow
 
