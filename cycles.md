@@ -1,6 +1,6 @@
 # Ironman Hamburg 2026 - Training Cycles
 
-**Race:** Sunday, June 7, 2026 | **Duration:** 30 weeks | **Current:** Week 28 (end of Cycle 7, entering Taper)
+**Race:** Sunday, June 7, 2026, **DNF at 120km** (course sabotage + conditions) | **Duration:** 30 weeks | **Status:** Project complete
 
 ## Target vs Baseline
 
@@ -26,7 +26,8 @@
 | 5 | 17-20 | Mar 2-29 | Race-Specific | 180km | Completed |
 | 6 | 21-24 | Mar 30 - Apr 26 | Peak | 220km | Completed |
 | 7 | 25-28 | Apr 27 - May 24 | Final Build | 6h30 indoor race-sim (gut wall 4-5h) | Completed |
-| **Taper** | **29-30** | **May 25 - Jun 7** | **Pre-Race** | **Reduced** | **Current** |
+| Taper | 29-30 | May 25 - Jun 7 | Pre-Race | Reduced | Completed |
+| **Race** | **Jun 7** | **Ironman Hamburg** | **Race Day** | **120km** | **DNF (sabotage + conditions)** |
 
 **Testing Weeks:** 4, 12, 20, 28
 
@@ -257,14 +258,19 @@
 
 ---
 
-## Current Cycle
+## Race Outcome (Jun 7, 2026)
 
-### Taper (Weeks 29-30)
+**Ironman Hamburg, DNF at 120km on the bike.** Day ended by course conditions and a sabotage event, not by the body or the plan. Full log in [weeks-taper.md](weeks-taper.md).
 
-**Status:** Current | See [weeks-taper.md](weeks-taper.md) for full plan.
+| Leg | Result | vs Target |
+|-----|--------|-----------|
+| Swim 3.8km | **1:51:19** (2:50/100m, HR 130 avg) | Beat 1:55 target |
+| Bike | **DNF at 120km** (~4:55, 22-24 km/h, HR 132 avg) | On-plan HR when it ended |
+| Run | Did not start | - |
 
-- Wk29 ~8h, Wk30 ~1.5h training + race day
-- Two anaerobic openers (Tue bike + Thu run) Wk29 to address Garmin shortage
-- Final nutrition rehearsal Wk29 Sat (3h outdoor race-pace)
-- CSS retest Wk29 Wed to refine swim target
-- **Race Day: Sunday, June 7, 2026**
+- Conditions: rain and wind most of the day, poor road surface.
+- Swim under target, controlled HR. A month without swim training (cast) cost a couple of minutes, otherwise a strong leg.
+- Bike HR ran high early (>160 first 30min) from cold, rain, and excitement, not effort. Settled to 132, inside the race band.
+- **DNF causes, all outside fitness:** TT bars came loose ~km 10; then course sabotage (metal shards) flatted hundreds of riders; fixed a flat with help but lost the day. Stopped at km 120 by choice rather than ride a second lap through the shard zone on tubed tires (crew out of spare tubes, wrist not fully healed). Tubeless riders could continue.
+- The gut-wall and bike-pacing risks that dominated the plan never got tested. Forward: switch to tubeless, not giving up on future races.
+- 30-week project closed here. Next goal decided separately.

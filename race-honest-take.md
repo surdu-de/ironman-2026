@@ -1,6 +1,6 @@
 # Hamburg 2026 - Honest Take
 
-**Written:** Apr 29, 2026 (Wk25, Cycle 7 day 3) | **Updated:** May 18, 2026 (Wk28, cast comes off May 19) | **Race:** Sun Jun 7, 2026
+**Written:** Apr 29, 2026 (Wk25, Cycle 7 day 3) | **Updated:** Jun 10, 2026 (post-race) | **Race:** Sun Jun 7, 2026, **DNF at 120km (course sabotage + conditions)**
 
 A reality check on the goal vs the data. Re-read before each big decision week.
 
@@ -128,3 +128,4 @@ Chose the more aggressive structure. Real risks:
 
 - *Apr 29: Document created. Today's pyramid at FTP 250W is the first FTP signal.*
 - *Apr 29 (PM): Pyramid executed clean. 10min peak @ 225W, HR 151 (90% FTP 250). All 7 work intervals on target, NP 200W for the hour. **Positive signal that 250W FTP is real.** Yesterday's bail = sleep. Wk26 ramp test now has a credible floor.*
+- *Jun 10 (post-race): Ironman Hamburg ended in a **DNF at 120km on the bike**, for reasons outside fitness. Swim 1:51:19 beat the 1:55 target with a controlled HR 130 (a month without swim training cost a couple of minutes). Bike HR ran high early from cold rain and excitement (>160 first 30min at near-zero effort), then settled to 132 in the race band. The day came apart from conditions and bad luck: rain and wind, TT bars working loose around km 10, and a **sabotaged course (metal shards) that flatted hundreds of riders** with the crew out of spare tubes. Fixed a flat with help, then chose to stop at km 120 rather than ride a second lap through the shard zone on tubed tires with a wrist still not fully healed. Tubeless riders could continue. None of the things this document worried about (pacing discipline, the 4-5h gut wall, run blow-up) got the chance to play out. The fitness arrived. At peace with the calls made. Forward: switch to tubeless, don't give up on future races. Full result in `weeks-taper.md`.*
